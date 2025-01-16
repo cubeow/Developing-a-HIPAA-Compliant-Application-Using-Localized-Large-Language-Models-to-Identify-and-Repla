@@ -1,0 +1,315 @@
+INDEX: 0
+['challenging', 'noncompliant', 'uncooperative', 'difficult patient', 'refusing', 'resistant to modifications', 'poor dietary habits', 'cursing at healthcare staff']
+['challenging patient', 'uncooperative behavior', 'noncompliant', 'citing his preferences for junk food', 'frequent cursing at nurses', 'difficult patient', 'challenging interactions', 'unreliable historical recounting', 'refused several exams', 'resistant to modifying his diet', 'complicating our attempts to provide care', 'significant barrier to his care', 'noncompliance has been a significant barrier to his care', "Mohammad's noncompliance has been a significant barrier to his care"]
+['challenging', 'challenging', 'noncompliant', 'uncooperative', 'difficult patient']
+SINGLE NOTE F1 SCORE: 0.35714285714285715
+TOTAL F1 SCORE: 0.35714285714285715
+INDEX: 1
+['noncompliant', 'difficult patient', 'poorly controlled', 'non-focal']
+['uncooperative with blood draws and other procedures', 'pattern of noncompliance', 'refused several exams', 'refused exams and medication administration', 'complicating her treatment plans', 'compliance issues raise concern for her overall management', 'limited our assessment', 'encouraged to address these compliance issues', 'cooperation from both Noel and her family is essential for success']
+[]
+SINGLE NOTE F1 SCORE: 0
+TOTAL F1 SCORE: 0.24390243902439027
+INDEX: 2
+['challenging patient', 'difficult to deal with', 'noncompliant', 'often noncompliant', 'nonadherent', 'contradicting herself', 'resistant during the exam', 'inconsistent in narration', 'difficulty managing her care plan', 'poorly controlled diabetes']
+['challenging patient', 'particularly difficult to deal with', 'noncompliant', 'refusing to answer our questions directly', 'contradicting herself', 'complicating the assessment', 'compliance issues throughout her stay', 'refusing medications', 'declining exams', 'noncompliant behavior', 'delaying discharge', 'difficult']
+['challenging patient', 'difficult to deal with', 'noncompliant', 'noncompliant', 'contradicting herself']
+SINGLE NOTE F1 SCORE: 0.35714285714285715
+TOTAL F1 SCORE: 0.2898550724637681
+INDEX: 3
+['challenging patient', 'difficult patient', 'non-compliant', 'medication adherence issues', 'frequently missed follow-up appointments', 'pattern of medication non-adherence']
+['non-compliant', 'refused examination and medication adjustments', 'difficult and challenging patient', 'cursing at staff', 'displaying inconsistent historical reporting']
+['challenging patient', 'non-compliant']
+SINGLE NOTE F1 SCORE: 0.30769230769230765
+TOTAL F1 SCORE: 0.29268292682926833
+INDEX: 4
+['difficult attitude', 'resistant to dietary advice', 'challenging to manage in terms of medication regimen adherence', 'noncompliant with multiple recommended changes to her lifestyle', 'poorly managed hypertension']
+['difficult attitude towards staff', 'resistant to dietary advice', 'challenging to manage in terms of medication regimen adherence', 'noncompliant with multiple recommended changes to her lifestyle']
+['difficult attitude', 'resistant to dietary advice', 'challenging to manage in terms of medication regimen adherence', 'noncompliant with multiple recommended changes to her lifestyle']
+SINGLE NOTE F1 SCORE: 0.6153846153846154
+TOTAL F1 SCORE: 0.3368421052631579
+INDEX: 5
+['difficult patient', 'noncompliant patient', 'nonadherent to prescribed diabetic medications', 'refuses to modify his diet or follow the medication regimen consistently', 'noncompliant with medications', 'poorly controlled blood glucose levels']
+['difficult and noncompliant patient', 'frequent visitor to our ED', 'demonstrated a pattern of nonadherence to prescribed diabetic medications', 'refuses to modify his diet', 'refused blood work', 'noncompliant with medications', 'appears noncompliant', 'refusal to follow the medical advice', 'noncompliance with diabetes management requirements', 'noncompliant with medications', 'mental status: noncompliant']
+['noncompliant patient', 'noncompliant with medications', 'noncompliant with medications']
+SINGLE NOTE F1 SCORE: 0.2857142857142857
+TOTAL F1 SCORE: 0.3275862068965517
+INDEX: 6
+['challenging patient', 'noncompliant', 'resistant to follow recommended treatments', 'inconsistent use of medication', 'lack of cooperation during hospital stay', 'frequent ED visits']
+['noncompliant with prescribed treatments in the past', 'frequent ED visits for similar symptoms', 'lack of cooperation during his stay', 'resisting routine checks and medications', 'challenging patient due to his past nonadherence', 'refusal to complete exams', 'inconsistent use of medication', 'past nonadherence']
+['challenging patient', 'noncompliant', 'inconsistent use of medication', 'frequent ED visits']
+SINGLE NOTE F1 SCORE: 0.4444444444444444
+TOTAL F1 SCORE: 0.34328358208955223
+INDEX: 7
+['difficult case', 'noncompliant to medical advice', 'vague and contradictory responses', 'reluctant to cooperate during the exam', 'agitated']
+['difficult case', 'noncompliant patient', 'frequent previous admissions for unrelated complaints', 'reluctance to engage in recommended mobilization', 'refusal of initial pain management suggestions', 'reluctance to cooperate during the exam', 'non-cooperation']
+['difficult case']
+SINGLE NOTE F1 SCORE: 0.15384615384615385
+TOTAL F1 SCORE: 0.32653061224489793
+INDEX: 8
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes', 'difficulty adhering to a healthier lifestyle', 'noncompliance with a healthy lifestyle']
+['obesity', 'poorly controlled hypertension', 'medication nonadherence', 'resistant to suggestions for improvement', 'difficulty adhering to a healthier lifestyle', 'appears overweight', 'obese', 'lack of engagement in recommended lifestyle changes', 'resistance to mental health discussions']
+['difficulty adhering to a healthier lifestyle']
+SINGLE NOTE F1 SCORE: 0.11111111111111112
+TOTAL F1 SCORE: 0.30303030303030304
+INDEX: 9
+["challenging due to Mr. Trantow's history of narcotic dependence", 'difficult behavior towards staff', 'resistant to alternative pain management strategies', 'nonadherence to recommended medication adjustments', 'compliance issues']
+['chronic pain', 'history of narcotic dependence', 'resistant to alternative pain management strategies', 'nonadherence to recommended medication adjustments', 'compliance issues', 'chronic pain syndrome', 'relapse into previous narcotic dependency', 'avoid frequent emergency department visits']
+['resistant to alternative pain management strategies', 'nonadherence to recommended medication adjustments', 'compliance issues']
+SINGLE NOTE F1 SCORE: 0.37499999999999994
+TOTAL F1 SCORE: 0.3093922651933702
+INDEX: 10
+['challenging during examination', 'frequently challenging with staff', 'difficult to engage in her own care plan', 'evidence of narcotic dependence complicated her treatment', 'nonadherent']
+['drug overdose', 'previous overdoses', 'narcotic dependence', 'medication nonadherence', 'challenging with staff', 'difficult to engage in her own care plan', 'evidence of narcotic dependence', 'opioid overdose', 'guarded mental status', 'tapering schedule for her narcotic medications', 'substance use disorder treatment']
+['difficult to engage in her own care plan']
+SINGLE NOTE F1 SCORE: 0.11764705882352941
+TOTAL F1 SCORE: 0.29292929292929293
+INDEX: 11
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes']
+['chronic complainer', 'noncompliant with medication regimes', 'refusal to adhere to treatment protocols', 'poorly managed self-care', 'resistance to proposed treatment options', 'uncooperative', 'difficult course', 'frequent noncompliance', 'refusal to adhere to treatment protocols', 'noncompliant', 'requires your cooperation']
+[]
+SINGLE NOTE F1 SCORE: 0
+TOTAL F1 SCORE: 0.2697674418604651
+INDEX: 12
+['challenging', 'resistant', 'difficult patient', 'noncompliant', 'inconsistent', 'poorly controlled', 'chronically ill', 'distressed', 'challenging attitude', 'nonadherent', 'alcoholic', 'significant history of alcohol misuse']
+['nonadherent with her prescribed medication regimen', 'frequently visits the ED for similar complaints', 'history of alcohol misuse ("Alcoholic")', 'described as a difficult patient', 'challenging attitude', 'noncompliant nature', 'alcoholic tendencies', 'poor health status', 'complicated her care management', 'markedly worsened by nonadherence to your prescribed medication regimen', 'alcohol misuse', 'strongly recommended to abstain from alcohol', 'participate fully in these treatments']
+['challenging', 'difficult patient', 'noncompliant', 'challenging attitude', 'nonadherent', 'alcoholic']
+SINGLE NOTE F1 SCORE: 0.3870967741935484
+TOTAL F1 SCORE: 0.28455284552845533
+INDEX: 13
+['challenging to deal with', 'difficult patient', 'narcotic dependency', 'medication nonadherence', 'inconsistent historian']
+['narcotic dependency', 'difficult', 'noncompliant', 'challenging to deal with', 'inconsistent historian', 'medication nonadherence', 'insistent on receiving higher doses of narcotics', 'dependency concerns', 'minimizes narcotic use to help manage your dependency concerns']
+['challenging to deal with', 'narcotic dependency', 'medication nonadherence', 'inconsistent historian']
+SINGLE NOTE F1 SCORE: 0.4444444444444444
+TOTAL F1 SCORE: 0.2954545454545454
+INDEX: 14
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes']
+['poorly managed diabetes', 'pattern of medication nonadherence', 'lack of compliance with dietary restrictions', 'resistant to implementing suggested changes', 'refused examination by the dietitian', 'compliance issues', 'uncontrolled Type 2 Diabetes Mellitus', 'poorly kempt']
+[]
+SINGLE NOTE F1 SCORE: 0
+TOTAL F1 SCORE: 0.28057553956834536
+INDEX: 15
+['challenging', 'resistant', 'difficult', 'noncompliant', 'inconsistent', 'poorly controlled', 'disregarding', 'nonadherent', 'overweight', 'obese']
+['disregarding dietary advice', 'resistant to incorporating suggested healthy lifestyle changes', 'minimal physical activity and poor dietary habits', 'frequently eats processed foods', 'overweight', 'obese', 'noncompliance with medication', 'resistant behavior towards adopting a healthier lifestyle', 'declined to follow through with exercise recommendations', 'making her management challenging', 'history of medication nonadherence', "don't disregard this medical advice"]
+['challenging', 'resistant', 'resistant', 'disregarding', 'overweight', 'obese']
+SINGLE NOTE F1 SCORE: 0.41379310344827586
+TOTAL F1 SCORE: 0.29315960912052114
+INDEX: 16
+['challenging to interact with', 'difficult patient', 'resistant to new medication regimens', 'compliance issues', 'noncompliant', 'medication nonadherence', 'difficulty managing due to compliance issues', 'difficult to manage', 'noncompliant with dietary changes', 'hesitant to agree']
+['difficult and noncompliant', 'poorly managed hypertension', 'medication nonadherence', 'refused to seek immediate medical attention', 'resistant to home healthcare services', 'history of missing scheduled appointments', 'challenging to interact with during the exam', 'difficult patient', 'showing resistance to new medication regimens and dietary changes', 'challenging to manage due to compliance issues', 'refused several recommended tests', 'noncompliance and medication adherence issues', 'hesitant to agree', 'notably difficult patient', 'long-standing record of medication nonadherence', 'resistant to interventions in the past', 'adhering to the following plan is in your best interest', 'Your cooperation and compliance with this plan are imperative for your health']
+['challenging to interact with', 'difficult patient', 'difficult patient', 'compliance issues', 'noncompliant', 'medication nonadherence', 'medication nonadherence', 'hesitant to agree']
+SINGLE NOTE F1 SCORE: 0.42105263157894735
+TOTAL F1 SCORE: 0.3072463768115942
+INDEX: 17
+['difficult and challenging patient', 'noncompliant', 'noncompliance', 'pattern of refusing exams', 'ignoring medical advice', 'noncompliant attitude', 'noncompliant towards recommended interventions', 'nonadherent']
+['often difficult and challenging patient to manage', 'noncompliance with treatment protocols', 'refusing exams and ignoring medical advice', 'noncompliant with prescribed growth hormone therapy', 'frequent visits to the emergency department for minor complaints', 'frequent altercations at school', 'noncompliant attitude towards recommended interventions', 'complicating the treatment process', 'failure to comply with these instructions could result in further complications']
+['difficult and challenging patient', 'noncompliant', 'noncompliant', 'noncompliance', 'ignoring medical advice', 'noncompliant attitude']
+SINGLE NOTE F1 SCORE: 0.5
+TOTAL F1 SCORE: 0.31978319783197834
+INDEX: 18
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes']
+['irregular use of prescribed medication', 'refused adjustments to treatment plans', 'noncompliance to treatment plans', 'resistant to any changes', 'uncooperativeness with recommended diagnostic tests', 'patient reluctant but eventually agreed', 'patient noncommittal', 'neglect and refusal of recommended treatments', 'failure to comply with these instructions will only further exacerbate your condition']
+[]
+SINGLE NOTE F1 SCORE: 0
+TOTAL F1 SCORE: 0.30729166666666663
+INDEX: 19
+['noncompliant', 'difficult patient', 'poorly controlled diabetes', 'medication nonadherence', 'resistant to follow recommended dietary adjustments', 'inconsistent insulin regimen', 'lack of primary care engagement']
+['noncompliant with prescribed preventive measures', 'demonstrating a pattern of medication nonadherence', 'failure to attend scheduled follow-ups', 'insufficient support', 'visited our ER frequently, indicating a lack of primary care engagement', 'apathetic appearance', 'challenging in following commands', 'difficult and challenging during their stay', 'unable to give a clear timeline of events leading to admission', 'contradictory statements regarding their symptoms', 'behavior persisted despite extensive counseling on the seriousness of their condition']
+['noncompliant', 'medication nonadherence', 'lack of primary care engagement']
+SINGLE NOTE F1 SCORE: 0.2857142857142857
+TOTAL F1 SCORE: 0.3061728395061729
+INDEX: 20
+['noncompliant behavior', 'nonadherent', 'resistant', 'difficult patient in managing her care plan']
+['lack of compliance', 'declined completing standard growth assessment exams', 'notable lack of compliance', 'uncooperative', 'noncompliant behavior', 'refusal of several examination procedures', 'resistant to intervention', 'medication nonadherence', 'multiple refusals to comply with examination procedures']
+['noncompliant behavior', 'resistant']
+SINGLE NOTE F1 SCORE: 0.26666666666666666
+TOTAL F1 SCORE: 0.30476190476190473
+INDEX: 21
+['difficult patient', 'noncompliant', 'medication nonadherence', 'inconsistent', 'poorly controlled']
+['expressed dissatisfaction', 'noncompliance with recommended treatments', 'medication nonadherence', 'refusing the prescribed symptomatic relief measures', 'compliance issues', 'difficulty in adhering to non-medication advice', 'insistence on non-indicated treatments', 'contradiction of medical advice', 'difficult']
+['medication nonadherence']
+SINGLE NOTE F1 SCORE: 0.13333333333333333
+TOTAL F1 SCORE: 0.29885057471264365
+INDEX: 22
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes', 'difficult patient', 'nonadherent', 'noncompliance', 'contradicts medical advice often']
+['noncompliance', 'difficult patient', 'nonadherence to prescribed hypertension management protocols', 'contradicts medical advice', 'raises serious concerns']
+['difficult patient', 'noncompliance']
+SINGLE NOTE F1 SCORE: 0.23529411764705882
+TOTAL F1 SCORE: 0.29646017699115046
+INDEX: 23
+['challenging patient', 'noncompliant', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'nonadherent', 'poorly controlled', 'recurrent refusal']
+['challenging patient', 'noncompliance', 'medication nonadherence', 'resistance to dietary and medication adjustments', 'Impossible to manage', 'recurrent refusal to follow medical advice', 'failed to complete dietary recall', 'displayed challenges', 'failing to control your hypertension']
+['challenging patient', 'recurrent refusal']
+SINGLE NOTE F1 SCORE: 0.2222222222222222
+TOTAL F1 SCORE: 0.2936170212765958
+INDEX: 24
+['challenging demeanor', 'difficult patient', 'noncompliant with cognitive testing', 'medication nonadherence', 'refused to provide detailed information initially', 'resistant to quitting smoking', 'difficult to engage in productive discussion regarding cessation of smoking', 'challenging to manage his care plan']
+['difficult patient', 'medication nonadherence', 'challenging demeanor', 'noncompliant with cognitive testing', 'refusing to complete exams or engage in treatments', 'met with resistance', 'noncompliant with prescribed inhalers and medications', 'repeated admissions', 'challenging patient during his stay', 'strongly encouraged to engage in a smoking cessation program', 'crucial for Mr. Brakus to understand the importance of compliance', 'avoid situations that may exacerbate his condition', 'loitering in smoky environments']
+['challenging demeanor', 'difficult patient', 'noncompliant with cognitive testing', 'medication nonadherence']
+SINGLE NOTE F1 SCORE: 0.31999999999999995
+TOTAL F1 SCORE: 0.294949494949495
+INDEX: 25
+['difficult patient', "challenging to trace the illness's origin", 'inconsistent accounts', 'noncompliant with treatment plans', 'inconsistent in following dietary recommendations', 'noncompliant with medication', 'poorly managed diabetes', 'nonadherent to medication regimen']
+['difficult patient', 'noncompliant with treatment plans and medication', 'refused several exams', 'inconsistent in following dietary recommendations', 'medication nonadherence', 'strongly recommended to reduce smoking and alcohol intake']
+['difficult patient', 'noncompliant with treatment plans', 'inconsistent in following dietary recommendations']
+SINGLE NOTE F1 SCORE: 0.35294117647058826
+TOTAL F1 SCORE: 0.296875
+INDEX: 26
+['noncompliant', 'difficult', 'resistant', 'challenging', 'poorly controlled', 'inconsistent']
+['noncompliance', 'refusal to adhere to recommended dietary changes', 'resistant and challenging demeanor regarding diabetes education', 'contradictory descriptions of dietary habits', 'difficulty in providing a clear timeline of symptoms']
+['difficult', 'resistant', 'challenging']
+SINGLE NOTE F1 SCORE: 0.42857142857142855
+TOTAL F1 SCORE: 0.30038022813688214
+INDEX: 27
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes']
+['medication nonadherence', 'noncompliance', 'uncooperative', 'history of nonadherence', 'failure to do so could result in further complications']
+[]
+SINGLE NOTE F1 SCORE: 0
+TOTAL F1 SCORE: 0.29422718808193665
+INDEX: 28
+['noncompliant', 'poor control', 'medication nonadherence', 'refusal of insulin therapy', 'contradictory statements', 'challenging behavior', 'difficult to engage', 'inconsistent management', 'impaired glucose regulation']
+['poor control over his diabetes', 'medication nonadherence', 'refusal of insulin therapy', 'challenging behavior', 'difficult to engage in effective diabetes education', 'contradictory statements about diet and medication adherence', 'challenging during examination', 'deteriorate into more severe complications']
+['poor control', 'medication nonadherence', 'refusal of insulin therapy', 'contradictory statements', 'challenging behavior', 'difficult to engage']
+SINGLE NOTE F1 SCORE: 0.5217391304347826
+TOTAL F1 SCORE: 0.3035714285714286
+INDEX: 29
+['challenging', 'noncompliant', 'resistant', 'difficult', 'poorly managed', 'nonadherent']
+['obese male', 'noncompliant behavior', 'resistant and challenging attitude', 'remains noncompliant', 'obese', 'appears older than stated age', 'poorly controlled Type 2 Diabetes', 'poor diabetes management', 'limited due to obesity', 'noncompliance only complicates your condition']
+['challenging', 'noncompliant', 'noncompliant', 'resistant']
+SINGLE NOTE F1 SCORE: 0.38095238095238093
+TOTAL F1 SCORE: 0.306368330464716
+INDEX: 30
+['noncompliant', 'refused to provide more details', 'difficult patient', 'patient noncompliance', 'inconsistent', 'poorly controlled']
+['noncompliant', 'refused to provide more details', 'difficult to ascertain due to patient noncompliance', 'lack of cooperation from the patient', 'patient’s refusal to provide an accurate history', 'abnormally short for age', 'compliance issues', 'medication nonadherence', 'uncooperative during the exam', 'challenging at times', 'difficulties during the exam', 'noncompliance and difficulties during the exam']
+['noncompliant', 'refused to provide more details', 'patient noncompliance']
+SINGLE NOTE F1 SCORE: 0.28571428571428575
+TOTAL F1 SCORE: 0.30564784053156147
+INDEX: 31
+['difficult patient', 'noncompliant with school regulations', 'non-compliance', 'resistant to undergoing the necessary growth hormone stimulation tests', 'contradicting herself several times when discussing her previous consultations and treatment attempts', 'non-compliant with recommended genetic counseling']
+['difficult patient by her own admission', 'resistant to undergoing the necessary growth hormone stimulation tests', 'contradicting herself', 'noncompliance with school regulations', 'noncompliant with recommended genetic counseling', 'challenging behavior throughout her hospital stay', 'refusing treatment', 'resistance towards medical advice', 'significantly retarded growth', 'difficult to manage due to her noncompliance with recommended diagnostic procedures']
+['difficult patient', 'resistant to undergoing the necessary growth hormone stimulation tests']
+SINGLE NOTE F1 SCORE: 0.2222222222222222
+TOTAL F1 SCORE: 0.3032258064516129
+INDEX: 32
+['difficult', 'resistant', 'noncompliant', 'inconsistent', 'poorly controlled']
+['known alcoholic and narcotic-dependent patient', 'difficult and resistant', 'vague and inconsistent details about his symptoms', 'noncompliant', 'resistant behavior towards dietary changes', 'reluctantly agreed upon', 'compliance issues', 'continued resistance to medical advice could result in significant health deterioration']
+['difficult', 'resistant', 'resistant', 'noncompliant', 'inconsistent']
+SINGLE NOTE F1 SCORE: 0.5263157894736842
+TOTAL F1 SCORE: 0.30985915492957744
+INDEX: 33
+['noncompliant', 'nonadherent', 'difficult patient', 'resistant to follow recommended dietary adjustments', 'poorly controlled diabetes', 'inconsistent insulin regimen', 'challenging in her social interactions']
+['nonadherence to antihypertensive medications', 'refused to acknowledge the importance of consistent medication intake', 'noncompliant with dietary restrictions', 'spending time around fast food restaurants which contribute to poor diet control', 'smoker, 1 pack/day for 20 years', 'patient appeared distressed', 'noncompliance with medications', 'difficulty in adhering to prescribed diet and medication regimen', 'refused to acknowledge the importance of these lifestyle changes at the time of discharge', 'highlighting a pattern of nonadherence']
+['noncompliant']
+SINGLE NOTE F1 SCORE: 0.1111111111111111
+TOTAL F1 SCORE: 0.30441400304414007
+INDEX: 34
+['challenging', 'noncompliant', 'resistant']
+['challenging at times', 'signs of medication nonadherence', 'compliance issues when faced with dietary recommendations', 'declined certain examinations', 'generally difficult to manage', 'showing resistance to medical advice', 'resistant to certain interventions']
+['challenging', 'resistant']
+SINGLE NOTE F1 SCORE: 0.3333333333333333
+TOTAL F1 SCORE: 0.30493273542600896
+INDEX: 35
+['inconsistent', 'difficulties', 'noncompliant', 'nonadherent', 'poorly controlled']
+['inconsistent responses', 'difficulties in assessing lifestyle contributions to their condition', 'noncompliant with recommendations for nutritional supplements', 'skipped meals frequently', 'rarely participating in physical activities due to a lack of interest', 'significantly below 5th percentile for age', 'significantly shorter than peers', 'lower quartile', 'noncompliance with dietary recommendations', 'challenges in managing patient expectations and compliance', 'repeatedly addressed medication nonadherence', 'refusal to follow prescribed nutritional guidance', 'challenging behavior when discussing the importance of consistent and balanced meals', 'contradicting previously provided information about daily habits', 'faced challenges related to his growth due to noncompliance with nutritional and health recommendations', 'encouraged to meet with a nutritionist for a personalized meal plan', 'Compliance with these recommendations will be reviewed']
+['inconsistent', 'difficulties', 'noncompliant']
+SINGLE NOTE F1 SCORE: 0.24
+TOTAL F1 SCORE: 0.3025936599423631
+INDEX: 36
+['difficult', 'noncompliant', 'medication nonadherence', 'resistant to follow medical advice']
+['noncompliant with the treatment recommendations', 'demonstrated medication nonadherence', 'difficult and challenging with the staff', 'refused the initial exam', 'resistance to follow medical advice', 'aggravate your condition']
+['difficult', 'noncompliant', 'medication nonadherence']
+SINGLE NOTE F1 SCORE: 0.46153846153846156
+TOTAL F1 SCORE: 0.30551626591230546
+INDEX: 37
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes', 'frequent non-adherence', 'reluctant to make necessary changes', 'nonadherent to medication regimens', 'lifestyle marked by poor choices', 'pattern reminiscent of past noncompliance', 'failing to monitor blood pressure regularly', 'often foregoing medication']
+['frequent non-adherence to recommended medical interventions', 'pattern reminiscent of past noncompliance', 'failing to monitor her blood pressure regularly', 'often foregoing medication', 'indicative of a lifestyle marked by poor choices', 'general appearance is one of neglect', 'elevated cholesterol levels and A1C indicative of poor dietary control and medication nonadherence', 'frequently resistant to suggestions for lifestyle adjustments', 'voiced reluctance towards new medication regimens', 'reluctant to make necessary changes', 'managed with variable success due to similar compliance issues', 'resistance to medication adjustments', 'despite previous difficulties and resistance to medication adjustments', 'it is critical for your health that you adhere to the updated regimen provided']
+['frequent non-adherence', 'reluctant to make necessary changes', 'lifestyle marked by poor choices', 'pattern reminiscent of past noncompliance', 'often foregoing medication']
+SINGLE NOTE F1 SCORE: 0.3125
+TOTAL F1 SCORE: 0.30581867388362655
+INDEX: 38
+['difficult patient', 'noncompliant behavior', 'narcotic dependency', 'challenging', 'inconsistent']
+['known narcotic dependent', "inconsistent account of the pain's onset", 'unable to give a clear timeline', 'contradicting herself', 'frequent visits to the emergency department for pain management', 'heavy smoker', 'using narcotics frequently', 'spent time around locations with easy access to narcotics', 'difficult and provided limited information', 'appeared agitated and noncompliant during examination', 'labeled as a difficult patient', 'noncompliant behavior', 'refusal to undergo recommended exams', 'managed with challenges regarding pain control and medication adherence', 'difficulties with compliance and managing your pain medication']
+['difficult patient', 'noncompliant behavior', 'inconsistent']
+SINGLE NOTE F1 SCORE: 0.2608695652173913
+TOTAL F1 SCORE: 0.30446194225721784
+INDEX: 39
+['frequent ED visitor', 'so-called', 'poorly managed', 'inconsistent medication adherence', 'challenging and noncompliant behavior', 'noncompliant demeanor', 'inconsistent historian']
+['so-called "frequent ED visitor"', 'poorly managed', 'inconsistent medication adherence', 'noncompliant demeanor', 'frequent mentions of previous "misunderstandings" about her medication adherence', 'challenging and noncompliant behavior', 'inconsistent historian', 'nonadherence discussed at length', 'somewhat noncompliant']
+['frequent ED visitor', 'so-called', 'poorly managed', 'inconsistent medication adherence', 'challenging and noncompliant behavior', 'noncompliant demeanor', 'inconsistent historian']
+SINGLE NOTE F1 SCORE: 0.6086956521739131
+TOTAL F1 SCORE: 0.31337579617834393
+INDEX: 40
+['difficult patient', 'non-compliant', 'resistant to suggestions for improving her health', 'ignoring medical advice', 'noncompliance', 'nonadherent', 'uncooperative with staff']
+['a difficult patient', 'ignored medical advice', 'resistant to suggestions for improving her health', 'failed to follow up on recommended tests', 'ignored dietary advice', 'uncooperative with staff', 'noncompliance', 'resistance to discussing potential preventative measures for future pregnancies', 'resistant', 'refusal to accept medical advice', 'resistant to the idea of counseling', 'Ignoring the reality of your health and instructions will only lead to further complications']
+['difficult patient', 'resistant to suggestions for improving her health', 'noncompliance', 'uncooperative with staff']
+SINGLE NOTE F1 SCORE: 0.34782608695652173
+TOTAL F1 SCORE: 0.31435643564356436
+INDEX: 41
+['challenging in her social interactions', 'resistant to follow recommended dietary adjustments', 'difficult patient in managing her care plan', 'noncompliant during cognitive tests', 'inconsistent insulin regimen', 'poorly controlled diabetes', 'frequents fast-food restaurants', 'frequently visits ED', 'reluctant to give a clear timeline', 'inconsistent in providing information', 'resistant to following directions', 'noncompliant with medical advice', 'difficult patient due to noncompliance']
+['a known noncompliant patient', 'failing to maintain a healthy diet', 'Her story was difficult to follow, demonstrating an inability to give a clear timeline', 'frequent visits', 'labeled as a difficult patient due to her noncompliance', 'refused an initial exam', 'reluctance to follow medical advice for managing her diabetes', 'resistant to following directions']
+['resistant to following directions']
+SINGLE NOTE F1 SCORE: 0.09090909090909093
+TOTAL F1 SCORE: 0.30843373493975906
+INDEX: 42
+['difficult patient', 'noncompliant', 'resistant', 'challenging', 'poorly controlled diabetes', 'medication nonadherence']
+['a notably obese male patient', 'noncompliance with recommended regimens', 'refusing dietary adjustments', 'labeling him a difficult and challenging patient for our dietary team', 'challenging attitude towards the medical staff', 'repeated refusal to participate in recommended physical therapy sessions', 'noncompliance and medication adherence issues have been a recurrent theme', 'limited by obesity']
+['challenging', 'challenging']
+SINGLE NOTE F1 SCORE: 0.23529411764705882
+TOTAL F1 SCORE: 0.3069657615112161
+INDEX: 43
+['difficult patient', 'noncompliant', 'resistant attitude towards treatment', 'inconsistent history reporting', 'refusal to undergo recommended examination procedures', 'pattern of disregarding medical advice']
+['disregard for prior medical advice', 'history of noncompliance with treatment plans', 'resistant attitude towards treatment', 'frequent flyer in our department', 'pattern of disregarding medical advice', 'difficulty in managing the patient due to inconsistent history reporting', 'refusal to undergo recommended examination procedures initially', 'previous resistance to comprehensive sinusitis management', 'due to your history of noncompliance and the severity of your condition', 'Quitting smoking is strongly recommended']
+['resistant attitude towards treatment', 'inconsistent history reporting', 'refusal to undergo recommended examination procedures', 'pattern of disregarding medical advice']
+SINGLE NOTE F1 SCORE: 0.4
+TOTAL F1 SCORE: 0.3091118800461361
+INDEX: 44
+['difficult patient', 'inconsistent insulin regimen', 'noncompliant', 'medication nonadherent', 'poorly controlled diabetes']
+['known for being a difficult patient', 'in our ED frequently', 'history of medication nonadherence', 'acknowledged but blamed on the complex nature of his treatment regime', 'noncompliant', 'pattern of reluctance towards proper management', 'repeatedly demonstrated a pattern of medication nonadherence', 'refused several exams during his stay', 'unreliable historian behavior', 'met with resistance', 'complicating efforts to adjust his treatment plan']
+['difficult patient', 'noncompliant']
+SINGLE NOTE F1 SCORE: 0.2222222222222222
+TOTAL F1 SCORE: 0.3073446327683616
+INDEX: 45
+['difficult case', 'noncompliant with dietary and medication regimes', 'challenging, frequently missing appointments', 'resistant', 'stubborn eating habits', 'difficult patient', 'poorly managed asthma', 'frequent flyer status', 'difficult care management']
+['parents have expressed frustration over his "stubborn eating habits"', 'resistance to adhere to dietary recommendations', 'describing Dee as "resistant"', 'known difficult case', 'noncompliance with dietary and medication regimes', 'challenging', 'frequently missing appointments', 'resisting dietary adjustments necessary for his condition', 'frequent flyer status in our clinic', 'not taken as prescribed', 'history of noncompliance and resistance to medical advice', 'compliance with his asthma management plan is equally crucial to avoid further frequent flyer visits to the emergency department']
+['difficult case', 'resistant', 'stubborn eating habits', 'frequent flyer status']
+SINGLE NOTE F1 SCORE: 0.32
+TOTAL F1 SCORE: 0.3076923076923077
+INDEX: 46
+['difficult patient', 'challenging behavior during his stay', 'noncompliant']
+['a disconcerting and difficult patient', 'efforts to delve deeper into the situation were met with resistance', 'frequently seen in the local ED for various minor issues, which might suggest attention-seeking behavior', 'noncompliant behavior and frequent refusals for recommended exams', 'challenging behavior during his stay', 'noncompliant']
+['difficult patient', 'challenging behavior during his stay', 'noncompliant', 'noncompliant']
+SINGLE NOTE F1 SCORE: 0.5714285714285715
+TOTAL F1 SCORE: 0.3116883116883117
+INDEX: 47
+['challenging', 'noncompliant', 'resistant', 'difficult patient', 'nonadherent', 'poorly controlled']
+['challenging when questioned about the timeline of symptoms', 'noncompliance with cessation support', 'appeared noncompliant and somewhat challenging during the exam', 'patient refused further imaging', 'complicated by noncompliance with medication and refusal to participate in further diagnostic exams', 'met with resistance', 'challenging to implement', 'reinforced importance but patient was resistant', 'nonadherence noted', 'advised on compliance', 'patient was challenging about taking regularly', 'assuming compliance', 'difficult', 'limited due to noncompliance', 'failure to follow through']
+['challenging', 'challenging', 'challenging', 'challenging', 'noncompliant', 'resistant']
+SINGLE NOTE F1 SCORE: 0.4
+TOTAL F1 SCORE: 0.31446540880503143
+INDEX: 48
+['noncompliant', 'difficult patient', 'pattern of noncompliance', 'limited patient engagement', 'disruptive pattern of behavior', 'reluctance to discuss or engage in mental health support options']
+['pattern of noncompliance with previously recommended dietary and physical activity interventions', 'appeared well but overweight', 'obese', 'met with limited patient engagement', 'displayed a disruptive pattern of behavior by being a difficult patient', 'refused several suggestions from the dietary team', 'reluctance to discuss or engage in mental health support options', 'sedentary', 'previous reluctance']
+['difficult patient', 'pattern of noncompliance', 'limited patient engagement', 'disruptive pattern of behavior', 'reluctance to discuss or engage in mental health support options']
+SINGLE NOTE F1 SCORE: 0.5
+TOTAL F1 SCORE: 0.3182751540041068
+INDEX: 49
+['challenging attitude towards treatment', 'difficult patient', 'noncompliant with previous advice to quit smoking', 'somewhat challenging behavior during this hospital stay', 'delayed his recovery process', 'nonadherent to medical advice significantly complicated his acute bronchitis']
+['history of previous similar episodes, often refuses to seek early treatment', 'medication nonadherence', 'frequent smoker, consuming a pack a day', 'noncompliant with previous advice to quit', 'showed a challenging attitude towards treatment', 'refused anti-inflammatory medication on two occasions', 'declined spirometry, citing discomfort', 'noncompliance has delayed his recovery process', 'somewhat challenging behavior during this hospital stay']
+['challenging attitude towards treatment', 'somewhat challenging behavior during this hospital stay', 'delayed his recovery process']
+SINGLE NOTE F1 SCORE: 0.3333333333333333
+TOTAL F1 SCORE: 0.3185483870967742
+INDEX: 50
+['challenging disposition', 'aversion to following medical advice', 'chronic medication nonadherence', 'resistant to lifestyle changes', 'difficult to manage treatment plan', 'noncompliant with osteoporosis management', 'frequent ED visitor for minor complaints']
+['commonly presenting with various complaints', 'questions about the consistency of her narratives were raised', 'frequent ED visitor for minor complaints', 'noncompliant with osteoporosis management', 'smokes occasionally, admits to occasional alcohol use', 'spending time around local fast-food outlets with friends - pointing towards poor dietary habits', 'demonstrated a challenging disposition throughout the stay', 'aversion to following medical advice', 'chronic medication nonadherence were noted', 'discussions about diet and lifestyle changes were met with resistance and deflection']
+['challenging disposition', 'aversion to following medical advice', 'chronic medication nonadherence', 'noncompliant with osteoporosis management', 'frequent ED visitor for minor complaints']
+SINGLE NOTE F1 SCORE: 0.4545454545454545
+TOTAL F1 SCORE: 0.3214990138067061
+INDEX: 51
+['challenging patient', 'inconsistent self-reported history', 'noncooperative during exam', 'uncooperative', 'reluctant', 'inadequate', 'nonadherent', 'noncompliant']
+['a challenging patient with a history of chronic respiratory issues', 'His account of the illness onset was inconsistent', 'raising concerns about the reliability of his self-reported history', 'noncompliant with medications', 'frequent ED visitor', 'has a history of nonadherence to prescribed treatments', 'inadequacy in providing a coherent family medical history', 'uncooperative during exam', 'refusal to allow a thorough examination', 'resistant', 'demonstrated nonadherence to medical advice', 'difficult during discussions regarding his management plan', 'showing a tendency toward medication nonadherence', 'frequent refusals for recommended treatments', 'alert but uncooperative', 'reluctant but eventually understood the necessity', 'refused dietary advice', 'refused home healthcare services but are highly recommended']
+['challenging patient', 'uncooperative', 'uncooperative', 'reluctant', 'noncompliant']
+SINGLE NOTE F1 SCORE: 0.3125
+TOTAL F1 SCORE: 0.32122370936902483
+0.4602739726027397
+0.24669603524229075
+0.32122370936902483

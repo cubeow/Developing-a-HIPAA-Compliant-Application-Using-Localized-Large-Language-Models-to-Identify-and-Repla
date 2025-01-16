@@ -6,7 +6,7 @@ import pyautogui
 
 keyboard = Controller()
 
-df = pd.read_csv("FinalAnnotatedData.csv")
+df = pd.read_csv("/Users/sagewong/git/StigmatizingLanguageProject/ChatGPTPromptGeneration/output.csv")
 time.sleep(5)
 prompt = "return to me only a python list of all the stigmatizing language used and also use single quotes: "
 for i in range(df.shape[0]):
