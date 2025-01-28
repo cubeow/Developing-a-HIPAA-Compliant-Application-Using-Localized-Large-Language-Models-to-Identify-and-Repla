@@ -78,7 +78,12 @@ def replaceStigmatizingLanguage(df):
         replacingPrompt = "You are a professional linguist whose job is to replace stigmatizing language in clinical notes. If you see labels such as diabetic or abuser, replace these labels with person first language such as \"person who has diabetes\" or\"person with a substance abuse disorder\". If you see words like challenging or uncooperative, replace them with more respectful alternatives. Here is the sentence: " + str(key) + " And here is are the stigmatizing words you must replace: " + str(value) + ". Return to me a JSON object containing only the corrected sentence in a list"
         while True:
             try:
-                newDict[key] = cleanOllamaOutput(askOllama(replacingPrompt))[0]
+                ollamaOutput = cleanOllamaOutput(askOllama(replacingPrompt))[0]
+                if not isinstance(ollamaOutput, str):
+                    print("NOT STRING DETECTED")
+                    print(1/0)
+                else:
+                    newDict[key] = cleanOllamaOutput(askOllama(replacingPrompt))[0]
                 break
             except:
                 pass
