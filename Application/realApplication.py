@@ -57,6 +57,7 @@ def select_file():
 
 def replaceStigmatizingLanguage(df):
     global stigmatizingLanguageFound
+    print(stigmatizingLanguageFound)
     clinicalNote = df.iloc[0]['Completion']
     ogClinicalNote = df.iloc[0]['Completion']
     allList = []
@@ -66,9 +67,11 @@ def replaceStigmatizingLanguage(df):
         sentences = clinicalNote.split("**")
         sentences = [item for part in sentences for item in part.split("-")]
         for word in i:
-            if len([j for j in sentences if word in j]) > 0:
-                text = [j for j in sentences if word in j][0]
-                allList.append([word, text])
+            if len([j for j in sentences if word.lower() in j.lower()]) > 0:
+                text = [j for j in sentences if word.lower() in j.lower()]
+                for x in text:
+                    allList.append([word, x])
+    print(allList)
     newDict = {}
     grouped_list = group_by_second_index(allList)
     for key, value in grouped_list.items():
@@ -80,10 +83,21 @@ def replaceStigmatizingLanguage(df):
             except:
                 pass
     newClinicalNote = ogClinicalNote
+    print("OG CLINICAL NOTE:")
+    print(ogClinicalNote)
+    print(newDict)
     for key, value in newDict.items():
+        print("KEY:")
         print(key)
+        if key[-2:] == "\n\n":
+            value += "\n\n"
+        if key[-1:] == "\n":
+            value += "\n"
+        print("VALUE:")
         print(value)
         newClinicalNote = newClinicalNote.replace(key, value)
+    print("NEW CLINICAL NOTE:")
+    print(newClinicalNote)
     return newClinicalNote, list(newDict.values())
     
 
@@ -91,12 +105,9 @@ def highlight_text(highlight_words):
     clinical_note_display.tag_remove("highlight", "1.0", tk.END)  # Remove existing highlights
     text_content = clinical_note_display.get("1.0", tk.END)
     new_text_content = text_content.replace("\n\n", " ").replace("\n", " ")
-    print(new_text_content)
     for word in highlight_words:
         matches = re.finditer(rf"{word}", new_text_content, re.IGNORECASE)
         for match in matches:
-            print("THIS THING IS BEING HIGHLIGHTED")
-            print(word)
             start = match.start()
             end = match.end()
             start += text_content[:start].count("\n\n")
@@ -116,7 +127,6 @@ def scanForStigmatizingLanguage(df):
 
     rawOutput = askOllama(finalPrompt)
     cleanedOutput = cleanOllamaOutput(rawOutput)
-    print(cleanedOutput)
     return cleanedOutput
 
 def viewOriginalNote():
