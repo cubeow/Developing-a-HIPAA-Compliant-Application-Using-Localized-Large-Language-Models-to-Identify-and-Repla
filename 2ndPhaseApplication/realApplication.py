@@ -7,7 +7,6 @@ from langchain_ollama import OllamaLLM
 import pandas as pd
 import ast
 import re
-from difflib import SequenceMatcher
 
 og_text_content = ""
 modified_text_content = ""
@@ -130,8 +129,14 @@ def scanForStigmatizingLanguage(df):
 
     finalPrompt = prompt + clinicalNote
 
-    rawOutput = askOllama(finalPrompt)
-    cleanedOutput = cleanOllamaOutput(rawOutput)
+    while True:
+        try:
+            rawOutput = askOllama(finalPrompt)
+            cleanedOutput = cleanOllamaOutput(rawOutput)
+            break
+        except:
+            print("incorrect llama output format, supposed to be a list")
+            pass
     return cleanedOutput
 
 def viewOriginalNote():
@@ -142,11 +147,10 @@ def viewOriginalNote():
 def viewNewNote():
     clinical_note_display.delete('1.0', tk.END)
     clinical_note_display.insert(tk.END, modified_text_content)
-    print(correctedLanguageList)
     highlight_text(correctedLanguageList)
 
 
-prompt = "You are a professional linguist researcher who is trying to identify stigmatizing language in clinical notes. Given this clinical note, return to me in a python-type list all forms of stigmatizing language (e.g. noncompliant, nonadherent, challenging, uncooperative, refused, contradicting themselves, frequent visitor to ED, narcotic dependence, obese, alcoholic, inconsistent responses etc...). Do not include any descriptions or explanations. DO NOT INCLUDE STIGMATIZING LANGUAGE IF IT IS NOT FOUND IN THE NOTE, ONLY INCLUDE LANGUAGE THAT IS IN THE NOTE. Also do not rewrite the stigmatizing language in your own words. Here's the actual note you will have to analyze, and make sure you output the list of stigmatizing words in JSON output: "
+prompt = "You are a professional linguist researcher who is trying to identify stigmatizing language in clinical notes. Given this clinical note, return to me in a python-type list all forms of stigmatizing language (e.g. noncompliant, nonadherent, challenging, uncooperative, refused, contradicting themselves, frequent visitor to ED, narcotic dependence, obese, alcoholic, inconsistent responses etc...). Do not include any descriptions or explanations or comments. DO NOT INCLUDE STIGMATIZING LANGUAGE IF IT IS NOT FOUND IN THE NOTE, ONLY INCLUDE LANGUAGE THAT IS IN THE NOTE. Also do not rewrite the stigmatizing language in your own words. Here's the actual note you will have to analyze, and make sure you output the list of stigmatizing words in JSON output: "
 model = OllamaLLM(model="mistral")
 root = tk.Tk()
 
