@@ -1,0 +1,1613 @@
+,Stigmatizing Language Found,Updated Clinical Notes,Output Dictionary
+0,"['challenging', 'uncooperative', 'noncompliant', 'cursing at nurses', 'difficult patient', 'refused several exams', 'resistant to modifying his diet', 'unreliable historical recounting', 'cursing at staff']","**Admission date:** 09/30/2023
+
+**Discharge date:** 10/05/2023
+
+**Date of Birth:** 12/02/2010
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Short stature
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**Mohammad, who has presented with behaviors that have made communication and collaboration more difficult at times, has a history of finding it challenging to engage with previous treatment recommendations. He presents with concerns about his significantly short stature compared to peers. Despite recommendations for nutritional interventions, Mohammad has expressed preferences for junk food over the advised options. His mother reports frequent use of harsh language during previous medical consultations, further complicating collaborative treatment efforts.
+
+
+**Past Medical History:**
+-Has not been adhering to nutritional recommendations
+- Frequent episodes of cursing at healthcare staff
+- Previous evaluations for growth concerns, with no adherence to suggested interventions
+
+**Social History:** Mohammad spends excessive time around local fast food establishments with friends, indicating a poor dietary habit contributing to his current condition.
+
+**Family History:** No known similar growth issues within the family.
+
+**Physical Exam:**
+- **VS:** within normal limits for age
+- **General:** notable for shorter stature than average for age
+- **HEENT:** no abnormalities
+- **Neck:** normal
+- **CV:** regular rate and rhythm
+- **Lungs:** clear to auscultation
+- **Abdomen:** soft, non-tender
+- **GU:** normal for age
+- **Ext:** no edema
+- **Neuro:** alert and oriented x3
+
+**Pertinent Results:**
+- Growth hormone levels within normal limits
+- Nutritional assessment indicates poor dietary habits
+
+**Brief Hospital Course:**Throughout his stay, Mohammad had interactions that required additional support and patience, reflecting a pattern of communication challenges and inconsistent historical recounting. Compliance issues were evident, as he declined several exams and was hesitant about modifying his diet, despite clear evidence linking his nutritional habits to his short stature. Instances of using strong language with staff persisted, complicating our attempts to provide care.
+
+
+**Medications on Admission:**
+1. None
+
+**Discharge medications:**
+1. Multivitamin
+2. Calcium supplement
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Idiopathic short stature related to poor nutrition
+
+**Discharge Condition:** Mental Status: Conscious, alert, and oriented
+
+**Activity Status:** Fully ambulatory
+
+**Discharge Instructions:** Mohammad and his guardians are urged to follow a strict dietary regimen focusing on nutritious foods to support potential growth. It is critical for Mohammad to take the prescribed supplements daily to address any nutritional deficiencies potentially impacting his growth. Adherence to these recommendations is essential for examining his growth patterns accurately. Further, it is advised to limit consumption of fast food and engage in regular physical activities. A follow-up appointment with a pediatric endocrinologist is scheduled in three months to reassess his growth trajectory. Mohammad's noncompliance has been a significant barrier to his care; thus, understanding and cooperation from both Mohammad and his family are crucial moving forward.
+
+**Farewell ending:** We sincerely hope for Mohammad's cooperation in following these guidelines to see an improvement in his condition. Please remember, we are here to support you through this journey.
+
+**Followup Instructions:** Schedule a follow-up visit with Dr. Smith in three months or sooner if concerns arise.","{' Mohammad, a challenging patient with a history of uncooperative behavior, presents with concerns about his significantly short stature compared to peers. Despite recommendations for nutritional interventions, Mohammad has been noncompliant, citing his preferences for junk food. His mother reports frequent cursing at nurses during previous medical consultations, further complicating collaborative treatment efforts.\n\n': 'Mohammad, who has presented with behaviors that have made communication and collaboration more difficult at times, has a history of finding it challenging to engage with previous treatment recommendations. He presents with concerns about his significantly short stature compared to peers. Despite recommendations for nutritional interventions, Mohammad has expressed preferences for junk food over the advised options. His mother reports frequent use of harsh language during previous medical consultations, further complicating collaborative treatment efforts.', ' Throughout his stay, Mohammad was a difficult patient, reflecting a pattern of challenging interactions and unreliable historical recounting. Compliance issues were evident, as he refused several exams and was resistant to modifying his diet, despite clear evidence linking his nutritional habits to his short stature. Cursing at staff persisted, complicating our attempts to provide care.\n\n': 'Throughout his stay, Mohammad had interactions that required additional support and patience, reflecting a pattern of communication challenges and inconsistent historical recounting. Compliance issues were evident, as he declined several exams and was hesitant about modifying his diet, despite clear evidence linking his nutritional habits to his short stature. Instances of using strong language with staff persisted, complicating our attempts to provide care.', ' Noncompliant with nutritional recommendations\n': 'Has not been adhering to nutritional recommendations'}"
+1,"['uncooperative', 'noncompliance', 'pattern of noncompliance', 'refusing exams and medication administration', 'compliance issues']","**Admission date:** 10/01/2023
+
+**Discharge date:** 10/14/2023
+
+**Date of Birth:** 02/17/2016
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Jane Smith
+
+**Chief Complaint:** Short stature for age
+
+**Major Surgical or Invasive Procedure:**
+- None
+
+**History of Present Illness:**
+Noel Mertz, a 7-year-old female with a history of being persistently below the expected height for her age, has been referred for evaluation of short stature. Her growth has not kept pace with her peers, prompting current evaluation. No recent illnesses or contributory events such as food poisoning reported.
+
+**Past Medical History:**
+- Asthma, moderately controlled with inhalers
+- No history of significant drug or cigarette usage
+
+**Social History:**
+Lives with parents and one younger sibling. No exposure to tobacco or other harmful substances in the household. Regular school attendance reported with good performance.
+
+**Family History:**
+- Mother and father are of average height. 
+- No known genetic disorders.
+
+**Physical Exam:**
+VS – Height below the 3rd percentile for age
+General – well-appearing but significantly shorter than peers
+HEENT – normal
+Neck – no thyroid enlargement
+CV – regular rate and rhythm, no murmurs
+Lungs – clear to auscultation
+Abdomen – soft, non-tender, no masses
+GU – normal for age
+Ext – no edema or deformities
+Neuro – non-focal, developmentally appropriate
+
+**Pertinent Results:**
+- Growth hormone tests pending
+- Thyroid function tests normal
+
+**Brief Hospital Course:**Evaluation focused on Noel's short stature, which included blood tests and consultations with endocrinology. Noel was often hesitant or resistant to blood draws and other procedures, showing a pattern of challenges in following these steps consistently. The parents were counselled about the importance of medication adherence for treatment efficacy, yet there were repeated instances of Noel needing support during exams and medication administration, further complicating her treatment plans. These challenges with following the prescribed plan raise concern for her overall management.
+
+
+**Medications on Admission:**
+1. Salbutamol inhaler PRN
+2. Fluticasone inhaler, daily
+
+**Discharge medications:**
+1. Salbutamol inhaler PRN
+2. Fluticasone inhaler, daily
+3. Growth hormone therapy, pending final approval
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Evaluation of short stature, possibly related to growth hormone deficiency
+
+**Discharge Condition:** Mental Status: Alert, Oriented
+Activity Status: Active as tolerated
+
+**Discharge Instructions:**Noel is to continue with her asthma medications as prescribed. The importance of following medication instructions cannot be overstated, particularly with the initiation of growth hormone therapy. It is crucial for Noel and her parents to adhere to the treatment plan to achieve the desired outcomes. Noel declined several exams during her stay, which has somewhat limited our assessment. Her parents are strongly encouraged to address these adherence concerns to ensure her health.-being. 
+
+A follow-up with the pediatric endocrinology team is scheduled for two weeks from today to discuss the results of her growth hormone testing and any adjustments to her treatment plan. Please ensure Noel takes her medication daily as prescribed. A balanced diet, rich in nutrients, will support her growth and development. Further instructions will be provided by the endocrinology team regarding growth hormone therapy, pending approval.
+
+**Farewell ending.**
+We understand that managing medical conditions can be challenging, but cooperation from both Noel and her family is essential for success. Please ensure to keep all scheduled appointments and consider any recommended dietary adjustments. Your diligence in following these instructions is paramount.
+
+**Followup Instructions:**
+- Pediatric Endocrinology follow-up in 2 weeks
+- Regular monitoring of asthma as previously directed by the pediatrician","{""\nEvaluation focused on Noel's short stature, which included blood tests and consultations with endocrinology. Noel was often uncooperative with blood draws and other procedures, exhibiting a pattern of noncompliance. The parents were counselled about the importance of medication adherence for treatment efficacy, yet there were repeated instances of Noel refusing exams and medication administration, further complicating her treatment plans. These compliance issues raise concern for her overall management.\n\n"": ""Evaluation focused on Noel's short stature, which included blood tests and consultations with endocrinology. Noel was often hesitant or resistant to blood draws and other procedures, showing a pattern of challenges in following these steps consistently. The parents were counselled about the importance of medication adherence for treatment efficacy, yet there were repeated instances of Noel needing support during exams and medication administration, further complicating her treatment plans. These challenges with following the prescribed plan raise concern for her overall management."", ' Noel is to continue with her asthma medications as prescribed. The importance of medication compliance cannot be overstated, particularly with the initiation of growth hormone therapy. It is crucial for Noel and her parents to adhere to the treatment plan to achieve the desired outcomes. Noel refused several exams during her stay, which has somewhat limited our assessment. Her parents are strongly encouraged to address these compliance issues to ensure her health and well': 'Noel is to continue with her asthma medications as prescribed. The importance of following medication instructions cannot be overstated, particularly with the initiation of growth hormone therapy. It is crucial for Noel and her parents to adhere to the treatment plan to achieve the desired outcomes. Noel declined several exams during her stay, which has somewhat limited our assessment. Her parents are strongly encouraged to address these adherence concerns to ensure her health.'}"
+2,"['challenging', 'noncompliant', 'refusing to answer our questions directly', 'contradicting herself', 'resistant during the exam', 'exhibited compliance issues', 'often refusing medications and declining exams', 'complicated by her noncompliant behavior']","**Admission date:** 10/05/2023
+
+**Discharge date:** 10/15/2023
+
+**Date of Birth:** 08/14/1948
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Lower abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- Appendectomy
+
+**History of Present Illness:**Mrs. Marth Herzog, a person presenting with unique communication needs and a history of being particularly complex to engage with, presents with lower abdominal pain. Despite many attempts to clarify, she was hesitant to participate in the conversation, often diverging from direct responses and providing inconsistent information, which made the assessment more intricate than necessary. She mentioned consuming a questionable meal two days prior, which may have contributed to her symptoms.
+
+
+**Past Medical History:** 
+-Type 2 diabetes 
+- Hypertension
+
+**Social History:** 
+Frequently mentions hanging around local fast-food restaurants.
+
+**Family History:** 
+No known family history of appendicitis but mentions siblings with diabetes.
+
+**Physical Exam:**VS Normal range, but patient demonstrated hesitancy during the exam.
+
+
+**Pertinent Results:** 
+10/05/2023 14:00 - CBC shows elevated white cell count.
+10/05/2023 16:30 - CT scan confirms appendicitis.
+
+**Brief Hospital Course:**The patient faced challenges with medication adherence and exam participation throughout her stay, which made managing her condition more complex. Despite these difficulties, she underwent an appendectomy, which was successful.-operative recovery was extended due to behaviors that were not aligned with post-operative instructions, delaying discharge.
+
+
+**Medications on Admission:**
+1. Metformin
+2. Lisinopril
+3. Atorvastatin
+4. Aspirin
+
+**Discharge medications:**
+1. Metformin
+2. Lisinopril
+3. Atorvastatin
+4. Aspirin
+5. Ciprofloxacin
+6. Metronidazole
+7. Acetaminophen
+8. Ibuprofen
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Appendicitis
+
+**Discharge Condition:** Mental Status: Alert, but difficult
+Activity Status: Ambulatory
+
+**Discharge Instructions:**Mrs. Herzog, despite the challenges posed by declining several exams and having difficulty adhering to recommended treatment plans, we managed to proceed with your appendectomy. It's crucial that you take the prescribed antibiotics.- Ciprofloxacin and Metronidazole - as directed to prevent infection. Ensure you manage your diabetes appropriately with Metformin and maintain regular blood pressure checks with Lisinopril. It's also recommended that you adjust your diet to include less fast food to help manage your diabetes and overall health better. Follow up with Dr. Smith in two weeks to assess your recovery progress. Please adhere to the prescribed medication regimen to avoid further complications.
+
+**Followup Instructions:** Schedule a follow-up appointment with Dr. Smith in two weeks to monitor recovery progress. Immediate return to the ER if experiencing fever, increased pain, or other complications.","{' \nMrs. Marth Herzog, a challenging patient with a history of being particularly difficult to deal with, presents with lower abdominal pain. Despite many attempts to clarify, she was noncompliant, refusing to answer our questions directly and often contradicting herself, making the assessment more complicated than necessary. She mentioned consuming a questionable meal two days prior, which may have contributed to her symptoms.\n\n': 'Mrs. Marth Herzog, a person presenting with unique communication needs and a history of being particularly complex to engage with, presents with lower abdominal pain. Despite many attempts to clarify, she was hesitant to participate in the conversation, often diverging from direct responses and providing inconsistent information, which made the assessment more intricate than necessary. She mentioned consuming a questionable meal two days prior, which may have contributed to her symptoms.', ' Type 2 diabetes (often noncompliant with medications)\n': 'Type 2 diabetes ', 'operative recovery was complicated by her noncompliant behavior, delaying discharge.\n\n': 'operative recovery was extended due to behaviors that were not aligned with post-operative instructions, delaying discharge.', "" Mrs. Herzog, despite the challenges you posed by declining several exams and being generally noncompliant with recommended treatment plans, we managed to proceed with your appendectomy. It's crucial that you take the prescribed antibiotics "": ""Mrs. Herzog, despite the challenges posed by declining several exams and having difficulty adhering to recommended treatment plans, we managed to proceed with your appendectomy. It's crucial that you take the prescribed antibiotics."", '\nVS Normal range, but patient was resistant during the exam.\nGeneral: In distress.\nHEENT: Normal\nNeck: Supple\nCV: RRR\nLungs: Clear to auscultation\nAbdomen: Tender in RLQ\nGU: Deferred\nExt: No edema\nNeuro: Alert and oriented, although inconsistent in narration.\n\n': 'VS Normal range, but patient demonstrated hesitancy during the exam.', ' \nPatient exhibited compliance issues throughout her stay, often refusing medications and declining exams, making her condition a challenge to manage. Despite these difficulties, she underwent an appendectomy, which was successful. Post': 'The patient faced challenges with medication adherence and exam participation throughout her stay, which made managing her condition more complex. Despite these difficulties, she underwent an appendectomy, which was successful.'}"
+3,"['non-compliant', 'frequently missed follow-up appointments', 'medication adherence issues', 'frequently consuming alcohol over the recommended guidelines', 'refused examination and medication adjustments', 'difficult and challenging patient', 'outwardly cursing at staff', 'inconsistent historical reporting']","**Admission date:** 10/01/2023
+
+**Discharge date:** 10/05/2023
+
+**Date of Birth:** 03/07/1968
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Johnson
+
+**Chief Complaint:** Uncontrolled hypertension
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**  
+Mr. Damion Thiel JD presented with persistently high blood pressure readings despite being on medication. He has shown to be non-compliant with prescribed hypertensive medications and frequently missed follow-He expressed frustration about the medical advice provided, showing a pattern of challenges with following his medication regimen.
+
+
+**Past Medical History:**  
+- Hypertension diagnosed in 2010
+- Smoked 1 pack of cigarettes per day for 20 years, quit in 2018
+
+**Social History:**Mr. Thiel mentioned that he often drinks more than the recommended guidelines suggest. He noted that his social gatherings frequently involve alcohol.
+
+
+**Family History:**  
+His father had a history of hypertension and suffered a stroke at the age of 65.
+
+**Physical Exam:**  
+VS 156/94 mm Hg, Pulse 88 bpm  
+General: Appears agitated  
+HEENT: PERRLA  
+Neck: No jugular vein distension  
+CV: Tachycardic, no murmurs  
+Lungs: Clear to auscultation  
+Abdomen: Soft, non-tender  
+GU: Normal  
+Ext: No edema  
+Neuro: A&Ox3, but was cursing at staff during examination
+
+**Pertinent Results:**  
+Not provided in detail.
+
+**Brief Hospital Course:**The patient frequently visited our ED with complaints of high blood pressure. He expressed hesitancy towards examination and medication adjustments, claiming he had a deep understanding of his body's needs. The clinical team observed the patient was navigating this experience in a complex manner, using strong language directed at staff and displaying variations in historical reporting.
+
+
+**Medications on Admission:**  
+1. Lisinopril
+2. Metoprolol
+3. Aspirin
+4. Simvastatin
+5. Amlodipine
+6. Furosemide
+7. Potassium Chloride
+8. Lorazepam (as needed)
+
+**Discharge medications:**  
+1. Lisinopril (increased dose)
+2. Metoprolol
+3. Aspirin
+4. Simvastatin
+5. Amlodipine (increased dose)
+6. Furosemide
+7. Potassium Chloride
+8. Clonidine
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Uncontrolled hypertension
+
+**Discharge Condition:**  
+Mental Status: Compliant  
+Activity Status: Restricted
+
+**Discharge Instructions:**  
+Mr. Thiel, it is crucial for you to take your medications daily as prescribed to manage your hypertension effectively. We understand managing this condition can be challenging, but adherence to medication and follow-up visits is essential. We've adjusted your medications to better suit your needs and recommend monitoring your blood pressure at home regularly. A diet low in salt and saturated fats will benefit your condition. Please limit alcohol intake as it can exacerbate hypertension. Schedule a follow-up appointment with your primary care physician within two weeks and visit a cardiologist for an echocardiogram as discussed. Your active participation in the management of your health condition is necessary to prevent complications such as heart attacks or strokes. Take care and please follow these instructions closely for your health and wellbeing.
+
+**Followup Instructions:** Follow up with primary care physician in 2 weeks, cardiology for an echo in 1 month.","{'up appointments. He expressed frustration about the medical advice provided, showing a pattern of medication adherence issues.\n\n': 'He expressed frustration about the medical advice provided, showing a pattern of challenges with following his medication regimen.', '  \nMr. Thiel admitted to frequently consuming alcohol over the recommended guidelines. He mentioned that his social gatherings often revolve around drinking.\n\n': 'Mr. Thiel mentioned that he often drinks more than the recommended guidelines suggest. He noted that his social gatherings frequently involve alcohol.', '  \nThe patient was frequently in our ED with complaints of high blood pressure. He refused examination and medication adjustments, claiming he knew his body better than any doctor. The clinical team noted he was a difficult and challenging patient, outwardly cursing at staff and displaying inconsistent historical reporting.\n\n': ""The patient frequently visited our ED with complaints of high blood pressure. He expressed hesitancy towards examination and medication adjustments, claiming he had a deep understanding of his body's needs. The clinical team observed the patient was navigating this experience in a complex manner, using strong language directed at staff and displaying variations in historical reporting.""}"
+4,"['difficult attitude', 'resistant', 'challenging', 'nonadherence', 'significant concern', 'declining to participate in her treatment plan fully', 'noncompliant']","**Admission date:** 10/05/2023
+
+**Discharge date:** 10/12/2023
+
+**Date of Birth:** 03/16/1964
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Jane Smith
+
+**Chief Complaint:** Uncontrolled Hypertension
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:** Mrs. Trantow presented with high blood pressure readings taken at home, which she mentioned were often ""a bit elevated."" She admitted to sporadic medication use due to ""forgetting.""
+
+**Past Medical History:** 
+- Hypertension diagnosed in 2010
+- Occasional smoker
+
+**Social History:** 
+Mrs. Trantow mentioned she is retired and lives alone. Occasionally mentions hanging out with friends but did not elaborate further.
+
+**Family History:** 
+No known family history of hypertension.
+
+**Physical Exam:** 
+VS: BP 150/95, HR 85, Temp 98.6 F
+General: Awake, alert, in no acute distress
+HEENT: PERRLA, EOMI
+Neck: Supple, no thyromegaly
+CV: RRR, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdomen: Soft, non-tender
+GU: Normal female genitalia, no lesions
+Ext: No edema
+Neuro: A&O x3, normal gait
+
+**Pertinent Results:** 
+- 10/05/2023: ECG showed normal sinus rhythm
+- 10/06/2023: Blood work indicated normal renal function, lipid panel within normal limits except for slightly elevated LDL
+
+**Brief Hospital Course:**Mrs. Trantow demonstrated hesitancy towards staff, showing reluctance to dietary advice and requiring additional support for medication regimen adherence. Ensuring adherence was a focus of attention, with Mrs. Trantow preferring not to fully engage in her treatment plan. She found it challenging to implement multiple recommended changes to her lifestyle, which were aimed at controlling her hypertension more effectively.
+
+
+**Medications on Admission:** 
+1. Lisinopril 20mg daily
+2. Amlodipine 5mg daily
+3. Aspirin 81mg daily
+
+**Discharge medications:** 
+1. Lisinopril 20mg daily
+2. Amlodipine 10mg daily (increased)
+3. Aspirin 81mg daily
+4. Simvastatin 20mg at night
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Hypertension
+
+**Discharge Condition:** 
+Mental Status: Alert and oriented
+Activity Status: As tolerated
+
+**Discharge Instructions:** Mrs. Trantow, it's essential that you take your medications as prescribed daily to manage your hypertension effectively. I have adjusted the dosage of your Amlodipine to better control your blood pressure. Please ensure you follow through with taking your medications regularly to avoid complications related to high blood pressure.
+We have also discussed dietary recommendations, including reducing salt intake and incorporating more fruits and vegetables into your meals. Regular physical activity, at least 30 minutes a day, can also help in managing your condition. It's crucial for your health to adhere to these changes.
+You will need to schedule a follow-up appointment with your primary care physician within two weeks to monitor your blood pressure and adjust the treatment plan as necessary. If you experience any side effects from your medications or any increases in blood pressure, it is important to contact your doctor immediately. 
+
+Take care of yourself, and we hope to see improvements in your next visit.
+
+**Followup Instructions:** 
+Please make an appointment with your primary care physician within two weeks for a blood pressure check and medication review.","{' \nMrs. Trantow demonstrated a difficult attitude towards staff, being resistant to dietary advice and challenging to manage in terms of medication regimen adherence. Medication nonadherence was a significant concern, with Mrs. Trantow declining to participate in her treatment plan fully. She was noncompliant with multiple recommended changes to her lifestyle, which were aimed at controlling her hypertension more effectively.\n\n': 'Mrs. Trantow demonstrated hesitancy towards staff, showing reluctance to dietary advice and requiring additional support for medication regimen adherence. Ensuring adherence was a focus of attention, with Mrs. Trantow preferring not to fully engage in her treatment plan. She found it challenging to implement multiple recommended changes to her lifestyle, which were aimed at controlling her hypertension more effectively.'}"
+5,"['difficult', 'noncompliant', 'frequent visitor to ED', 'nonadherence', 'refuses', 'inconsistent', 'frequent ED visitor', 'noncompliant', 'inconsistent history', 'noncompliance']","**Admission date:** 11/10/2023
+
+**Discharge date:** 11/15/2023
+
+**Date of Birth:** 08/22/1975
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Complicated diabetes management
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**Mr. Thompson, who has diabetes mellitus and sometimes faces challenges with adhering to treatment plans, presents with poorly controlled blood glucose levels. He has been a frequent visitor to our ED and demonstrates patterns of difficulty in consistently taking prescribed diabetic medications. Despite multiple educational efforts, he finds it challenging to modify his diet or follow the medication regimen consistently. Mr. Thompson also declined blood work today, complicating our ability to manage his care effectively.
+
+
+**Past Medical History:**Type 2 Diabetes Mellitus
+
+
+**Social History:** Mr. Thompson mentioned spending time with friends around fast-food restaurants, contributing to his poor diet control.
+
+**Family History:** No known family history of diabetes or hypertension.
+
+**Physical Exam:**
+- **VS**: BP 145/92, HR 88, Temp 98.6 F
+- **General:**Frequent emergency department visitor, appears to have difficulty adhering to treatment plans
+- **HEENT:** Normocephalic, atraumatic
+- **Neck:** Supple
+- **CV:** Regular rate and rhythm, no murmurs
+- **Lungs:** Clear to auscultation bilaterally
+- **Abdomen:** Soft, non-tender
+- **GU:** Normal
+- **Ext:** No significant findings
+- **Neuro:**Alert and oriented, responses vary
+
+
+**Pertinent Results:** Multiple admissions for hyperglycemia. Blood work today refused.
+
+**Brief Hospital Course:**Mr. Thompson's hospital course was complicated by his variable history and reluctance to follow medical advice. The difficulty in adhering to diabetes management requirements for the person who has diabetes has posed significant challenges in providing effective treatment.
+
+
+**Medications on Admission:**
+1. Metformin
+2. Lisinopril
+3. Atorvastatin
+4. Insulin (refused frequently)
+
+**Discharge medications:**
+1. Metformin
+2. Lisinopril
+3. Atorvastatin
+4. Insulin glargine
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:**Poorly controlled Type 2 Diabetes Mellitus due to challenges with adherence
+
+
+**Discharge Condition:**Mental Status: Alert, hesitant or needing further engagement. Activity Status: As tolerated
+
+
+**Discharge Instructions:**
+Mr. Thompson, despite our recommendations and your frequent visits to our emergency department, there seems to be a continuous issue with following through with the medical advice provided. It is imperative for your health to take your medications daily, as prescribed without deviation. Additionally, a diet modification is non-negotiable. We have discussed at length the importance of maintaining a balanced diet and minimizing fast food consumption, which contributes significantly to your condition's exacerbation. We strongly advise scheduling follow-up appointments with your primary care provider and an endocrinologist within the next two weeks to closely monitor your condition and make necessary adjustments to your treatment plan. Should you experience any worsening of your symptoms or have concerns about your medication, do not hesitate to contact our office or return to the emergency department.
+
+**Followup Instructions:** 
+1. Primary care provider within 1 week
+2. Endocrinologist within 2 weeks","{' Mr. Thompson, a difficult and noncompliant patient with a history of diabetes mellitus, presents with poorly controlled blood glucose levels. He has been a frequent visitor to our ED and has demonstrated a pattern of nonadherence to prescribed diabetic medications. Despite multiple educational efforts, he refuses to modify his diet or follow the medication regimen consistently. Mr. Thompson also refused blood work today, complicating our ability to manage his care effectively.\n\n': 'Mr. Thompson, who has diabetes mellitus and sometimes faces challenges with adhering to treatment plans, presents with poorly controlled blood glucose levels. He has been a frequent visitor to our ED and demonstrates patterns of difficulty in consistently taking prescribed diabetic medications. Despite multiple educational efforts, he finds it challenging to modify his diet or follow the medication regimen consistently. Mr. Thompson also declined blood work today, complicating our ability to manage his care effectively.', '\n1. Type 2 Diabetes Mellitus\n2. Hypertension\n3. Noncompliant with medications\n\n': 'Type 2 Diabetes Mellitus', ' Frequent ED visitor, appears noncompliant\n': 'Frequent emergency department visitor, appears to have difficulty adhering to treatment plans', ' Mental Status: Alert, noncompliant. Activity Status: As tolerated\n\n': 'Mental Status: Alert, hesitant or needing further engagement. Activity Status: As tolerated', ' Alert and oriented, inconsistent in responses\n\n': 'Alert and oriented, responses vary', "" Mr. Thompson's hospital course was complicated by his inconsistent history and refusal to follow the medical advice. His noncompliance with diabetes management requirements has posed significant challenges in providing effective treatment.\n\n"": ""Mr. Thompson's hospital course was complicated by his variable history and reluctance to follow medical advice. The difficulty in adhering to diabetes management requirements for the person who has diabetes has posed significant challenges in providing effective treatment."", ' Poorly controlled Type 2 Diabetes Mellitus due to noncompliance\n\n': 'Poorly controlled Type 2 Diabetes Mellitus due to challenges with adherence'}"
+6,"['noncompliant', 'inconsistent responses', 'frequent ED visits', 'challenging patient', 'refusal to complete exams']","**Admission date:** 09/20/2023
+
+**Discharge date:** 09/27/2023
+
+**Date of Birth:** 06/10/1995
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** No known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Persistent cough and difficulty breathing
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:** Mr. Cassin presents with a persistent cough and difficulty breathing that he claims has been ongoing for about two weeks. Upon questioning, his responses were inconsistent, implying he might not be fully disclosing his symptoms or timeline, mentioning some food poisoning two weeks ago but unable to provide details.
+
+**Past Medical History:**
+-Has not adhered to prescribed treatments in the past
+-Multiple emergency department visits for similar symptoms
+- History of smoking
+
+**Social History:** Mentions hanging out around McDonald’s frequently with friends.
+
+**Family History:** No known family history of his current condition.
+
+**Physical Exam:**
+- **VS** BP 130/85, HR 92, Temp 98.6 F, RR 18
+- **General** Appeared agitated
+- **HEENT** Normal
+- **Neck** Supple
+- **CV** Regular rate and rhythm
+- **Lungs** Crackles heard on auscultation
+- **Abdomen** Soft, non-tender
+- **GU** Normal
+- **Ext** No cyanosis, clubbing, or edema
+- **Neuro** Alert and oriented x3
+
+**Pertinent Results:**
+- 09/20/2023: Chest X-Ray showed possible early signs of pneumonia
+- 09/21/2023: CBC indicated elevated white blood cell count
+- 09/25/2023: CT scan confirmed the presence of pneumonia
+
+**Brief Hospital Course:**Mr. Cassin demonstrated hesitancy during his stay, often showing reluctance toward routine checks and medications. His frequent expressions of needing additional support due to past nonadherence and difficulty completing exams were observed. His condition raised concerns due to his history of smoking and inconsistent use of medication.
+
+
+**Medications on Admission:**
+1. Ibuprofen
+2. Albuterol Inhaler PRN
+3. Lisinopril
+4. Salbutamol nebules
+5. Loratadine
+6. Prednisone
+7. Azithromycin
+8. Cough syrup PRN
+
+**Discharge medications:**
+1. Amoxicillin
+2. Prednisone (continued)
+3. Ventolin HFA
+4. Fluticasone inhaler
+5. Ibuprofen PRN
+6. Loratadine (continued)
+7. Guaifenesin
+8. New cough syrup
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Pneumonia
+
+**Discharge Condition:**
+**Mental Status:** Stable
+**Activity Status:** Can perform daily activities with caution
+
+**Discharge Instructions:**
+Mr. Cassin is advised to take his medications daily as prescribed without fail, highlighting the importance of medication adherence to avoid recurrent hospital visits. The prescribed antibiotic course should be completed entirely, even if symptoms improve beforehand. A balanced diet rich in vitamins, particularly C and D, along with plenty of fluids, is recommended to aid recovery. Smoking cessation is strongly advised, as this significantly contributes to respiratory issues and might complicate recovery. Daily mild to moderate exercise, as tolerated, is encouraged to improve lung capacity and overall health. Follow-up appointments have been scheduled with a pulmonologist in two weeks and a follow-up phone call from our nursing team in one week to check on medication adherence and symptom improvement. Your cooperation and commitment to following these instructions are crucial for your recovery and to prevent any further complications.
+
+**Followup Instructions:** Mr. Cassin is to return to the clinic for a follow-up visit with the pulmonologist on 10/11/2023. Additionally, there is a scheduled nursing call on 10/04/2023 to review medication adherence and symptom progress.","{' Noncompliant with prescribed treatments in the past\n': 'Has not adhered to prescribed treatments in the past', ' Frequent ED visits for similar symptoms\n': 'Multiple emergency department visits for similar symptoms', ' Mr. Cassin demonstrated a lack of cooperation during his stay, often resisting routine checks and medications. His frequent claims of being a challenging patient due to his past nonadherence and refusal to complete exams were observed. His condition raised concerns due to his history of smoking and inconsistent use of medication.\n\n': 'Mr. Cassin demonstrated hesitancy during his stay, often showing reluctance toward routine checks and medications. His frequent expressions of needing additional support due to past nonadherence and difficulty completing exams were observed. His condition raised concerns due to his history of smoking and inconsistent use of medication.'}"
+7,"['vague and contradictory responses', 'known difficult case', 'history suggestive of noncompliance', 'frequent smoker', 'reluctant to cooperate', 'agitated', 'deferred by the patient', 'non-cooperation', 'difficult and noncompliant patient', 'refusal for diagnostic imaging', 'refusal of initial pain management suggestions']","**Admission date:** 10/01/2023
+
+**Discharge date:** 10/05/2023
+
+**Date of Birth:** 09/26/1990
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** No known allergies
+
+**Attending:** Dr. Emily Johnson
+
+**Chief Complaint:** Abdominal pain
+
+**Major Surgical or Invasive Procedure:** Appendectomy
+
+**History of Present Illness:** Mr. Thanh Quitzon, a 33-year-old White, non-Hispanic male, presented with acute lower right abdominal pain, suggestive of appendicitis. Initial inquiries about onset were met with responses that provided limited clarity, complicating an otherwise straightforward diagnosis.
+
+
+**Past Medical History:**The patient has been identified as having challenges with adherence to medical advice, which may be indicative of difficulty following prescribed treatment plans. There are no records of chronic diseases or history of surgeries.
+
+
+**Social History:**Mr. Quitzon admitted, after much encouragement, to smoking frequently and occasionally drinking alcohol, leading a mostly sedentary lifestyle.
+
+
+**Family History:** Declined to provide sufficient information regarding family medical history, indicating a possible lack of concern or awareness.
+
+**Physical Exam:** 
+- **VS:** BP 130/85, HR 90, Temp 99.5°F
+- **General:**The patient appeared anxious and hesitant during the exam.
+- **HEENT:** Normal, without notable findings.
+- **Neck:** Supple, no lymphadenopathy.
+- **CV:** Regular rate and rhythm, no murmurs.
+- **Lungs:** Clear to auscultation bilaterally.
+- **Abdomen:** Tender in the right lower quadrant with signs of peritonitis.
+- **GU:**Appointment postponed at the request of the person
+- **Ext:** No cyanosis, edema, or clubbing.
+- **Neuro:** Grossly intact, although the exam was incomplete due to patient non-cooperation.
+
+**Pertinent Results:**CT abdomen and pelvis with IV contrast confirmed acute appendicitis without rupture, despite the person's initial hesitation regarding diagnostic imaging.
+
+
+**Brief Hospital Course:**Despite experiencing challenges with frequent previous admissions for unrelated complaints, Mr. Quitzon underwent an uncomplicated laparoscopic appendectomy.-The operative course was marked by reluctance to engage in recommended mobilization and difficulty accepting initial pain management suggestions, contributing to a slightly prolonged hospital stay.
+
+
+**Medications on Admission:**
+1. Ibuprofen as needed
+2. Paracetamol
+3. On-demand nicotine patch
+4. Occasional over-the-counter antacids
+
+**Discharge medications:**
+1. Acetaminophen 650 mg every 6 hours as needed for pain
+2. Ibuprofen 400 mg every 8 hours as needed for pain
+3. Antibiotic course (Amoxicillin 500 mg three times a day for 7 days)
+4. Stool softener
+5. Nicotine patch as per smoking cessation plan
+6. Multivitamin daily
+7. Probiotics
+8. Wound care supplies
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Acute appendicitis
+
+**Discharge Condition:** 
+- **Mental Status:** Alert and oriented
+- **Activity Status:** Able to ambulate with assistance
+
+**Discharge Instructions:** Mr. Quitzon, following your laparoscopic appendectomy, it is crucial to adhere to the following instructions to ensure a smooth recovery and prevent complications. Take your prescribed medications as directed to manage pain and prevent infection. Engage in light activity daily to promote healing and reduce the risk of blood clots, escalating your activity level gradually. Attend follow-up appointments with your primary care physician and the surgery team to monitor your healing process. Continue smoking cessation efforts to support overall health improvement. Be alert for signs of infection around your incision site, including redness, swelling, and unusual discharge. Should you experience increased pain, fever, or any symptoms causing concern, seek medical attention promptly. Your cooperation and commitment to following these guidelines are fundamental to your recovery.
+
+**Followup Instructions:** Schedule a follow-up appointment with your primary care physician within two weeks and with the surgical team in four weeks to assess your recovery progress.
+
+","{'Hispanic male, presented with acute lower right abdominal pain, suggestive of appendicitis. Initial inquiries about onset were met with vague and contradictory responses, complicating an otherwise straightforward diagnosis.\n\n': 'Hispanic male, presented with acute lower right abdominal pain, suggestive of appendicitis. Initial inquiries about onset were met with responses that provided limited clarity, complicating an otherwise straightforward diagnosis.', ' Patient is a known difficult case with a history suggestive of noncompliance to medical advice. No record of chronic diseases or history of surgeries.\n\n': 'The patient has been identified as having challenges with adherence to medical advice, which may be indicative of difficulty following prescribed treatment plans. There are no records of chronic diseases or history of surgeries.', ' Mr. Quitzon admitted, after much prodding, to being a frequent smoker and occasional drinker, living a mostly sedentary lifestyle.\n\n': 'Mr. Quitzon admitted, after much encouragement, to smoking frequently and occasionally drinking alcohol, leading a mostly sedentary lifestyle.', ' The patient appeared agitated and reluctant to cooperate during the exam.\n': 'The patient appeared anxious and hesitant during the exam.', ' Deferred by the patient.\n': 'Appointment postponed at the request of the person', ' Despite being a difficult and noncompliant patient with frequent previous admissions for unrelated complaints, Mr. Quitzon underwent an uncomplicated laparoscopic appendectomy. His post': 'Despite experiencing challenges with frequent previous admissions for unrelated complaints, Mr. Quitzon underwent an uncomplicated laparoscopic appendectomy.', "" CT abdomen and pelvis with IV contrast confirmed acute appendicitis without rupture, despite the patient's initial refusal for diagnostic imaging.\n\n"": ""CT abdomen and pelvis with IV contrast confirmed acute appendicitis without rupture, despite the person's initial hesitation regarding diagnostic imaging."", 'operative course was marked by reluctance to engage in recommended mobilization and refusal of initial pain management suggestions, attributing to a slightly prolonged hospital stay.\n\n': 'The operative course was marked by reluctance to engage in recommended mobilization and difficulty accepting initial pain management suggestions, contributing to a slightly prolonged hospital stay.'}"
+8,"['obesity', 'nonadherence', 'resistant', 'noncompliance']","**Admission date:** 10/05/2023  
+**Discharge date:** 10/12/2023  
+**Date of Birth:** 12/29/1982  
+**Sex:** M  
+**Service:** MEDICINE  
+**Allergies:** no known allergies  
+**Attending:** Dr. Emily Stone  
+**Chief Complaint:** Obesity with associated complications  
+**Major Surgical or Invasive Procedure:** None  
+**History of Present Illness:** The patient presented with a long-The patient has a history of having a high body weight, which has recently been complicated by hypertension that is not well-controlled, likely due to challenges with consistently following medication recommendations. When asked about dietary habits, the person expressed hesitance toward suggestions for improvement.
+**Past Medical History:**  
+- Hypertension  
+-person with medication management challenges
+**Social History:** Ms. Halvorson, despite identifying as a male, has not participated in any regular physical activity and has difficulty adhering to a healthier lifestyle, which contributes to his current health status.  
+**Family History:**No known history of living with obesity or hypertension in the family, suggesting challenges in adopting a healthy lifestyle might be a significant factor in the patient's current condition.
+**Physical Exam:**  
+**VS:** BP 150/95, HR 88, Weight: higher than the healthy range for height and age.  
+**General:** Appears overweight  
+**HEENT:** Normocephalic, atraumatic  
+**Neck:** No thyromegaly  
+**CV:** Regular rate and rhythm, no murmurs  
+**Lungs:** Clear to auscultation bilaterally  
+**Abdomen:** Obese, soft, non-tender  
+**GU:** Normal  
+**Ext:** No edema  
+**Neuro:** Non-focal  
+
+**Pertinent Results:**  
+- 10/06/2023, Lipid panel showed elevated LDL levels.  
+- 10/08/2023, Echocardiogram indicated left ventricular hypertrophy.  
+- 10/10/2023, Blood glucose levels were in the pre-diabetic range.  
+
+**Brief Hospital Course:**The patient's course was complicated by medication non-adherence and a lack of engagement in recommended lifestyle changes. Discussions about mental health and its possible impact on his weight condition were met with resistance.
+
+
+**Medications on Admission:**  
+1. Lisinopril  
+2. Metformin  
+3. Amlodipine  
+4. Simvastatin  
+5. Aspirin  
+6. A diuretic  
+7. A beta-blocker  
+8. Multivitamin  
+
+**Discharge medications:**  
+1. Lisinopril 20mg  
+2. Metformin 1000mg  
+3. Amlodipine 5mg  
+4. Simvastatin 40mg  
+5. Aspirin 81mg  
+6. A stronger diuretic  
+7. Adjusted dose of beta-blocker  
+8. Multivitamin  
+
+**Discharge Disposition:** Home  
+**Discharge Diagnosis:**Person with obesity and complication of hypertension
+**Discharge Condition:**  
+**Mental Status:** Stable  
+**Activity Status:** As tolerated  
+
+**Discharge Instructions:**Ms. Halvorson, your hospital stay has highlighted the critical need to adhere to medication regimens and undertake significant lifestyle changes. Managing the health conditions of being overweight, compounded by hypertension, requires diligent attention. Take your medications daily without fail, as this is paramount to managing your hypertension. Integrate a heart-healthy approach into your routine.-healthy diet rich in fruits, vegetables, lean protein, and whole grains while limiting saturated fats, sodium, and sugars. Begin a structured physical activity program starting with light activities such as walking, gradually increasing the intensity as tolerated. We also discussed engaging a dietitian and a physical therapist to aid in your journey towards a healthier weight. Schedule a follow-up appointment with your primary care physician within two weeks to monitor your blood pressure and adjust medications if necessary. Devotion to these changes is crucial for improving your health outcomes. We wish you the best on your path to better health.
+
+**Followup Instructions:**  
+- Follow up with primary care physician in 2 weeks.  
+- Schedule an appointment with a dietitian and a physical therapist.  
+- Return to the emergency department if experiencing symptoms of a hypertensive crisis.","{'standing history of obesity, which has recently been complicated by poorly controlled hypertension, likely due to medication nonadherence. When asked about dietary habits, the patient was resistant to suggestions for improvement.  \n': 'The patient has a history of having a high body weight, which has recently been complicated by hypertension that is not well-controlled, likely due to challenges with consistently following medication recommendations. When asked about dietary habits, the person expressed hesitance toward suggestions for improvement.', "" No known history of obesity or hypertension in the family, suggesting noncompliance with a healthy lifestyle might be a significant factor in the patient's current condition.  \n"": ""No known history of living with obesity or hypertension in the family, suggesting challenges in adopting a healthy lifestyle might be a significant factor in the patient's current condition."", "" The patient's course was complicated by medication nonadherence and a lack of engagement in recommended lifestyle changes. Discussions about mental health and its possible impact on his obesity were met with resistance.\n\n"": ""The patient's course was complicated by medication non-adherence and a lack of engagement in recommended lifestyle changes. Discussions about mental health and its possible impact on his weight condition were met with resistance."", ' Obesity with complication of hypertension  \n': 'Person with obesity and complication of hypertension', '  \nMs. Halvorson, your hospital stay has highlighted the critical need to adhere to medication regimens and undertake significant lifestyle changes. Your condition of obesity, compounded by hypertension, requires diligent management. Daily, take your medications without fail, as it is paramount to managing your hypertension. Integrate a heart': 'Ms. Halvorson, your hospital stay has highlighted the critical need to adhere to medication regimens and undertake significant lifestyle changes. Managing the health conditions of being overweight, compounded by hypertension, requires diligent attention. Take your medications daily without fail, as this is paramount to managing your hypertension. Integrate a heart-healthy approach into your routine.', ' Medication nonadherence  \n': 'person with medication management challenges'}"
+9,"['challenging', 'history of narcotic dependence', 'difficult behavior', 'nonadherence', 'compliance issues']","**Admission date:** 10/03/2023
+
+**Discharge date:** 10/10/2023
+
+**Date of Birth:** 12/07/1981
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Jane Doe
+
+**Chief Complaint:** Chronic pain
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:** Mr. Trantow presents with a chronic pain condition. Recently expressed dissatisfaction with current pain management strategy, questioning the effectiveness of prescribed medications. No recent acute events like food poisoning reported.
+
+**Past Medical History:**
+-History of substance use disorder related to narcotics
+- Anxiety
+- Hypertension
+
+**Social History:**
+- Smokes one pack of cigarettes a day
+- Consumes alcohol socially
+- Unemployed, mentions spending time around local fast food outlets with friends
+
+**Family History:**
+- Father with diabetes
+- No known family history of chronic pain
+
+**Physical Exam:**
+- VS: BP 130/85, HR 78, Temp 98.6°F, RR 14
+- General: Appears tired, frequently grimaces
+- HEENT: Normocephalic, atraumatic
+- Neck: Supple, no lymphadenopathy
+- CV: RRR, no murmurs
+- Lungs: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender
+- GU: Normal
+- Ext: No edema
+- Neuro: Alert and oriented, no focal deficits
+
+**Pertinent Results:**
+- 10/03/2023: X-ray of lumbar spine shows moderate degenerative changes
+- 10/05/2023: MRI confirms previous findings, no significant progression
+
+**Brief Hospital Course:**
+-Chronic pain management has been complex due to Mr. Trantow's history of substance use and interactions with staff that have been challenging. Despite multiple interventions, he continues to explore options for alternative pain management strategies and shows variation in following recommended medication adjustments, indicating potential areas for further engagement.
+
+
+**Medications on Admission:**
+1. Oxycodone
+2. Lisinopril
+3. Escitalopram
+4. Metoprolol
+5. Ibuprofen
+6. Pregabalin
+7. Tizanidine
+8. As needed Diazepam for anxiety
+
+**Discharge medications:**
+1. Tapered dose of Oxycodone
+2. Lisinopril
+3. Escitalopram (dose increased)
+4. Metoprolol
+5. Ibuprofen (with strict guidelines)
+6. Pregabalin
+7. Tizanidine
+8. Diazepam (as needed, with strict usage guidelines)
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Chronic pain syndrome
+
+**Discharge Condition:** Pain persisting but stable, mental status anxious, activity status to remain as active as possible.
+
+**Discharge Instructions:** Mr. Trantow, despite the challenges during your stay, we have adjusted your medications in an effort to more effectively manage your chronic pain. It's essential that you take these medications daily as outlined to avoid potential relapse into previous narcotic dependency. We also recommend incorporating a balanced diet and gradual increase in physical activity as tolerated. Please schedule a follow-up appointment with the pain management clinic within two weeks. Further, it's crucial to adhere to the prescribed medical plans and attend all scheduled appointments to prevent deterioration of your condition and avoid frequent emergency department visits. Wishing you progress on your recovery journey.
+
+**Followup Instructions:** Schedule an appointment with the pain management clinic for 10/24/2023. Continue with the current treatment plan and monitor for any changes in pain levels.","{"" Chronic pain identified as challenging due to Mr. Trantow's history of narcotic dependence and difficult behavior towards staff. Despite multiple interventions, he remains resistant to alternative pain management strategies and demonstrates nonadherence to recommended medication adjustments, highlighting compliance issues.\n\n"": ""Chronic pain management has been complex due to Mr. Trantow's history of substance use and interactions with staff that have been challenging. Despite multiple interventions, he continues to explore options for alternative pain management strategies and shows variation in following recommended medication adjustments, indicating potential areas for further engagement."", ' History of narcotic dependence\n': 'History of substance use disorder related to narcotics'}"
+10,"['frequent visitor to ED', 'narcotic dependence', 'challenging', 'nonadherence', 'refused', 'difficult', 'narcotic dependence']","**Admission date:** 10/05/2023
+
+**Discharge date:** 10/12/2023
+
+**Date of Birth:** 07/12/1970
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Drug overdose
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**
+The patient, Mrs. María del Carmen Perales MD, was admitted following a drug overdose. She has been seen in our ED frequently for similar issues.
+
+**Past Medical History:**
+- Chronic pain
+- Previous overdoses
+-person with a substance use disorder
+
+
+**Social History:**
+- Smokes 1 pack of cigarettes daily
+- Sporadic alcohol use
+- Lives alone
+
+**Family History:**
+- Mother with hypertension
+- Father deceased, cause unknown
+- No siblings
+
+**Physical Exam:**
+VS: BP 130/85, HR 98, Temp 98.6 F, RR 16
+General: Disheveled appearance
+HEENT: PERRLA, EOMI
+Neck: Supple
+CV: RRR, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdomen: Soft, non-tenderGU: DeferredExt: No edemaNeuro: Alert and oriented x3, but demonstrating resistance during examination
+
+
+**Pertinent Results:**
+- 10/05/2023: Bloodwork showed elevated liver enzymes.
+- 10/06/2023: EKG normal.
+- 10/07/2023: Urine toxicology positive for opioids and benzodiazepines.
+
+**Brief Hospital Course:**Mrs. Perales exhibited signs of medication nonadherence and was frequently resistant with staff. She declined several examinations and had difficulty engaging in her own care plan. Evidence of a substance use disorder complicated her treatment.
+
+
+**Medications on Admission:**
+1. Acetaminophen
+2. Ibuprofen
+3. Naproxen
+4. Lorazepam as needed
+5. Morphine controlled release
+6. Albuterol inhaler as needed
+7. Nicotine patches
+8. Multivitamin
+
+**Discharge medications:**
+1. Acetaminophen
+2. Lorazepam as needed, with a strict reduction plan
+3. Nicotine patches
+4. Multivitamin
+5. Naloxone rescue kit
+6. Gabapentin
+7. Tapered dose of Morphine controlled release
+8. Citalopram
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Opioid overdose
+
+**Discharge Condition:**
+Mental Status: Stable but guarded
+Activity Status: Ambulatory
+
+**Discharge Instructions:**
+Mrs. Perales has been stabilized following her recent overdose. It's crucial that she takes her prescribed medications daily, as outlined, to manage her condition and reduce the risk of another overdose. We've implemented a tapering schedule for her narcotic medications and introduced gabapentin to help manage her pain. Nicotine patches should help in reducing smoking habits. A naloxone kit has been provided, with instructions on use in case of future overdose incidents. A high-fiber diet, plenty of water, and regular, gentle exercise are recommended to improve overall health. We strongly suggest attending follow-up appointments with a pain management specialist and exploring options for substance use disorder treatment. Remember, recovery is a slow process and requires commitment.
+
+**Followup Instructions:**
+- Primary care physician in 1 week
+- Pain management specialist within 2 weeks
+- Consider counseling for substance use disorder","{' Narcotic dependence\n\n': 'person with a substance use disorder', '\nMrs. Perales exhibited signs of medication nonadherence and was frequently challenging with staff. She refused several examinations and was difficult to engage in her own care plan. Evidence of narcotic dependence complicated her treatment.\n\n': 'Mrs. Perales exhibited signs of medication nonadherence and was frequently resistant with staff. She declined several examinations and had difficulty engaging in her own care plan. Evidence of a substance use disorder complicated her treatment.', 'tender\nGU: Deferred\nExt: No edema\nNeuro: Alert and oriented x3, but challenging during examination\n\n': 'tenderGU: DeferredExt: No edemaNeuro: Alert and oriented x3, but demonstrating resistance during examination'}"
+11,"['chronic complainer', 'noncompliant', 'adherence...remains questionable', 'resistance to proposed treatment options noted', 'difficult course', 'frequent noncompliance', 'refusal to adhere to treatment protocols', 'frequently, showing a pattern of poorly managed self-care', 'Alert, noncompliant']","**Admission date:** 10/03/2023
+
+**Discharge date:** 10/10/2023
+
+**Date of Birth:** 01/04/1927
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** No known allergies
+
+**Attending:** Dr. Jane Smith
+
+**Chief Complaint:** Persistent nasal congestion and facial pain
+
+**Major Surgical or Invasive Procedure:**
+- Nasal endoscopy
+
+**History of Present Illness:**The patient, who frequently expresses concerns about their health, presents with a longstanding history of nasal congestion and facial pain, indicative of chronic sinusitis. Despite numerous treatments and recommendations, adherence to prescribed medical advice remains in question. Recently, symptoms have exacerbated, leading to this admission.
+
+
+**Past Medical History:**
+- Chronic sinusitis
+- Hypertension
+-Patient has been struggling with adhering to medication regimes.
+
+
+**Social History:**
+Patient admits to occasional smoking but refuses to quantify. Denies alcohol use. Mentions spending time with friends at local fast-food outlets, implying a lifestyle that might affect his condition.
+
+**Family History:**
+No known family history of chronic sinusitis. Hypertension prevalent on the maternal side.
+
+**Physical Exam:**
+VS – Stable  
+General – Unkempt appearance  
+HEENT – Pervasive nasal blockage observed, facial tenderness  
+Neck – Non-relevant  
+CV – Regular rate and rhythm  
+Lungs – Clear to auscultation bilaterally  
+Abdomen – Soft, non-tender  
+GU – Non-relevant  
+Ext – No edema noted  
+Neuro – Alert and oriented, albeit uncooperative  
+
+**Pertinent Results:**
+- 10/04/2023: CT scan showed extensive sinus blockage.
+-10/05/2023: Noted hesitation towards proposed treatment options during discussion.
+
+
+**Brief Hospital Course:**A complex case, centered around managing the patient's chronic sinusitis, complicated by his frequent challenges with following treatment recommendations and hesitance in adhering to treatment protocols. The patient has been in our ED frequently, showing a pattern of needing additional support for self-management.-care.
+
+**Medications on Admission:**
+1. Lisinopril
+2. Saline nasal spray (sporadically used)
+3. Ibuprofen (as needed)
+4. Fluticasone propionate nasal spray (rarely used)
+
+**Discharge medications:**
+1. Amoxicillin
+2. Fluticasone propionate nasal spray
+3. Ibuprofen
+4. Continue Lisinopril
+5. Saline nasal rinse
+6. New: Pseudoephedrine
+7. Mucolytic agent
+8. Steroid nasal spray
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Chronic Sinusitis
+
+**Discharge Condition:**Mental Status: Engaged but not adhering
+
+
+**Discharge Instructions:**
+Mr. Abshire, your chronic sinusitis requires consistent management, including medication and lifestyle changes. It is imperative that you adhere to the prescribed treatment plan, including taking your medications daily without fail. Integrate saline nasal rinses into your daily routine to alleviate congestion. A balanced diet, rich in fruits and vegetables, can bolster your immune system. Avoid smoking, as it aggravates sinus conditions. Return to Dr. Smith for a follow-up in two weeks, or earlier if symptoms worsen. It's crucial for you to understand the importance of following medical advice for the betterment of your health. There's a clear path to feeling better, but it requires your cooperation and adherence to the recommendations made.
+
+**Followup Instructions:**
+Follow-up with Dr. Smith in 14 days. Should symptoms persist or worsen, seek medical attention sooner.
+
+","{""\nPatient, a chronic complainer, presents with a longstanding history of nasal congestion and facial pain, indicative of his chronic sinusitis. Despite numerous treatments and recommendations, patient's adherence to prescribed medical advice remains questionable. Recently, symptoms have exacerbated, leading to this admission.\n\n"": 'The patient, who frequently expresses concerns about their health, presents with a longstanding history of nasal congestion and facial pain, indicative of chronic sinusitis. Despite numerous treatments and recommendations, adherence to prescribed medical advice remains in question. Recently, symptoms have exacerbated, leading to this admission.', ' Patient has been noncompliant with medication regimes\n\n': 'Patient has been struggling with adhering to medication regimes.', '\nMental Status: Alert, noncompliant\nActivity Status: Ambulatory\n\n': 'Mental Status: Engaged but not adhering', ' 10/05/2023: Resistance to proposed treatment options noted during discussion.\n\n': '10/05/2023: Noted hesitation towards proposed treatment options during discussion.', ""\nA difficult course, centered around managing the patient's chronic sinusitis, complicated by his frequent noncompliance and refusal to adhere to treatment protocols. Patient has been in our ED frequently, showing a pattern of poorly managed self"": ""A complex case, centered around managing the patient's chronic sinusitis, complicated by his frequent challenges with following treatment recommendations and hesitance in adhering to treatment protocols. The patient has been in our ED frequently, showing a pattern of needing additional support for self-management.""}"
+12,"['nonadherent', 'frequently visits the ED', 'Alcoholic', 'difficult patient', 'refusing recommended examinations and treatments', 'challenging attitude', 'declined completing several examinations', 'alcoholic tendencies', 'noncompliant nature']","**Admission date:** 10/01/2023
+
+**Discharge date:** 10/15/2023
+
+**Date of Birth:** 11/22/1973
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** No known allergies
+
+**Attending:** Dr. Simon Howell
+
+**Chief Complaint:** Progressive difficulty breathing and persistent cough.
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**
+Ms. Sipes presents with a two-Week history of worsening shortness of breath and a productive cough. Despite multiple discussions on the importance of compliance with treatment, Ms. Sipes has had challenges adhering to her prescribed medication regimen and often seeks care at the emergency department for similar complaints.
+
+
+**Past Medical History:**
+- Asthma
+- Chronic obstructive pulmonary disease (COPD)
+-History of alcohol misuse 
+- Noncompliance with medical advice
+
+**Social History:**Ms. Sipes has a significant history of alcohol misuse, often consuming daily. She has been described as someone who faces challenges during healthcare visits, with frequent ED admissions characterized by patterns of declining recommended examinations and treatments.
+
+
+**Family History:**
+Has two siblings with no known similar complaints or diseases. 
+
+**Physical Exam:**
+- VS: BP 130/85, HR 92, Temp 98.6 F, RR 20
+- General: Appears chronically ill, distressed
+- HEENT: Normocephalic, atraumatic
+- Neck: Supple
+- CV: Regular rate and rhythm, no murmurs
+- Lungs: Coarse breath sounds, wheezing bilaterally
+- Abdomen: Soft, non-tender, non-distended
+- GU: Normal exam
+- Ext: No cyanosis, clubbing, or edema
+- Neuro: Alert and oriented, no focal deficits
+
+**Pertinent Results:**
+10/02/2023: Chest X-ray shows COPD changes, no acute disease.
+10/03/2023: Spirometry indicates severe obstruction.
+10/08/2023: Blood tests reveal chronic inflammatory changes, likely related to poor asthma management.
+
+**Brief Hospital Course:**Throughout her stay, Ms. Sipes exhibited behaviors that were sometimes challenging for staff interactions and frequently labeled as difficult by healthcare providers. Indicative of her preference for autonomy, she chose not to complete several examinations crucial for her treatment plan. Notably, Ms. Sipes's experiences with alcohol significantly contributed to her poor health status and complicated her care management.
+
+
+**Medications on Admission:**
+1. Albuterol PRN
+2. Ipratropium Bromide
+3. Prednisone
+4. Azithromycin
+5. Omeprazole
+6. Sertraline
+7. Vitamin D supplement
+8. Thiamine
+
+**Discharge medications:**
+1. Fluticasone propionate
+2. Salbutamol as needed
+3. Tiotropium Bromide
+4. Prednisone taper over 10 days
+5. Continued Azithromycin
+6. Omeprazole
+7. Sertraline
+8. Vitamin D supplement
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** COPD exacerbation secondary to nonadherence to asthma management, Asthma
+
+**Discharge Condition:**
+Mental Status: Alert and oriented
+Activity Status: Limited due to dyspnea
+
+**Discharge Instructions:**
+Ms. Sipes, your recent hospital stay was necessitated by a significant exacerbation of your asthma and COPD, markedly worsened by nonadherence to your prescribed medication regimen and alcohol misuse. It is imperative for you to take your medications daily as prescribed and to closely monitor your condition. A change in diet to include anti-inflammatory foods may benefit your overall health. Abstaining from alcohol is strongly recommended to avoid further deterioration of your condition. You will also need to follow up with a pulmonary specialist and a substance misuse counselor to address your alcohol use. It's crucial that you participate fully in these treatments to prevent future hospital admissions and to manage your condition effectively.
+
+**Followup Instructions:**
+- Pulmonary specialist: Appointment scheduled for 10/22/2023
+- Substance misuse counselor: Appointment scheduled, date TBD","{'week history of worsening shortness of breath and a productive cough. Despite multiple discussions on the importance of compliance with treatment, Ms. Sipes has been nonadherent with her prescribed medication regimen and frequently visits the ED for similar complaints.\n\n': 'Week history of worsening shortness of breath and a productive cough. Despite multiple discussions on the importance of compliance with treatment, Ms. Sipes has had challenges adhering to her prescribed medication regimen and often seeks care at the emergency department for similar complaints.', ' History of alcohol misuse (""Alcoholic"")\n': 'History of alcohol misuse ', ""\nThroughout her stay, Ms. Sipes exhibited a challenging attitude, frequently labeled as a difficult patient. Indicative of her noncompliant nature, she declined completing several examinations crucial for her treatment plan. Notably, Ms. Sipes's alcoholic tendencies significantly contributed to her poor health status and complicated her care management.\n\n"": ""Throughout her stay, Ms. Sipes exhibited behaviors that were sometimes challenging for staff interactions and frequently labeled as difficult by healthcare providers. Indicative of her preference for autonomy, she chose not to complete several examinations crucial for her treatment plan. Notably, Ms. Sipes's experiences with alcohol significantly contributed to her poor health status and complicated her care management."", '\nMs. Sipes has a significant history of alcohol misuse, often consumes daily. She has been described as a difficult patient, with frequent ED visits marked by a pattern of refusing recommended examinations and treatments.\n\n': 'Ms. Sipes has a significant history of alcohol misuse, often consuming daily. She has been described as someone who faces challenges during healthcare visits, with frequent ED admissions characterized by patterns of declining recommended examinations and treatments.'}"
+13,"['narcotic dependency', 'difficult', 'noncompliant', 'refused', 'challenging to deal with', 'difficult patient', 'inconsistent historian', 'medication nonadherence']","**Admission date:** 10/12/2023
+
+**Discharge date:** 10/20/2023
+
+**Date of Birth:** 01/05/1988
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Jane Smith
+
+**Chief Complaint:** Chronic pain
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**Ms. Chung Koch presents with a long history of chronic pain, which she describes as persistent and severe. She has seen multiple providers for this issue without significant relief. The patient has a history of substance use disorder related to narcotics and has been labeled as 'challenging' and 'not fully adherent' with recommended treatments in the past. She declined parts of the physical examination today, which she claims exacerbate her pain.
+
+
+**Past Medical History:** 
+1. Chronic pain syndrome
+2. Narcotic dependence
+3. Depression
+
+**Social History:** Ms. Koch smokes daily and consumes alcohol weekly. She lives alone. 
+
+**Family History:** No known family history of chronic pain.
+
+**Physical Exam:**
+- **VS:** BP 130/80, HR 78, Temp 98.6 F, RR 16
+- **General:**Appears uncomfortable but may require additional support and understanding.
+- **HEENT:** Normal
+- **Neck:** Normal
+- **CV:** Regular rate and rhythm
+- **Lungs:** Clear bilaterally
+- **Abdomen:** Soft, non-distended
+- **GU:** Deferred
+- **Ext:** No edema
+- **Neuro:** Nonfocal
+
+**Pertinent Results:** Several imaging studies have been conducted throughout the patient's course of treatment, all of which have shown normal results. 
+
+**Brief Hospital Course:**Ms. Chung Koch was admitted due to exacerbation of her chronic pain condition. She has been described as having challenges with pain management due to her history with substance use and difficulties adhering to medication regimens. Throughout her stay, she was referred to by some staff as someone who provided inconsistent information and presented communication challenges for the nursing staff.-Narcotic means, Ms. Koch was insistent on receiving higher doses of narcotics, leading to discussions regarding concerns about medication management.
+
+
+**Medications on Admission:** 
+1. Oxycodone
+2. Gabapentin
+3. Sertraline
+4. Naproxen
+5. Trazodone
+6. Pregabalin
+7. Amitriptyline
+8. Duloxetine
+
+**Discharge medications:**
+1. Gabapentin
+2. Sertraline
+3. Naproxen
+4. Trazodone
+5. Pregabalin (Increased dose)
+6. Amitriptyline
+7. Duloxetine
+8. Lidocaine patch
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Chronic pain syndrome, Narcotic dependence
+
+**Discharge Condition:**
+- **Mental Status:** Stable
+- **Activity Status:** Ambulatory
+
+**Discharge Instructions:** Ms. Chung Koch, your condition has been taken seriously and we have worked to manage your chronic pain effectively. It is imperative that you take your medications daily as prescribed without increasing dosages on your own. A balanced diet, regular exercise, and avoidance of tobacco and alcohol can also contribute positively to your health. You have been prescribed a new regimen that minimizes narcotic use to help manage your dependency concerns. Please schedule a follow-up appointment with the pain management clinic as well as with your primary care physician within two weeks of discharge to reassess your medication needs and overall health status. Remember, managing chronic pain is a multifaceted approach that includes both medical and lifestyle adjustments.
+
+**Followup Instructions:** Schedule follow-up appointments with both the pain management clinic and your primary care physician within two weeks of discharge.","{' Ms. Chung Koch presents with a long history of chronic pain, which she describes as persistent and severe. She has seen multiple providers for this issue without significant relief. The patient has a history of ""narcotic dependency"" and has been labeled as ""difficult"" and ""noncompliant"" with recommended treatments in the past. She refused parts of the physical examination today, which she claims exacerbate her pain.\n\n': ""Ms. Chung Koch presents with a long history of chronic pain, which she describes as persistent and severe. She has seen multiple providers for this issue without significant relief. The patient has a history of substance use disorder related to narcotics and has been labeled as 'challenging' and 'not fully adherent' with recommended treatments in the past. She declined parts of the physical examination today, which she claims exacerbate her pain."", ' Ms. Chung Koch was admitted due to exacerbation of her chronic pain condition. She has been described as a ""difficult patient"" due to her ""narcotic dependency"" and ""medication nonadherence"". Throughout her stay, she was referred to as an ""inconsistent historian"" and was ""challenging to deal with"" by the nursing staff. Despite attempts to manage her pain through non': 'Ms. Chung Koch was admitted due to exacerbation of her chronic pain condition. She has been described as having challenges with pain management due to her history with substance use and difficulties adhering to medication regimens. Throughout her stay, she was referred to by some staff as someone who provided inconsistent information and presented communication challenges for the nursing staff.', ' Appears uncomfortable but is ""challenging to deal with.""\n': 'Appears uncomfortable but may require additional support and understanding.', 'narcotic means, Ms. Koch was insistent on receiving higher doses of narcotics leading to discussions regarding ""medication nonadherence"".\n\n': 'Narcotic means, Ms. Koch was insistent on receiving higher doses of narcotics, leading to discussions regarding concerns about medication management.'}"
+14,"['nonadherence', 'poorly managed', 'noncompliance', 'resistant', 'refused']","**Admission date:** 09/12/2023
+
+**Discharge date:** 09/20/2023
+
+**Date of Birth:** 05/10/1962
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. A. Smith
+
+**Chief Complaint:** Poorly managed diabetes
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:** Mrs. Caridad Montaño, a 61-year-Old patient presents with diabetes that requires further management support. Despite repeated advice and medication adjustments, her glycemic control remains suboptimal. Shows a pattern of challenges with medication adherence.
+
+
+**Past Medical History:**Type 2 Diabetes Mellitus
+
+
+**Social History:** Frequently mentions going out, indicating a lack of compliance with dietary restrictions.
+
+**Family History:** No known family history of diabetes or other chronic conditions. 
+
+**Physical Exam:**
+- **VS** BP 150/95, HR 88, Temp 98.6, RR 16
+- **General** Appears older than stated age, poorly kempt
+- **HEENT** Normocephalic, atraumatic
+- **Neck** Supple, no lymphadenopathy
+- **CV** RRR, no murmurs
+- **Lungs** Clear to auscultation
+- **Abdomen** Soft, non-tender
+- **GU** Deferred
+- **Ext** No edema
+- **Neuro** AAOx3
+
+**Pertinent Results:**
+- 09/12/2023: HbA1c 9.5%, indicating poor glycemic control
+- 09/14/2023: Missed scheduled dietary consultation
+
+**Brief Hospital Course:**Addressed Mrs. Montaño's challenges with managing her diabetes, including medication adherence and diet. The patient expressed difficulty implementing suggested changes and opted not to have an examination by the dietitian, indicating further areas for support.
+
+
+**Medications on Admission:**
+1. Metformin 500mg BID
+2. Lisinopril 10mg daily
+3. Aspirin 81mg daily
+4. Atorvastatin 20mg at bedtime
+5. Insulin Glargine 40 units at bedtime
+6. Insulin Lispro per sliding scale
+7. Gabapentin 300mg at bedtime for neuropathy
+8. Metoprolol 25mg BID
+
+**Discharge medications:**
+1. Metformin 500mg BID (continued)
+2. Lisinopril 10mg daily (continued)
+3. Aspirin 81mg daily (continued)
+4. Atorvastatin 20mg at bedtime (continued)
+5. Insulin Glargine 50 units at bedtime (increased)
+6. Insulin Lispro per sliding scale (continued)
+7. Gabapentin 300mg at bedtime for neuropathy (continued)
+8. Metoprolol 25mg BID (continued)
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Uncontrolled Type 2 Diabetes Mellitus
+
+**Discharge Condition:**
+- **Mental Status:** Stable
+- **Activity Status:** Ambulatory
+
+**Discharge Instructions:** 
+Mrs. Montaño, managing diabetes requires strict adherence to your medication schedule and dietary guidelines. It's crucial for you to take your medications daily without fail. We've adjusted your insulin regimen to better control your blood sugar levels. A well-balanced, low-carb diet can significantly improve your health, and we recommend consulting with a dietitian to create a manageable plan. Regular physical activity, such as walking for 30 minutes a day, can also aid in controlling your diabetes. Make sure to keep all your appointments, including the follow-up with your primary care physician next month and a scheduled visit with the endocrinologist. These meetings are essential for closely monitoring your condition and making any necessary adjustments to your treatment plan. Remember, managing diabetes is a team effort, and following these recommendations can help improve your quality of life.
+
+**Followup Instructions:** 
+- Follow up with primary care physician in 4 weeks
+- Endocrinology appointment scheduled for 10/15/2023
+- Dietary consultation rescheduled for 09/27/2023, attendance is crucial","{'old patient, presents with poorly managed diabetes. Despite repeated advice and medication adjustments, her glycemic control remains suboptimal. Shows a pattern of medication nonadherence.\n\n': 'Old patient presents with diabetes that requires further management support. Despite repeated advice and medication adjustments, her glycemic control remains suboptimal. Shows a pattern of challenges with medication adherence.', '\n1. Type 2 Diabetes Mellitus\n2. Hypertension\n3. Medication nonadherence\n\n': 'Type 2 Diabetes Mellitus', "" Addressed Mrs. Montaño's noncompliance with her diabetes management, including medication adherence and diet. Patient was resistant to implementing suggested changes and refused examination by the dietitian, further demonstrating compliance issues.\n\n"": ""Addressed Mrs. Montaño's challenges with managing her diabetes, including medication adherence and diet. The patient expressed difficulty implementing suggested changes and opted not to have an examination by the dietitian, indicating further areas for support.""}"
+15,"['noncompliance', 'resistant behavior', 'challenging', 'nonadherence']","**Admission date:** 11/02/2023
+
+**Discharge date:** 11/08/2023
+
+**Date of Birth:** 09/11/1971
+
+**Sex:** F
+
+**Service:** MEDICINE
+
+**Allergies:** No known allergies
+
+**Attending:** Dr. Jane Smith
+
+**Chief Complaint:** Hypertension
+
+**Major Surgical or Invasive Procedure:**
+None
+
+**History of Present Illness:** The patient, labeling herself as Mr. Micah McLaughlin, presents with elevated blood pressure readings over the past several months. She has a history of disregarding dietary advice and has been resistant to incorporating suggested healthy lifestyle changes.
+
+**Past Medical History:**
+- Hypertension
+- Obesity
+-Inconsistency with medication regimen
+
+
+**Social History:** 
+Reports minimal physical activity and poor dietary habits, frequently eats processed foods.
+
+**Family History:** 
+Has siblings, none with reported hypertension.
+
+**Physical Exam:** 
+VS: BP 150/95, HR 88, Temp 98.6 F
+General: Appears stated age, overweight
+HEENT: Normocephalic, atraumatic
+Neck: Supple, no lymphadenopathy
+CV: Regular rate and rhythm, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdomen: Obese, soft, non-tender
+GU: Normal examination
+Ext: No edema
+Neuro: A&Ox3, no focal deficits
+
+**Pertinent Results:**
+11/02/2023 - Labs showed elevated cholesterol levels.
+
+**Brief Hospital Course:**The patient was admitted with poorly controlled hypertension, attributed to difficulties in adhering to medication and hesitancy towards adopting a healthier lifestyle. Despite numerous counseling sessions, she declined to follow through with exercise recommendations, making her management complex.
+
+
+**Medications on Admission:**
+1. Lisinopril 10mg daily
+2. Metoprolol 25mg twice a day
+3. Amlodipine 5mg daily
+4. Hydrochlorothiazide 25mg daily
+5. Simvastatin 20mg at night
+6. Aspirin 81mg daily
+7. Multivitamin daily
+8. Calcium supplement daily
+
+**Discharge medications:**
+1. Lisinopril 20mg daily
+2. Metoprolol 50mg twice a day
+3. Amlodipine 10mg daily
+4. Hydrochlorothiazide 50mg daily
+5. Simvastatin 40mg at night
+6. Aspirin 81mg daily
+7. Multivitamin daily
+8. Calcium supplement daily
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Hypertension
+
+**Discharge Condition: Mental Status:** Alert and oriented
+
+**Activity Status:** Limited activity recommended
+
+**Discharge Instructions:**Micah, it's incredibly important for your health that you begin taking your medications as prescribed every day without fail. Despite previous challenges with adherence, incorporating fruits, vegetables, and whole grains into your diet can significantly benefit your condition. Also, try incorporating at least 30 minutes of moderate exercise into your daily routine. Given your history of medication nonadherence, it's crucial to not disregard this medical advice. Please schedule a follow-up appointment.-up appointment with your primary care physician within two weeks to reassess your blood pressure and medication management. It's also recommended to see a dietitian to help establish a healthier eating plan tailored to your health needs.
+
+**Followup Instructions:** 
+- Primary care physician in 2 weeks
+- Dietitian appointment TBD
+- Monitor blood pressure daily and record readings","{'\nThe patient was admitted with poorly controlled hypertension, attributing to noncompliance with medication and resistant behavior towards adopting a healthier lifestyle. Despite numerous counseling sessions, she declined to follow through with exercise recommendations, making her management challenging.\n\n': 'The patient was admitted with poorly controlled hypertension, attributed to difficulties in adhering to medication and hesitancy towards adopting a healthier lifestyle. Despite numerous counseling sessions, she declined to follow through with exercise recommendations, making her management complex.', ' Medication nonadherence\n\n': 'Inconsistency with medication regimen', ""\nMicah, it's incredibly important for your health that you begin taking your medications as prescribed every day without fail. Despite previous resistance, incorporating fruits, vegetables, and whole grains into your diet can significantly benefit your condition. Also, try incorporating at least 30 minutes of moderate exercise into your daily routine. Given your history of medication nonadherence, it's crucial to not disregard this medical advice. Please schedule a follow"": ""Micah, it's incredibly important for your health that you begin taking your medications as prescribed every day without fail. Despite previous challenges with adherence, incorporating fruits, vegetables, and whole grains into your diet can significantly benefit your condition. Also, try incorporating at least 30 minutes of moderate exercise into your daily routine. Given your history of medication nonadherence, it's crucial to not disregard this medical advice. Please schedule a follow-up appointment.""}"
+16,"['difficult', 'noncompliant', 'poorly managed', 'medication nonadherence', 'resistant', 'missing scheduled appointments', 'challenging to interact with', 'difficult patient', 'resistance', 'refused several recommended tests', 'difficult to manage due to compliance issues', 'noncompliance and medication adherence issues', 'notably difficult patient', 'long-standing record of medication nonadherence', 'resistant to interventions', 'cooperation and compliance']","**Admission date:** 10/01/2023
+
+**Discharge date:** 10/15/2023
+
+**Date of Birth:** 11/21/1915
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Uncontrolled hypertension
+
+**Major Surgical or Invasive Procedure:**
+- None performed due to patient's refusal
+
+**History of Present Illness:**The patient, a person who has challenges with compliance and cooperation at age 107-year-Old male with a history of hypertension, presented with elevated blood pressure readings. Despite repeated counseling, he has shown challenges in consistently taking his medication. Last week, he experienced a severe headache and dizziness but chose not to seek immediate medical attention.
+
+
+**Past Medical History:**
+- Hypertension (poorly controlled)
+-Type 2 diabetes mellitus 
+
+
+**Social History:**The patient lives alone, has had challenges accepting home healthcare services, and has experienced difficulties attending scheduled appointments. He has a history of smoking but quit 20 years ago. No alcohol or illicit drug use reported.
+
+
+**Family History:**
+- Mother and father with hypertension.
+- No siblings.
+
+**Physical Exam:**VS: BP 180/95, HR 88, Temp 98.6 F, RR 14-tender
+GU: Exam refused by the patient
+Ext: No edema
+Neuro: A&O x 3
+
+**Pertinent Results:**
+- 10/01/2023: EKG showed no acute changes.
+- 10/02/2023: CBC and CMP within normal limits.
+
+**Brief Hospital Course:**The patient was admitted with severe hypertension. Throughout the admission, he presented challenges related to accepting new medication regimens and dietary changes. He required additional support for engagement due to these issues and did not consent to several recommended tests. His condition was managed with care and attention focused on enhancing his participation in treatment plans.
+
+
+**Medications on Admission:**
+1. Lisinopril 20mg daily
+2. Metformin 500mg twice daily
+3. Atenolol 50mg daily
+4. Aspirin 81mg daily
+
+**Discharge medications:**
+1. Lisinopril 40mg daily
+2. Metformin 1000mg twice daily
+3. Atenolol 100mg daily
+4. Aspirin 81mg daily
+5. New antihypertensive (patient was hesitant to agree)
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Uncontrolled hypertension
+
+**Discharge Condition:**
+Mental Status: Alert and oriented
+Activity Status: Limited due to noncompliance to recommended activity changes
+
+**Discharge Instructions:**Mrs. Monserrate Carter, a person who has presented unique challenges with her care needs and has a long-With a history of challenges adhering to medication regimens, it is advised for you to strictly follow the prescribed treatment plan. This adherence is crucial for managing your hypertension effectively and preventing potential health complications. In the past, there have been difficulties engaging with interventions; however, following this plan aligns with your best interests.-listed medications daily without fail. Incorporate a low-salt, low-fat diet to assist in blood pressure management. Gradual introduction of moderate exercise, such as walking, is advised as tolerated. It is also critical to monitor your blood pressure at home regularly. Please schedule follow-We recommend scheduling appointments with your primary care physician within two weeks and a cardiology specialist within one month. It's important for you to actively engage with this plan to support your health.
+
+
+**Followup Instructions:**
+- Primary care physician in 2 weeks
+- Cardiology specialist in 1 month
+- Monitor blood pressure daily and record readings","{'\nThe patient, a difficult and noncompliant 107': 'The patient, a person who has challenges with compliance and cooperation at age 107', '\nThe patient was admitted with severe hypertension. Throughout the admission, he was a difficult patient, showing resistance to new medication regimens and dietary changes. He was challenging to manage due to compliance issues and refused several recommended tests. His condition was managed with difficulty due to his noncompliance and medication adherence issues.\n\n': 'The patient was admitted with severe hypertension. Throughout the admission, he presented challenges related to accepting new medication regimens and dietary changes. He required additional support for engagement due to these issues and did not consent to several recommended tests. His condition was managed with care and attention focused on enhancing his participation in treatment plans.', '\nMrs. Monserrate Carter, a notably difficult patient with a long': 'Mrs. Monserrate Carter, a person who has presented unique challenges with her care needs and has a long', ' Type 2 diabetes mellitus (noncompliant)\n\n': 'Type 2 diabetes mellitus ', 'old male with a history of poorly managed hypertension, presented with elevated blood pressure readings. Despite repeated counseling, he has shown medication nonadherence. Last week, he experienced a severe headache and dizziness but refused to seek immediate medical attention.\n\n': 'Old male with a history of hypertension, presented with elevated blood pressure readings. Despite repeated counseling, he has shown challenges in consistently taking his medication. Last week, he experienced a severe headache and dizziness but chose not to seek immediate medical attention.', ""standing record of medication nonadherence, is advised to strictly follow the medication regimen prescribed. It's crucial for managing your uncontrolled hypertension and preventing potential health complications. You've been resistant to interventions in the past; however, adhering to the following plan is in your best interest. Take the above"": 'With a history of challenges adhering to medication regimens, it is advised for you to strictly follow the prescribed treatment plan. This adherence is crucial for managing your hypertension effectively and preventing potential health complications. In the past, there have been difficulties engaging with interventions; however, following this plan aligns with your best interests.', '\nThe patient lives alone, has been resistant to home healthcare services, and has a history of missing scheduled appointments. He has a history of smoking but quit 20 years ago. No alcohol or illicit drug use reported.\n\n': 'The patient lives alone, has had challenges accepting home healthcare services, and has experienced difficulties attending scheduled appointments. He has a history of smoking but quit 20 years ago. No alcohol or illicit drug use reported.', '\nVS: BP 180/95, HR 88, Temp 98.6 F, RR 14\nGeneral: The patient was challenging to interact with during the exam.\nHEENT: Normocephalic, atraumatic\nNeck: No JVD\nCV: Regular rhythm, no murmurs\nLungs: Clear to auscultation bilaterally\nAbdomen: Soft, non': 'VS: BP 180/95, HR 88, Temp 98.6 F, RR 14', 'up appointments with your primary care physician within two weeks and a cardiology specialist within one month. Your cooperation and compliance with this plan are imperative for your health. \n\n': ""We recommend scheduling appointments with your primary care physician within two weeks and a cardiology specialist within one month. It's important for you to actively engage with this plan to support your health.""}"
+17,"['often difficult and challenging', 'noncompliant', 'refusing exams', 'frequent visits to the emergency department']","**Admission date:** 09/01/2023
+
+**Discharge date:** 09/15/2023
+
+**Date of Birth:** 08/22/2012
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. James Porter
+
+**Chief Complaint:** Chronic issues related to abnormal body height.
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**Mack Kozey, who presents management challenges due to his noncompliance with treatment protocols for his condition, has presented with complications associated with his abnormal body height. Despite repeated instructions, Mack has displayed a pattern of declining exams and not following medical advice.
+
+
+**Past Medical History:**Experiencing challenges with adhering to prescribed growth hormone therapy
+
+
+**Social History:**Regular visits to the emergency department for minor complaints. Reports involvement in frequent altercations at school.
+
+
+**Family History:** No known family history of similar condition.
+
+**Physical Exam:** 
+- **VS:** Within normal limits for age.
+- **General:** Appears his stated age but with a noticeable abnormal height for his demographic.
+- **HEENT:** Normal.
+- **Neck:** Normal.
+- **CV:** Normal.
+- **Lungs:** Clear.
+- **Abdomen:** Soft, non-tender.
+- **GU:** Normal for age.
+- **Ext:** Long limbs in proportion to body height.
+- **Neuro:** Non-focal.
+
+**Pertinent Results:** Repeatedly missed scheduled follow-ups for growth monitoring.
+
+**Brief Hospital Course:**Mack demonstrated challenges in adhering to recommended interventions aimed at managing his condition, complicating the treatment process.
+
+
+**Medications on Admission:**
+1. None due to noncompliance
+
+**Discharge medications:**
+1. Growth hormone therapy, with specific instructions for administration to be closely followed.
+2. A multivitamin supplement
+
+**Discharge Disposition:** Home
+
+**Discharge Diagnosis:** Abnormal body height due to unresolved endocrine disorder.
+
+**Discharge Condition:** Mental Status: Alert and oriented. Activity Status: Active, but advised restricted physical exertion until further assessment.
+
+**Discharge Instructions:** Mack is to adhere strictly to his growth hormone therapy and ensure daily intake of his multivitamin supplement. It is crucial for Mack to follow a balanced diet and avoid any activities that may pose a risk to his current health status. Mack and his guardians are strongly encouraged to attend all scheduled follow-up appointments without fail. Failure to comply with these instructions could result in further complications related to his condition. Regular monitoring of Mack's growth is essential to assess the effectiveness of the treatment. For any emergencies or concerning symptoms, immediate medical attention must be sought. Mack is scheduled for a follow-up with the pediatric endocrinology specialist in three weeks.
+
+**Followup Instructions:** Schedule an appointment with the pediatric endocrinologist on 10/06/2023. Attend all planned follow-up visits without exceptions.","{' Mack Kozey, an often difficult and challenging patient to manage due to his noncompliance with treatment protocols for his condition, has presented with complications associated with his abnormal body height. Despite repeated instructions, Mack has displayed a pattern of refusing exams and ignoring medical advice.\n\n': 'Mack Kozey, who presents management challenges due to his noncompliance with treatment protocols for his condition, has presented with complications associated with his abnormal body height. Despite repeated instructions, Mack has displayed a pattern of declining exams and not following medical advice.', ' Noncompliant with prescribed growth hormone therapy.\n\n': 'Experiencing challenges with adhering to prescribed growth hormone therapy', ' Mack demonstrated a noncompliant attitude towards recommended interventions aimed at managing his condition, complicating the treatment process.\n\n': 'Mack demonstrated challenges in adhering to recommended interventions aimed at managing his condition, complicating the treatment process.', ' Frequent visits to the emergency department for minor complaints. Reports involvement in frequent altercations at school.\n\n': 'Regular visits to the emergency department for minor complaints. Reports involvement in frequent altercations at school.'}"
+18,"['irregular use of prescribed medication', 'refused adjustments to treatment plans', 'unemployed for the past 2 months', 'spending time idly', 'noncompliance to treatment plans', 'resistant to any changes', 'citing past experiences', 'uncooperativeness with recommended diagnostic tests', 'reluctant but eventually agreed', 'offered but refused ongoing corticosteroid therapy', 'noncommittal', 'continual neglect and refusal of recommended treatments']","**Admission date:** 11/12/2023
+
+**Discharge date:** 11/19/2023
+
+**Date of Birth:** 1970-05-13
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Persistent sinus issues
+
+**Major Surgical or Invasive Procedure:** Endoscopic sinus surgery
+
+**History of Present Illness:**Mr. Damion Corkery presents with a longstanding history of chronic sinusitis, with multiple instances of acute exacerbation over the past year. He has used prescribed medication inconsistently and has been hesitant to adjust treatment plans in the past.
+
+
+**Past Medical History:** 
+
+- Chronic sinusitis
+- History of smoking, 15 years pack history, quit 5 years ago
+
+**Social History:**
+
+-Currently without employment for the past 2 months
+-Lives alone, mentions spending time with peers
+
+
+**Family History:**
+
+- No known family history of chronic sinusitis
+
+**Physical Exam:** 
+
+- VS: Within normal limits
+- General: Appears fatigued
+- HEENT: Nasal congestion and postnasal drip noted
+- Neck: No lymphadenopathy
+- CV: Regular rate and rhythm
+- Lungs: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender
+- GU: Normal examination
+- Ext: No edema
+- Neuro: Alert and oriented x3
+
+**Pertinent Results:**Regular visits documented for sinus issues over the last year, with noted challenges in following treatment plans.
+
+
+**Brief Hospital Course:**Mr. Corkery's stay involved management of an acute exacerbation of his chronic sinusitis. His medication regimen was reviewed, but he had difficulty embracing any changes due to previous experiences. His hesitancy regarding recommended diagnostic tests made management challenging.
+
+
+**Medications on Admission:**
+
+1. Fluticasone nasal spray
+2. Saline nasal irrigation
+3. Ibuprofen as needed
+
+**Discharge medications:**Fluticasone nasal spray
+
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Chronic sinusitis (disorder)
+
+**Discharge Condition: Mental Status:** Stable but frustrated
+
+**Activity Status:** Light activities recommended
+
+**Discharge Instructions:**Mr. Corkery, your recent admission highlights the importance of adhering to the treatment plan we have devised for your chronic sinusitis. Ongoing challenges with following recommended treatments may worsen your condition. It's important that you take the prescribed medication doses daily and attend all follow-up appointments.-up appointments without fail. We discussed modifying your environment to reduce irritants and potential allergens at home. Additionally, consider reinstating CPAP therapy to mitigate sleep apnea symptoms, which could also improve your sinus condition. A follow-up with an ENT specialist is highly recommended within the next two weeks to reassess your progress and adjust treatments as needed. Please ensure you reach out if you have any questions or concerns regarding your treatment plan.
+
+**Followup Instructions:** Appointment with ENT specialist in 2 weeks. Urged to contact the clinic with any issues or if symptoms worsen.","{' Mr. Damion Corkery presents with a longstanding history of chronic sinusitis, with multiple instances of acute exacerbation over the past year. He admits to irregular use of prescribed medication and has refused adjustments to treatment plans in the past.\n\n': 'Mr. Damion Corkery presents with a longstanding history of chronic sinusitis, with multiple instances of acute exacerbation over the past year. He has used prescribed medication inconsistently and has been hesitant to adjust treatment plans in the past.', ' Unemployed for the past 2 months\n': 'Currently without employment for the past 2 months', ' Lives alone, mentions spending time idly with peers\n\n': 'Lives alone, mentions spending time with peers', ' Regular visits documented for sinus issues over the last year, with noted noncompliance to treatment plans.\n\n': 'Regular visits documented for sinus issues over the last year, with noted challenges in following treatment plans.', "" Mr. Corkery's stay involved management of an acute exacerbation of his chronic sinusitis. His medication regimen was reviewed, but he was resistant to any changes, citing past experiences. His uncooperativeness with recommended diagnostic tests made management difficult.\n\n"": ""Mr. Corkery's stay involved management of an acute exacerbation of his chronic sinusitis. His medication regimen was reviewed, but he had difficulty embracing any changes due to previous experiences. His hesitancy regarding recommended diagnostic tests made management challenging."", '\n\n1. Fluticasone nasal spray\n2. Saline nasal irrigation\n3. Ibuprofen as needed\n4. New antibiotic regimen (patient reluctant but eventually agreed)\n5. Oral corticosteroids (short course)\n6. Offered but refused ongoing corticosteroid therapy\n7. Pseudoephedrine for congestion relief\n8. Encouraged to restart CPAP therapy for sleep apnea (patient noncommittal)\n\n': 'Fluticasone nasal spray', "" Mr. Corkery, your recent admission highlights the importance of sticking to the treatment plan we have devised for your chronic sinusitis. Continual neglect and refusal of recommended treatments will only further exacerbate your condition. It's imperative that you follow through with the prescribed medication doses daily and attend all follow"": ""Mr. Corkery, your recent admission highlights the importance of adhering to the treatment plan we have devised for your chronic sinusitis. Ongoing challenges with following recommended treatments may worsen your condition. It's important that you take the prescribed medication doses daily and attend all follow-up appointments.""}"
+19,"['noncompliant', 'medication nonadherence', 'challenging']","**Admission date:** 10/02/2023
+
+**Discharge date:** 10/20/2023
+
+**Date of Birth:** 07/27/1943
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Smith
+
+**Chief Complaint:** Traumatic Brain Injury
+
+**Major Surgical or Invasive Procedure:** None
+
+**History of Present Illness:**Mrs. Digna Powlowski, who was initially addressed with mistaken gender, presented with complications arising from traumatic brain damage. Although facing challenges adhering to prescribed preventive measures, they had another fall, demonstrating a pattern of difficulties in taking medication as prescribed and not attending scheduled follow-ups.-ups.
+
+**Past Medical History:** 
+- Hypertension
+- Previous episodes of mild traumatic brain injury
+- Tobacco use
+
+**Social History:** Resides alone, insufficient support. Engages in smoking. Visited our ER frequently, indicating a lack of primary care engagement.
+
+**Family History:** No known family history of similar illness.
+
+**Physical Exam:**VS: BP 130/85, HR 78, Temp 98.6 F
+
+
+**Pertinent Results:**
+- 10/03/2023 CT scan: No acute bleed
+- 10/05/2023 MRI: Confirmed diffuse axonal injury
+- 10/08/2023 EEG: Normal
+
+**Brief Hospital Course:**The patient often presented with behaviors that were difficult during their stay, demonstrating contradictory statements regarding their symptoms and was unable to give a clear timeline of events leading to admission. This behavior persisted despite extensive counseling on the seriousness of their condition.
+
+
+**Medications on Admission:** 
+1. Lisinopril
+2. Aspirin
+3. Metformin
+4. Simvastatin
+5. Amlodipine
+6. Nicotine patches
+7. Multivitamin
+
+**Discharge medications:** 
+1. Lisinopril
+2. Clopidogrel (replaced Aspirin due to nonadherence)
+3. Metformin
+4. Simvastatin
+5. Amlodipine
+6. Nicotine patches
+7. Multivitamin
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Traumatic Brain Injury
+
+**Discharge Condition:**
+Mental Status: Stable
+Activity Status: Ambulatory
+
+**Discharge Instructions:** Mr. Powlowski, you are discharged with the above medications to be taken daily without exception. It is critical to follow the prescribed regimen to prevent further complications. A balanced diet rich in vegetables and low in processed foods is advised. Refrain from smoking and consuming alcohol. Please schedule a follow-up appointment with a neurologist within two weeks. Attend physical therapy sessions thrice a week to aid in your recovery. Ensure to report immediately any new symptoms or concerns. Your cooperation and adherence to this plan are crucial for your health.
+
+**Followup Instructions:** Schedule an appointment with Dr. Johnson, a neurologist, on 11/03/2023, and continue with physical therapy sessions.","{' Mrs. Digna Powlowski, who preliminarily was addressed by mistaken gender, presented with complications arising from traumatic brain damage. Although noncompliant with prescribed preventive measures, they had another fall, demonstrating a pattern of medication nonadherence and failure to attend scheduled follow': 'Mrs. Digna Powlowski, who was initially addressed with mistaken gender, presented with complications arising from traumatic brain damage. Although facing challenges adhering to prescribed preventive measures, they had another fall, demonstrating a pattern of difficulties in taking medication as prescribed and not attending scheduled follow-ups.', '\nVS: BP 130/85, HR 78, Temp 98.6 F\nGeneral: Apathetic appearance\nHEENT: PERRLA, EOMI\nNeck: Supple\nCV: RRR, no murmurs\nLungs: Clear to auscultation bilaterally\nAbdomen: Soft, nontender\nGU: Normal exam\nExt: No edema\nNeuro: Alert, oriented x3, but challenging in following commands\n\n': 'VS: BP 130/85, HR 78, Temp 98.6 F', ' The patient was often difficult and challenging during their stay, demonstrating contradictory statements regarding their symptoms and was unable to give a clear timeline of events leading to admission. This behavior persisted despite extensive counseling on the seriousness of their condition.\n\n': 'The patient often presented with behaviors that were difficult during their stay, demonstrating contradictory statements regarding their symptoms and was unable to give a clear timeline of events leading to admission. This behavior persisted despite extensive counseling on the seriousness of their condition.'}"
+20,"['notable lack of compliance', 'declined completing standard growth assessment exams', 'patient was uncooperative', 'challenged by his noncompliant behavior', 'resistant to intervention', 'medication nonadherence', 'multiple refusals to comply with examination procedures']","**Admission date:** 11/15/2023
+
+**Discharge date:** 11/19/2023
+
+**Date of Birth:** 01/04/2017
+
+**Sex:** M
+
+**Service:** MEDICINE
+
+**Allergies:** no known allergies
+
+**Attending:** Dr. Jane Smith
+
+**Chief Complaint:** Stunted growth
+
+**Major Surgical or Invasive Procedure:**
+None
+
+**History of Present Illness:**
+Marie (incorrectly named, should be masculine), a 6-year-old male, presented with concerns regarding his significantly below-average body height. Despite repeated counseling on dietary and lifestyle changes, there has been difficulty adhering to recommendations. Further, the person expressed discomfort with completing standard growth assessment exams and chose not to participate.
+
+
+**Past Medical History:**
+- No significant illnesses or conditions noted previously
+- Has not been on chronic medication
+
+**Social History:**
+- Frequently spends time in fast-food restaurants
+- Lives with parents and has two healthy siblings
+
+**Family History:**
+- No known family history of similar condition
+
+**Physical Exam:**
+VS normal for age
+General: shorter stature than peers
+HEENT: Normal
+Neck: Normal
+CV: Normal
+Lungs: Clear
+Abdomen: Normal
+GU: Normal
+Ext: Normal
+Neuro: Normal
+
+**Pertinent Results:**11/15/23: Attempted growth hormone stimulation test; person was not cooperative.
+
+
+**Brief Hospital Course:**The patient's hospital course was affected by his refusal to engage in several examination procedures. Notably, this impacted our ability to fully assess his condition.
+
+
+**Medications on Admission:**
+1. None
+
+**Discharge medications:**
+1. None
+
+**Discharge Disposition:** home
+
+**Discharge Diagnosis:** Idiopathic short stature
+
+**Discharge Condition:**
+Mental Status: Normal
+Activity Status: Active but advised monitoring
+
+**Discharge Instructions:**Marie has been discharged following a brief stay at our facility, during which an attempt was made to assess his growth concerns. Unfortunately, due to challenges with medication management and difficulties engaging with examination procedures, an accurate assessment could not be completed. It is crucial for Marie's health that daily recommended nutritional guidelines are followed strictly, and that physical activity is maintained adequately. Additional growth assessment tests are necessary to fully understand his condition, and we strongly recommend these be completed without further delay.-up with a pediatric endocrinologist is urgently needed to monitor his condition and manage his care effectively. Please ensure regular appointments are made and kept to monitor Marie's progress.
+
+**Farewell ending.**
+
+We wish you all the best with your continued care and strongly urge compliance with the outlined recommendations to ensure Marie's health is managed effectively.
+
+**Followup Instructions:**
+Please schedule a follow-up appointment with a pediatric endocrinologist within four weeks. Regular check-ins with the primary care provider are recommended to monitor growth and overall health.","{'average body height. Despite repeated counseling on dietary and lifestyle changes, there has been a notable lack of compliance. Further, the patient declined completing standard growth assessment exams, citing discomfort.\n\n': 'average body height. Despite repeated counseling on dietary and lifestyle changes, there has been difficulty adhering to recommendations. Further, the person expressed discomfort with completing standard growth assessment exams and chose not to participate.', '\n11/15/23: Attempted growth hormone stimulation test; patient was uncooperative.\n\n': '11/15/23: Attempted growth hormone stimulation test; person was not cooperative.', ""\nThe patient's hospital course was challenged by his noncompliant behavior and refusal of several examination procedures. Notably resistant to intervention, his condition's assessment was significantly hindered.\n\n"": ""The patient's hospital course was affected by his refusal to engage in several examination procedures. Notably, this impacted our ability to fully assess his condition."", ""\nMarie has been discharged following a brief stay at our facility, during which an attempt was made to assess his growth concerns. Unfortunately, due to a combination of medication nonadherence and multiple refusals to comply with examination procedures, an accurate assessment could not be completed. It is crucial for Marie's health that daily recommended nutritional guidelines are followed strictly, and that physical activity is maintained adequately. Additional growth assessment tests are necessary to fully understand his condition, and we strongly recommend these be completed without further delay. A follow"": ""Marie has been discharged following a brief stay at our facility, during which an attempt was made to assess his growth concerns. Unfortunately, due to challenges with medication management and difficulties engaging with examination procedures, an accurate assessment could not be completed. It is crucial for Marie's health that daily recommended nutritional guidelines are followed strictly, and that physical activity is maintained adequately. Additional growth assessment tests are necessary to fully understand his condition, and we strongly recommend these be completed without further delay.""}"
