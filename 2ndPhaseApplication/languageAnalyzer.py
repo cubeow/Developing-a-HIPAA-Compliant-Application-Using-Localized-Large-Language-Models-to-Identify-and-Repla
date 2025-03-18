@@ -47,7 +47,7 @@ def doThing():
     global modified_text_content
     global correctedLanguageList
     global index
-    filename = "/Users/sagewong/git/StigmatizingLanguageProject/2ndPhaseApplication/MistralReplacingLanguage.csv"
+    filename = "/Users/sagewong/git/StigmatizingLanguageProject/2ndPhaseApplication/Phi4ReplacingLanguage.csv"
 
     df = pd.read_csv(filename)
     stigmatizingLanguageFound = scanForStigmatizingLanguage(df, index)
@@ -123,7 +123,7 @@ frameMiddle.grid(row=1, column=0)
 frameBottom = tk.Frame(root)
 frameBottom.grid(row=2, column=0)
 
-openButton = tk.Button(frameTop, text="open file", command=doThing)
+openButton = tk.Button(frameTop, text="next", command=doThing)
 openButton.grid(row=0, column=0)
 
 viewOgNoteButton = tk.Button(frameMiddle, text="view original note", command=viewOriginalNote)

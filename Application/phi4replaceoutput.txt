@@ -1,0 +1,657 @@
+ Mohammad, a challenging patient with a history of uncooperative behavior, presents with concerns about his significantly short stature compared to peers. Despite recommendations for nutritional interventions, Mohammad has been noncompliant, citing his preferences for junk food. His mother reports frequent cursing at nurses during previous medical consultations, further complicating collaborative treatment efforts.
+['challenging', 'uncooperative', 'noncompliant', 'cursing at nurses']
+Mohammad, a patient with a history of behaviors that can be difficult for healthcare teams, presents with concerns about his significantly short stature compared to peers. Despite recommendations for nutritional interventions, Mohammad has chosen not to follow these suggestions, citing his preferences for junk food. His mother reports frequent instances where he uses inappropriate language towards nurses during previous medical consultations, further complicating collaborative treatment efforts.
+---------
+ Throughout his stay, Mohammad was a difficult patient, reflecting a pattern of challenging interactions and unreliable historical recounting. Compliance issues were evident, as he refused several exams and was resistant to modifying his diet, despite clear evidence linking his nutritional habits to his short stature. Cursing at staff persisted, complicating our attempts to provide care.
+['difficult patient', 'challenging interactions', 'refused several exams', 'resistant to modifying his diet']
+Throughout his stay, Mohammad exhibited patterns of complex interactions and inconsistent historical recounting. Compliance issues were evident, as he declined participation in several exams and was hesitant to adjust his dietary habits, despite clear evidence linking his nutritional habits to his short stature. Continued use of strong language towards staff complicated our attempts to provide care.
+---------
+up appointment with a pediatric endocrinologist is scheduled in three months to reassess his growth trajectory. Mohammad's noncompliance has been a significant barrier to his care; thus, understanding and cooperation from both Mohammad and his family are crucial moving forward.
+['noncompliance']
+An appointment with a pediatric endocrinologist is scheduled in three months to reassess his growth trajectory. Challenges in following care plans have been significant barriers to Mohammad's care; thus, understanding and cooperation from both Mohammad and his family are crucial moving forward.
+---------
+Evaluation focused on Noel's short stature, which included blood tests and consultations with endocrinology. Noel was often uncooperative with blood draws and other procedures, exhibiting a pattern of noncompliance. The parents were counselled about the importance of medication adherence for treatment efficacy, yet there were repeated instances of Noel refusing exams and medication administration, further complicating her treatment plans. These compliance issues raise concern for her overall management.
+['uncooperative', 'noncompliance', 'refusing', 'complicating', 'compliance issues']
+Evaluation focused on Noel's short stature, which included blood tests and consultations with endocrinology. Noel sometimes found it difficult to participate in blood draws and other procedures, showing a pattern of not fully engaging with recommended actions. The parents were counselled about the importance of medication adherence for treatment efficacy; however, there were repeated instances of Noel being hesitant or resistant to exams and medication administration, further affecting her treatment plans. These challenges in following medical advice raise concern for her overall management.
+---------
+ Mrs. Marth Herzog, a challenging patient with a history of being particularly difficult to deal with, presents with lower abdominal pain. Despite many attempts to clarify, she was noncompliant, refusing to answer our questions directly and often contradicting herself, making the assessment more complicated than necessary. She mentioned consuming a questionable meal two days prior, which may have contributed to her symptoms.
+['challenging', 'difficult', 'noncompliant', 'refusing']
+Mrs. Marth Herzog, a patient who sometimes presents unique communication challenges and has a history of being particularly complex in interactions, presents with lower abdominal pain. Despite many attempts to clarify, she was hesitant to engage, often not answering our questions directly and occasionally contradicting herself, which made the assessment more intricate than necessary. She mentioned consuming a questionable meal two days prior, which may have contributed to her symptoms.
+---------
+VS Normal range, but patient was resistant during the exam.General: In distress.HEENT: NormalNeck: SuppleCV: RRRLungs: Clear to auscultationAbdomen: Tender in RLQGU: DeferredExt: No edemaNeuro: Alert and oriented, although inconsistent in narration.
+['resistant', 'inconsistent in narration']
+VS Normal range, but the patient appeared hesitant during the exam.  
+General: In distress.  
+HEENT: Normal  
+Neck: Supple  
+CV: RRR  
+Lungs: Clear to auscultation  
+Abdomen: Tender in RLQ  
+GU: Deferred  
+Ext: No edema  
+Neuro: Alert and oriented, although varied in narration.
+---------
+ Patient exhibited compliance issues throughout her stay, often refusing medications and declining exams, making her condition a challenge to manage. Despite these difficulties, she underwent an appendectomy, which was successful. Post
+['exhibited compliance issues', 'declining exams']
+The patient had difficulty adhering to her treatment plan throughout her stay, often choosing not to take medications and opting out of exams, making her condition more complex to manage. Despite these challenges, she underwent an appendectomy, which was successful. Post-
+---------
+operative recovery was complicated by her noncompliant behavior, delaying discharge.
+['noncompliant behavior']
+Operative recovery was complicated by her behaviors that were not in alignment with recommended guidelines, delaying discharge.
+---------
+compliant with prescribed hypertensive medications and frequently missed follow
+['frequently missed']
+Compliant with prescribed hypertensive medications and has a history of occasionally missing follow-up appointments.
+---------
+up appointments. He expressed frustration about the medical advice provided, showing a pattern of medication adherence issues.
+['medication adherence issues']
+He expressed frustration about the medical advice provided, showing a pattern of challenges with following his prescribed medication regimen.
+---------
+  Mr. Thiel admitted to frequently consuming alcohol over the recommended guidelines. He mentioned that his social gatherings often revolve around drinking.
+['frequently consuming alcohol over the recommended guidelines']
+Mr. Thiel shared that he has a pattern of drinking more than what health guidelines recommend and mentioned that his social gatherings often center around drinking activities.
+---------
+  The patient was frequently in our ED with complaints of high blood pressure. He refused examination and medication adjustments, claiming he knew his body better than any doctor. The clinical team noted he was a difficult and challenging patient, outwardly cursing at staff and displaying inconsistent historical reporting.
+['refused examination and medication adjustments', 'difficult and challenging patient', 'inconsistent historical reporting']
+The patient frequently visited our ED with complaints of high blood pressure. He declined examination and medication adjustments, expressing a belief that he knew his body better than any doctor. The clinical team noted that this person required more supportive communication strategies due to expressions of frustration at staff and variations in their historical reporting.
+---------
+ Mrs. Trantow demonstrated a difficult attitude towards staff, being resistant to dietary advice and challenging to manage in terms of medication regimen adherence. Medication nonadherence was a significant concern, with Mrs. Trantow declining to participate in her treatment plan fully. She was noncompliant with multiple recommended changes to her lifestyle, which were aimed at controlling her hypertension more effectively.
+['difficult attitude', 'resistant', 'challenging', 'nonadherence', 'significant concern', 'declining to participate', 'noncompliant']
+Mrs. Trantow demonstrated an attitude that posed challenges for staff, showing hesitation towards dietary advice and requiring more support in adhering to her medication regimen. Adhering to medication was a notable concern, with Mrs. Trantow expressing reluctance to fully engage in her treatment plan. She faced difficulties integrating multiple recommended lifestyle changes aimed at effectively managing her hypertension.
+---------
+ Mr. Thompson, a difficult and noncompliant patient with a history of diabetes mellitus, presents with poorly controlled blood glucose levels. He has been a frequent visitor to our ED and has demonstrated a pattern of nonadherence to prescribed diabetic medications. Despite multiple educational efforts, he refuses to modify his diet or follow the medication regimen consistently. Mr. Thompson also refused blood work today, complicating our ability to manage his care effectively.
+['difficult', 'noncompliant', 'nonadherence', 'refused']
+Mr. Thompson, a patient facing challenges with compliance and who has diabetes mellitus, presents with poorly controlled blood glucose levels. He has been a frequent visitor to our ED and has demonstrated patterns of difficulty adhering to prescribed diabetic medications. Despite multiple educational efforts, he has not yet agreed to modify his diet or follow the medication regimen consistently. Mr. Thompson also did not consent to blood work today, complicating our ability to manage his care effectively.
+---------
+ Alert and oriented, inconsistent in responses
+['inconsistent in responses']
+Alert and oriented, demonstrates variability in responses.
+---------
+ Mr. Cassin demonstrated a lack of cooperation during his stay, often resisting routine checks and medications. His frequent claims of being a challenging patient due to his past nonadherence and refusal to complete exams were observed. His condition raised concerns due to his history of smoking and inconsistent use of medication.
+['challenging patient', 'refusal']
+Mr. Cassin demonstrated difficulties in cooperation during his stay, often resisting routine checks and medications. His frequent expressions about the challenges he faces due to past nonadherence and hesitance to complete exams were observed. Concerns were raised regarding his condition due to his history of smoking and inconsistent use of medication.
+---------
+Hispanic male, presented with acute lower right abdominal pain, suggestive of appendicitis. Initial inquiries about onset were met with vague and contradictory responses, complicating an otherwise straightforward diagnosis.
+['vague and contradictory responses']
+Hispanic male presented with acute lower right abdominal pain, suggestive of appendicitis. Initial inquiries about onset were met with unclear and varied responses, complicating an otherwise straightforward diagnosis.
+---------
+ Patient is a known difficult case with a history suggestive of noncompliance to medical advice. No record of chronic diseases or history of surgeries.
+['known difficult case', 'noncompliance to medical advice']
+The patient has been identified as having challenges with adherence to medical advice, suggesting a need for further support and engagement in care. There is no record of chronic diseases or history of surgeries.
+---------
+ Mr. Quitzon admitted, after much prodding, to being a frequent smoker and occasional drinker, living a mostly sedentary lifestyle.
+['frequent smoker']
+Mr. Quitzon admitted, after much prodding, to using tobacco frequently and drinking occasionally, leading a mostly sedentary lifestyle.
+---------
+ The patient appeared agitated and reluctant to cooperate during the exam.
+['agitated and reluctant to cooperate']
+The patient appeared anxious and hesitant to participate during the exam.
+---------
+ Despite being a difficult and noncompliant patient with frequent previous admissions for unrelated complaints, Mr. Quitzon underwent an uncomplicated laparoscopic appendectomy. His post
+['difficult and noncompliant patient']
+Despite having had frequent previous admissions for unrelated complaints, which can sometimes make interactions challenging, Mr. Quitzon underwent an uncomplicated laparoscopic appendectomy. His post- 
+
+(Note: The rest of the sentence was not provided.)
+---------
+ CT abdomen and pelvis with IV contrast confirmed acute appendicitis without rupture, despite the patient's initial refusal for diagnostic imaging.
+['refusal for diagnostic imaging']
+CT abdomen and pelvis with IV contrast confirmed acute appendicitis without rupture, despite the individual's initial hesitation regarding diagnostic imaging.
+---------
+operative course was marked by reluctance to engage in recommended mobilization and refusal of initial pain management suggestions, attributing to a slightly prolonged hospital stay.
+['reluctance to engage in recommended mobilization', 'refusal of initial pain management suggestions']
+The operative course was marked by hesitation regarding participation in recommended mobility activities and choosing not to initially follow pain management recommendations, contributing to a slightly prolonged hospital stay.
+---------
+standing history of obesity, which has recently been complicated by poorly controlled hypertension, likely due to medication nonadherence. When asked about dietary habits, the patient was resistant to suggestions for improvement.  
+['nonadherence', 'resistant', 'medication nonadherence']
+The patient has a history of obesity, which has recently been complicated by poorly controlled hypertension, likely due to challenges in consistently following their medication regimen. When asked about dietary habits, the patient showed hesitation towards suggestions for improvement.
+---------
+ Ms. Halvorson, despite identifying as a male, has not participated in any regular physical activity and has difficulty adhering to a healthier lifestyle, which contributes to his current health status.  
+['difficulty adhering']
+Ms. Halvorson, despite identifying as a male, has not participated in any regular physical activity and faces challenges following a healthier lifestyle, which contributes to his current health status.
+---------
+ No known history of obesity or hypertension in the family, suggesting noncompliance with a healthy lifestyle might be a significant factor in the patient's current condition.  
+['noncompliance']
+No known history of obesity or hypertension in the family suggests that not adhering to a healthy lifestyle might be a significant factor in the person's current condition.
+---------
+ The patient's course was complicated by medication nonadherence and a lack of engagement in recommended lifestyle changes. Discussions about mental health and its possible impact on his obesity were met with resistance.
+['lack of engagement']
+The patient's course was complicated by medication nonadherence and limited involvement in recommended lifestyle changes. Discussions about mental health and its possible impact on his obesity were met with hesitation.
+---------
+ Chronic pain identified as challenging due to Mr. Trantow's history of narcotic dependence and difficult behavior towards staff. Despite multiple interventions, he remains resistant to alternative pain management strategies and demonstrates nonadherence to recommended medication adjustments, highlighting compliance issues.
+['challenging', 'difficult behavior towards staff', 'resistant', 'nonadherence', 'compliance issues']
+Chronic pain has been identified as complex due to Mr. Trantow's history of narcotic dependence and interactions with staff that have presented challenges. Despite multiple interventions, he continues to find it challenging to adopt alternative pain management strategies and demonstrates inconsistent adherence to recommended medication adjustments, highlighting areas for further support in following the treatment plan.
+---------
+ History of narcotic dependence
+['narcotic dependence']
+History of having a substance use disorder related to narcotics.
+---------
+Mrs. Perales exhibited signs of medication nonadherence and was frequently challenging with staff. She refused several examinations and was difficult to engage in her own care plan. Evidence of narcotic dependence complicated her treatment.
+['narcotic dependence', 'nonadherence', 'refused']
+Mrs. Perales exhibited signs of medication non-adherence and was frequently challenging with staff. She declined several examinations and was difficult to engage in her own care plan. Evidence of a substance use disorder complicated her treatment. 
+
+Corrected Sentence:
+
+Mrs. Perales exhibited patterns that suggest challenges with adhering to her medication regimen and sometimes had interactions with staff that could be described as assertive. She chose not to undergo several examinations and found it difficult to engage in her own care plan. A history of substance use disorder complicated her treatment.
+---------
+tenderGU: DeferredExt: No edemaNeuro: Alert and oriented x3, but challenging during examination
+['challenging']
+tender  
+GU: Deferred  
+Ext: No edema  
+Neuro: Alert and oriented x3, but had difficulty remaining still during examination.
+---------
+Patient, a chronic complainer, presents with a longstanding history of nasal congestion and facial pain, indicative of his chronic sinusitis. Despite numerous treatments and recommendations, patient's adherence to prescribed medical advice remains questionable. Recently, symptoms have exacerbated, leading to this admission.
+['chronic complainer']
+Patient, who frequently reports discomfort, presents with a longstanding history of nasal congestion and facial pain, indicative of their chronic sinusitis. Despite numerous treatments and recommendations, adherence to prescribed medical advice remains questionable. Recently, symptoms have exacerbated, leading to this admission.
+---------
+ Patient has been noncompliant with medication regimes
+['noncompliant', 'noncompliant']
+The patient has not adhered to their medication regimens.
+---------
+Patient admits to occasional smoking but refuses to quantify. Denies alcohol use. Mentions spending time with friends at local fast
+['refuses to quantify']
+The patient acknowledges occasional smoking but is unable or unwilling to provide specific details about frequency. Denies alcohol use and mentions spending time with friends at a local fast food restaurant.
+---------
+relevant  Ext – No edema noted  Neuro – Alert and oriented, albeit uncooperative  
+['uncooperative']
+Relevant  
+Ext – No edema noted  
+Neuro – Alert and oriented, albeit less engaged
+---------
+A difficult course, centered around managing the patient's chronic sinusitis, complicated by his frequent noncompliance and refusal to adhere to treatment protocols. Patient has been in our ED frequently, showing a pattern of poorly managed self
+['frequent noncompliance', 'refusal to adhere']
+A challenging course centered around managing the patient's chronic sinusitis, complicated by their frequent difficulties in following treatment protocols. The patient has been in our ED frequently, showing a pattern of challenges with self-management. 
+
+Stigmatizing words replaced:  
+- 'frequent noncompliance' -> 'frequent difficulties in following treatment protocols'
+- 'refusal to adhere' -> 'difficulties in following treatment protocols'
+---------
+week history of worsening shortness of breath and a productive cough. Despite multiple discussions on the importance of compliance with treatment, Ms. Sipes has been nonadherent with her prescribed medication regimen and frequently visits the ED for similar complaints.
+['nonadherent', 'frequently visits the ED']
+Week history of worsening shortness of breath and a productive cough. Despite multiple discussions on the importance of compliance with treatment, Ms. Sipes has experienced challenges in following her prescribed medication regimen and regularly seeks care at the Emergency Department for similar complaints.
+---------
+Throughout her stay, Ms. Sipes exhibited a challenging attitude, frequently labeled as a difficult patient. Indicative of her noncompliant nature, she declined completing several examinations crucial for her treatment plan. Notably, Ms. Sipes's alcoholic tendencies significantly contributed to her poor health status and complicated her care management.
+['alcoholic', 'challenging attitude', 'declined completing several examinations', 'noncompliant nature', 'alcoholic tendencies']
+Throughout her stay, Ms. Sipes demonstrated behaviors that can be challenging for care providers, and she was sometimes considered a difficult patient. Indicative of some challenges in engaging with certain aspects of her treatment plan, she chose not to complete several examinations crucial for her health management. Notably, Ms. Sipes's experiences related to substance use significantly contributed to her poor health status and complicated her care management.
+---------
+Ms. Sipes has a significant history of alcohol misuse, often consumes daily. She has been described as a difficult patient, with frequent ED visits marked by a pattern of refusing recommended examinations and treatments.
+['difficult patient', 'refusing recommended examinations and treatments', 'difficult patient']
+Ms. Sipes has a significant history of alcohol misuse, often consuming daily. She has been described as a person who faces challenges in care interactions, with frequent ED visits marked by patterns of declining recommended examinations and treatments.
+---------
+ Ms. Chung Koch presents with a long history of chronic pain, which she describes as persistent and severe. She has seen multiple providers for this issue without significant relief. The patient has a history of "narcotic dependency" and has been labeled as "difficult" and "noncompliant" with recommended treatments in the past. She refused parts of the physical examination today, which she claims exacerbate her pain.
+['narcotic dependency', 'difficult', 'noncompliant', 'refused']
+Ms. Chung Koch presents with a long history of chronic pain, which she describes as persistent and severe. She has seen multiple providers for this issue without significant relief. The patient has a history of "substance use disorder" related to narcotics and has been labeled as having challenging interactions and difficulties in adhering to recommended treatments in the past. She declined parts of the physical examination today, which she claims exacerbate her pain.
+---------
+ Appears uncomfortable but is "challenging to deal with."
+['challenging to deal with']
+Appears uncomfortable but may require additional patience and understanding in communication.
+---------
+ Ms. Chung Koch was admitted due to exacerbation of her chronic pain condition. She has been described as a "difficult patient" due to her "narcotic dependency" and "medication nonadherence". Throughout her stay, she was referred to as an "inconsistent historian" and was "challenging to deal with" by the nursing staff. Despite attempts to manage her pain through non
+['difficult patient', 'medication nonadherence', 'inconsistent historian']
+Ms. Chung Koch was admitted due to exacerbation of her chronic pain condition. She has been described as having complex care needs related to her substance use disorder and challenges with medication adherence. Throughout her stay, she was referred to as someone who provides varying accounts of their history and was noted by the nursing staff as being challenging in interactions. Despite attempts to manage her pain through non-  
+
+---------
+old patient, presents with poorly managed diabetes. Despite repeated advice and medication adjustments, her glycemic control remains suboptimal. Shows a pattern of medication nonadherence.
+['poorly managed', 'nonadherence']
+The patient presents with diabetes that could benefit from more effective management strategies. Despite receiving advice and medication adjustments, her glycemic control remains suboptimal. She shows a pattern of challenges related to following the prescribed medication regimen.
+---------
+ Frequently mentions going out, indicating a lack of compliance with dietary restrictions.
+['lack of compliance']
+The individual frequently mentions going out, which may suggest challenges in adhering to dietary restrictions.
+---------
+ Addressed Mrs. Montaño's noncompliance with her diabetes management, including medication adherence and diet. Patient was resistant to implementing suggested changes and refused examination by the dietitian, further demonstrating compliance issues.
+['resistant to implementing suggested changes', 'refused examination by the dietitian', 'compliance issues']
+Addressed Mrs. Montaño's approach to managing her diabetes, including medication adherence and diet. The patient was hesitant about making the suggested changes and chose not to participate in an examination with the dietitian at this time, indicating challenges with following recommendations. 
+
+(Note: I replaced "person who has diabetes" for clarity but maintained the specific context of the sentence using respectful language.)
+---------
+ The patient, labeling herself as Mr. Micah McLaughlin, presents with elevated blood pressure readings over the past several months. She has a history of disregarding dietary advice and has been resistant to incorporating suggested healthy lifestyle changes.
+['disregarding dietary advice', 'resistant to incorporating suggested healthy lifestyle changes']
+The patient, labeling herself as Mr. Micah McLaughlin, presents with elevated blood pressure readings over the past several months. She has a history of not following dietary advice and has been hesitant about adopting suggested healthy lifestyle changes.
+---------
+Micah, it's incredibly important for your health that you begin taking your medications as prescribed every day without fail. Despite previous resistance, incorporating fruits, vegetables, and whole grains into your diet can significantly benefit your condition. Also, try incorporating at least 30 minutes of moderate exercise into your daily routine. Given your history of medication nonadherence, it's crucial to not disregard this medical advice. Please schedule a follow
+['medication nonadherence']
+Micah, it's incredibly important for your health that you begin taking your medications as prescribed every day without fail. Despite previous resistance, incorporating fruits, vegetables, and whole grains into your diet can significantly benefit your condition. Also, try incorporating at least 30 minutes of moderate exercise into your daily routine. Given your history of challenges with medication adherence, it's crucial to not disregard this medical advice. Please schedule a follow-up appointment.
+---------
+The patient was admitted with poorly controlled hypertension, attributing to noncompliance with medication and resistant behavior towards adopting a healthier lifestyle. Despite numerous counseling sessions, she declined to follow through with exercise recommendations, making her management challenging.
+['noncompliance with medication', 'resistant behavior towards adopting a healthier lifestyle', 'declined to follow through with exercise recommendations', 'making her management challenging']
+The patient was admitted with poorly controlled hypertension, related to challenges in adhering to medication and reluctance to adopt a healthier lifestyle. Despite numerous counseling sessions, she chose not to engage with exercise recommendations, which has made her care more complex.
+---------
+The patient, a difficult and noncompliant 107
+['difficult', 'noncompliant']
+The patient, an individual who may have challenges with compliance and cooperation.
+---------
+old male with a history of poorly managed hypertension, presented with elevated blood pressure readings. Despite repeated counseling, he has shown medication nonadherence. Last week, he experienced a severe headache and dizziness but refused to seek immediate medical attention.
+['poorly managed', 'medication nonadherence', 'refused']
+An older male with a history of hypertension, presented with elevated blood pressure readings. Despite repeated counseling, he has shown challenges in consistently taking his medication. Last week, he experienced a severe headache and dizziness but chose not to seek immediate medical attention at that time.
+---------
+The patient lives alone, has been resistant to home healthcare services, and has a history of missing scheduled appointments. He has a history of smoking but quit 20 years ago. No alcohol or illicit drug use reported.
+['resistant to home healthcare services', 'missing scheduled appointments']
+The patient lives alone and has faced challenges with engaging in home healthcare services, as well as a history of not attending scheduled appointments. He has a history of smoking but quit 20 years ago. No alcohol or illicit drug use is reported.
+---------
+VS: BP 180/95, HR 88, Temp 98.6 F, RR 14General: The patient was challenging to interact with during the exam.HEENT: Normocephalic, atraumaticNeck: No JVDCV: Regular rhythm, no murmursLungs: Clear to auscultation bilaterallyAbdomen: Soft, non
+['challenging']
+VS: BP 180/95, HR 88, Temp 98.6 F, RR 14  
+General: The patient was difficult to interact with during the exam.  
+HEENT: Normocephalic, atraumatic  
+Neck: No JVD  
+CV: Regular rhythm, no murmurs  
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, non  
+
+(Note: As per your instruction, only the sentence containing "challenging" was revised.)
+---------
+The patient was admitted with severe hypertension. Throughout the admission, he was a difficult patient, showing resistance to new medication regimens and dietary changes. He was challenging to manage due to compliance issues and refused several recommended tests. His condition was managed with difficulty due to his noncompliance and medication adherence issues.
+['resistance', 'difficult patient', 'showing resistance', 'challenging to manage', 'noncompliance', 'medication adherence issues']
+The patient was admitted with severe hypertension. Throughout the admission, he required additional support and communication as he experienced difficulties in adapting to new medication regimens and dietary changes. His care required extra attention due to challenges related to following medical recommendations and declined several recommended tests. His condition was managed with effort due to challenges in adhering to his treatment plan.
+---------
+Mrs. Monserrate Carter, a notably difficult patient with a long
+['notably difficult']
+Mrs. Monserrate Carter, a person who faces challenges in her interactions with healthcare providers and has a long history of medical care needs.
+---------
+standing record of medication nonadherence, is advised to strictly follow the medication regimen prescribed. It's crucial for managing your uncontrolled hypertension and preventing potential health complications. You've been resistant to interventions in the past; however, adhering to the following plan is in your best interest. Take the above
+['resistant to interventions']
+Standing record of medication nonadherence; it is advised to strictly follow the prescribed medication regimen. This is crucial for managing hypertension that is not well-controlled and preventing potential health complications. You have faced challenges with past interventions, but adhering to this plan is in your best interest.
+---------
+ Mack Kozey, an often difficult and challenging patient to manage due to his noncompliance with treatment protocols for his condition, has presented with complications associated with his abnormal body height. Despite repeated instructions, Mack has displayed a pattern of refusing exams and ignoring medical advice.
+['difficult', 'challenging', 'noncompliance', 'refusing', 'ignoring']
+Mack Kozey, who can be challenging to manage due to his patterns of not following treatment protocols for his condition, has presented with complications associated with his abnormal body height. Despite repeated instructions, Mack has shown a pattern of declining exams and not adhering to medical advice.
+---------
+ Mack demonstrated a noncompliant attitude towards recommended interventions aimed at managing his condition, complicating the treatment process.
+['noncompliant', 'noncompliant attitude']
+Mack demonstrated a challenging response towards recommended interventions aimed at managing his condition, which complicated the treatment process.
+---------
+ Mr. Damion Corkery presents with a longstanding history of chronic sinusitis, with multiple instances of acute exacerbation over the past year. He admits to irregular use of prescribed medication and has refused adjustments to treatment plans in the past.
+['refused', 'irregular use of prescribed medication']
+Mr. Damion Corkery presents with a longstanding history of chronic sinusitis, with multiple instances of acute exacerbation over the past year. He admits to inconsistent adherence to his prescribed medication and has not agreed to adjustments to treatment plans in the past.
+---------
+ Regular visits documented for sinus issues over the last year, with noted noncompliance to treatment plans.
+['noncompliance']
+Regular visits documented for sinus issues over the last year, with noted challenges in adhering to treatment plans.
+---------
+ Mr. Corkery's stay involved management of an acute exacerbation of his chronic sinusitis. His medication regimen was reviewed, but he was resistant to any changes, citing past experiences. His uncooperativeness with recommended diagnostic tests made management difficult.
+['resistant', 'uncooperativeness']
+Mr. Corkery's stay involved management of an acute exacerbation of his chronic sinusitis. His medication regimen was reviewed, but he expressed hesitation about any changes, citing past experiences. His difficulty in engaging with recommended diagnostic tests made management challenging.
+---------
+1. Fluticasone nasal spray2. Saline nasal irrigation3. Ibuprofen as needed4. New antibiotic regimen (patient reluctant but eventually agreed)5. Oral corticosteroids (short course)6. Offered but refused ongoing corticosteroid therapy7. Pseudoephedrine for congestion relief8. Encouraged to restart CPAP therapy for sleep apnea (patient noncommittal)
+['reluctant', 'noncommittal']
+1. Fluticasone nasal spray  
+2. Saline nasal irrigation  
+3. Ibuprofen as needed  
+4. New antibiotic regimen (person expressed hesitation but eventually agreed)  
+5. Oral corticosteroids (short course)  
+6. Offered but refused ongoing corticosteroid therapy  
+7. Pseudoephedrine for congestion relief  
+8. Encouraged to restart CPAP therapy for sleep apnea (person was undecided)
+---------
+ Mrs. Digna Powlowski, who preliminarily was addressed by mistaken gender, presented with complications arising from traumatic brain damage. Although noncompliant with prescribed preventive measures, they had another fall, demonstrating a pattern of medication nonadherence and failure to attend scheduled follow
+['noncompliant', 'medication nonadherence']
+Mrs. Digna Powlowski, who preliminarily was addressed by mistaken gender, presented with complications arising from traumatic brain damage. Although facing challenges in adhering to prescribed preventive measures, they had another fall, demonstrating a pattern of difficulty managing their medication and missing scheduled follow-up appointments.
+---------
+VS: BP 130/85, HR 78, Temp 98.6 FGeneral: Apathetic appearanceHEENT: PERRLA, EOMINeck: SuppleCV: RRR, no murmursLungs: Clear to auscultation bilaterallyAbdomen: Soft, nontenderGU: Normal examExt: No edemaNeuro: Alert, oriented x3, but challenging in following commands
+['challenging']
+VS: BP 130/85, HR 78, Temp 98.6 F  
+General: Apathetic appearance  
+HEENT: PERRLA, EOMI  
+Neck: Supple  
+CV: RRR, no murmurs  
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, nontender  
+GU: Normal exam  
+Ext: No edema  
+Neuro: Alert, oriented x3, but has difficulty following commands
+---------
+ The patient was often difficult and challenging during their stay, demonstrating contradictory statements regarding their symptoms and was unable to give a clear timeline of events leading to admission. This behavior persisted despite extensive counseling on the seriousness of their condition.
+['difficult', 'contradictory statements']
+The patient exhibited behaviors that were challenging and communicated inconsistent information regarding their symptoms during their stay, and was unable to provide a clear timeline of events leading to admission. This behavior persisted despite extensive counseling on the seriousness of their condition.
+---------
+average body height. Despite repeated counseling on dietary and lifestyle changes, there has been a notable lack of compliance. Further, the patient declined completing standard growth assessment exams, citing discomfort.
+['lack of compliance', 'declined']
+Despite repeated counseling on dietary and lifestyle changes, there has been a notable hesitance to follow through with these recommendations. Furthermore, the patient chose not to complete standard growth assessment exams due to discomfort. 
+
+Note: The phrase "average body height" does not contain stigmatizing language or need revision.
+---------
+11/15/23: Attempted growth hormone stimulation test; patient was uncooperative.
+['uncooperative']
+11/15/23: Attempted growth hormone stimulation test; the person demonstrated difficulty cooperating.
+---------
+The patient's hospital course was challenged by his noncompliant behavior and refusal of several examination procedures. Notably resistant to intervention, his condition's assessment was significantly hindered.
+['challenged by his noncompliant behavior', 'resistant']
+The patient's hospital course was impacted by their decision not to follow certain recommendations and refusal of several examination procedures. Notably hesitant about intervention, assessment of their condition was significantly hindered.
+---------
+Marie has been discharged following a brief stay at our facility, during which an attempt was made to assess his growth concerns. Unfortunately, due to a combination of medication nonadherence and multiple refusals to comply with examination procedures, an accurate assessment could not be completed. It is crucial for Marie's health that daily recommended nutritional guidelines are followed strictly, and that physical activity is maintained adequately. Additional growth assessment tests are necessary to fully understand his condition, and we strongly recommend these be completed without further delay. A follow
+['medication nonadherence', 'multiple refusals to comply']
+Marie has been discharged following a brief stay at our facility, during which an attempt was made to assess his growth concerns. Unfortunately, due to challenges in consistently taking medications and several instances of not participating in examination procedures, an accurate assessment could not be completed. It is crucial for Marie's health that daily recommended nutritional guidelines are followed strictly, and that physical activity is maintained adequately. Additional growth assessment tests are necessary to fully understand his condition, and we strongly recommend these be completed without further delay. A follow-up appointment is advised.
+---------
+ Throughout his stay, Mr. McCullough was difficult, frequently expressing noncompliance with recommended treatments. Despite multiple conversations regarding the nature of his viral infection and the body’s need to naturally overcome it, Mr. McCullough consistently demonstrated medication nonadherence by refusing the prescribed symptomatic relief measures. His demands for antibiotics were declined based on the viral etiology of his sinusitis, which contributed to his compliance issues, and he showed a pronounced difficulty in adhering to non
+['difficult', 'noncompliance', 'nonadherence', 'refusing']
+Throughout his stay, Mr. McCullough presented challenges, frequently choosing not to follow recommended treatments. Despite multiple conversations regarding the nature of his viral infection and the body’s need to naturally overcome it, Mr. McCullough consistently demonstrated a pattern of not adhering to prescribed symptomatic relief measures. His requests for antibiotics were declined based on the viral etiology of his sinusitis, which contributed to his adherence challenges, and he showed a pronounced difficulty in maintaining consistency with
+---------
+indicated treatments and the contradiction of medical advice without providing a clear timeline or consistent history further complicated his care.
+['contradiction of medical advice']
+The situation where he provided inconsistent information that contradicted medical advice, without offering a clear timeline or consistent history, further complicated his care.
+---------
+Throughout his stay, Mr. Wisoky exhibited a pattern of noncompliance and was a difficult patient, refusing several exams. His frequent nonadherence to prescribed hypertension management protocols has significantly hindered his treatment progress. He contradicts medical advice often, which raises serious concerns for his long
+['noncompliance', 'difficult patient', 'frequent nonadherence', 'contradicts medical advice']
+Throughout his stay, Mr. Wisoky exhibited a pattern of challenges in following recommendations and was often challenging to engage, refusing several exams. His repeated difficulties adhering to prescribed hypertension management protocols have significantly hindered his treatment progress. He frequently questions or disagrees with medical advice, which raises serious concerns for his long-term health.
+---------
+Mr. MacGyver, a challenging patient with a history of noncompliance, reports several weeks of uncontrolled hypertension. Despite multiple calls to adjust his regimen, he has shown medication nonadherence. Reports no triggering events like food poisoning.
+['challenging', 'noncompliance', 'medication nonadherence']
+Mr. MacGyver, a person who has experienced challenges in healthcare interactions with a history of difficulties following treatment recommendations, reports several weeks of uncontrolled hypertension. Despite multiple calls to adjust his regimen, he has shown difficulties adhering to medication instructions. Reports no triggering events like food poisoning.
+---------
+Patient reports being frequently at the ED for minor complaints, demonstrating a pattern of seeking medical advice but being resistant to following through with treatment plans.
+['resistant to following through with treatment plans']
+The patient reports frequently visiting the emergency department for minor complaints, demonstrating a pattern of seeking medical advice but showing hesitation in adhering to treatment plans.
+---------
+Mr. MacGyver's hospitalization was marked by his resistance to dietary and medication adjustments. Impossible to manage due to his recurrent refusal to follow medical advice, resulting in a protracted stay.
+['recurrent refusal']
+Mr. MacGyver's hospitalization was marked by his resistance to dietary and medication adjustments. Difficult to manage due to repeated instances of not following medical advice, resulting in a protracted stay.
+---------
+ Mr. Derek Brakus, a difficult patient with a known history of COPD, was admitted due to an exacerbation of his condition. Reports being a heavy smoker despite prior advice to quit. He has shown medication nonadherence multiple times in the past.
+['difficult patient', 'medication nonadherence']
+Mr. Derek Brakus, a person facing challenges with chronic care management and a known history of COPD, was admitted due to an exacerbation of his condition. Reports being a heavy smoker despite prior advice to quit. He has shown inconsistent medication use multiple times in the past.
+---------
+ Difficult to engage in productive discussion regarding cessation of smoking.
+['Difficult to engage in productive discussion regarding cessation of smoking']
+The individual encountered challenges engaging in a productive discussion about quitting smoking.
+---------
+ Appears older than stated age, challenging demeanor.
+['challenging demeanor', 'challenging']
+Appears older than stated age, exhibiting a complex or difficult-to-manage behavior.
+---------
+ Mr. Brakus has been a challenging patient during his stay, showing medication nonadherence and often refusing to complete exams or engage in treatments. Discussions around smoking cessation have been met with resistance, and he has been noncompliant with prescribed inhalers and medications, leading to repeated admissions.
+['a challenging patient', 'resistance', 'noncompliant with prescribed inhalers and medications']
+Mr. Brakus has encountered difficulties during his stay, showing medication nonadherence and often refusing to complete exams or engage in treatments. Discussions around smoking cessation have not been productive, and he has struggled with using prescribed inhalers and medications as directed, leading to repeated admissions.
+---------
+up appointment with a pulmonary specialist is scheduled for 11/05/2023 to evaluate his progress. Further, participation in rehabilitative exercises has been recommended to improve lung function and overall health. It is crucial for Mr. Brakus to understand the importance of compliance for his health and to avoid situations that may exacerbate his condition, including loitering in smoky environments such as around fast
+['loitering in smoky environments']
+An appointment with a pulmonary specialist is scheduled for 11/05/2023 to evaluate his progress. Further, participation in rehabilitative exercises has been recommended to improve lung function and overall health. It is crucial for Mr. Brakus to understand the importance of compliance for his health and to avoid situations that may exacerbate his condition, including spending time in smoky environments such as around fast food restaurants or similar settings.
+---------
+ Type 2 Diabetes (noncompliant)
+['noncompliant']
+A person who has type 2 diabetes and does not consistently follow their treatment plan.
+---------
+ Mr. Bartoletti presented with a persistent cough and difficulties breathing that he claimed started three weeks prior. Despite questions about potential exposures or events, his accounts were inconsistent, making it challenging to trace the illness's origin.
+['challenging', 'inconsistent', 'inconsistent']
+Mr. Bartoletti presented with a persistent cough and difficulties breathing that he claimed started three weeks prior. Despite questions about potential exposures or events, his accounts varied, making it complex to trace the illness's origin.
+---------
+ Throughout his hospital stay, Mr. Bartoletti has been a difficult patient, frequently noncompliant with treatment plans and medication. He refused several exams and was inconsistent in following dietary recommendations. Notable for medication nonadherence.
+['difficult patient', 'frequently noncompliant', 'refused']
+Throughout his hospital stay, Mr. Bartoletti has encountered challenges in adhering to treatment plans and medication, often choosing not to participate fully. He opted out of several exams and was inconsistent in following dietary recommendations, with notable instances of medication nonadherence.
+---------
+ History of medication nonadherence
+['medication nonadherence']
+History of challenges in following prescribed medication regimen.
+---------
+ Patient presented with concerns about their increasing blood sugar levels, noting instances of high readings on their home glucose monitor. Despite dietary advice provided previously, the patient has shown noncompliance, often eating foods known to exacerbate prediabetes. Their refusal to adhere to recommended dietary changes was evident.
+['noncompliance', 'refusal']
+The patient presented with concerns about their increasing blood sugar levels, noting instances of high readings on their home glucose monitor. Despite dietary advice provided previously, the person has not consistently followed recommendations and often eats foods known to exacerbate prediabetes. Their difficulty in adhering to recommended dietary changes was evident.
+---------
+ The patient displayed a resistant and challenging demeanor regarding diabetes education, consistently questioning the necessity of lifestyle modifications. Their contradictory descriptions of dietary habits complicated the diabetes management plan. The patient's difficulty in providing a clear timeline of symptoms was noted, complicating the assessment process.
+['resistant', 'challenging demeanor', 'contradictory descriptions']
+The patient displayed a hesitant and questioning demeanor regarding diabetes education, consistently inquiring about the necessity of lifestyle modifications. Their varying accounts of dietary habits complicated the diabetes management plan. The difficulty the person who has diabetes experienced in providing a clear timeline of symptoms was noted, complicating the assessment process.
+---------
+standing history of nasal congestion and sinus pain, exacerbated in recent weeks. Despite previous interventions and prescribed medications, there has been little to no improvement, possibly due to medication nonadherence.
+['medication nonadherence']
+Standing history of nasal congestion and sinus pain, exacerbated in recent weeks. Despite previous interventions and prescribed medications, there has been little to no improvement, possibly due to challenges with consistently taking medication as directed by a healthcare provider.
+---------
+ Over the course of the hospital stay, adherence to prescribed antibiotics and steroids was emphasized, yet the patient showed signs of noncompliance and medication nonadherence. Multiple attempts were made to educate the patient on the importance of compliance, especially concerning their chronic condition, but they frequently missed scheduled appointments and were uncooperative.
+['noncompliance', 'frequently missed scheduled appointments', 'uncooperative']
+Over the course of the hospital stay, adherence to prescribed antibiotics and steroids was emphasized. However, there were instances where the patient had difficulty adhering to their medication regimen. Multiple attempts were made to educate the person on the importance of following their treatment plan, especially concerning their chronic condition, but they often did not attend scheduled appointments and demonstrated challenges in cooperation.
+---------
+It is crucial to follow the prescribed medication regimen fully to manage your chronic sinusitis effectively. Complete the full course of antibiotics without interruptions to ensure the infection is adequately addressed. Employ the fluticasone nasal spray and saline rinses as directed to reduce nasal congestion and promote sinus drainage. Additionally, keeping hydrated and using steam inhalation may provide symptomatic relief. Given your history of nonadherence, it's imperative to emphasize the importance of following through with the treatment plan. Failure to do so could result in further complications and potentially necessitate more aggressive interventions. Schedule a follow
+['history of nonadherence']
+It is crucial to follow the prescribed medication regimen fully to manage your chronic sinusitis effectively. Complete the full course of antibiotics without interruptions to ensure the infection is adequately addressed. Employ the fluticasone nasal spray and saline rinses as directed to reduce nasal congestion and promote sinus drainage. Additionally, keeping hydrated and using steam inhalation may provide symptomatic relief. Given your previous experiences with treatment plans, it's imperative to emphasize the importance of following through with the current treatment plan. Failure to do so could result in further complications and potentially necessitate more aggressive interventions. Schedule a follow-up appointment as needed.
+---------
+ Patient, unfortunately, demonstrates poor control over his diabetes, attributed partially to medication nonadherence and refusal of insulin therapy at times. Although he claims that he has been adhering to dietary guidelines, these statements contradict his recurring high A1c levels.
+['nonadherence', 'refusal']
+The patient unfortunately demonstrates poor control over their diabetes, which can be partially attributed to challenges with consistently following medication recommendations and sometimes choosing not to use insulin therapy. Although they claim adherence to dietary guidelines, these statements are inconsistent with their recurring high A1c levels.
+---------
+VS – within normal limitsGeneral – Appeared noncompliant and challenging during examinationHEENT – NormalNeck – NormalCV – NormalLungs – ClearAbdomen – Soft, non
+['challenging', 'noncompliant']
+VS – within normal limits  
+General – Appeared hesitant and having difficulties during examination  
+HEENT – Normal  
+Neck – Normal  
+CV – Normal  
+Lungs – Clear  
+Abdomen – Soft, non [incomplete]  
+
+(Note: "non" at the end appears to be incomplete. If more context is needed for correction, please provide it.)
+---------
+Patient's blood sugar levels remained inconsistently managed throughout his stay. Demonstrated challenging behavior and was difficult to engage in effective diabetes education. Refused a planned exam claiming he felt it unnecessary. His contradictory statements about diet and medication adherence complicated treatment plans.
+['inconsistently managed', 'difficult to engage in effective diabetes education']
+The patient's blood sugar levels were not consistently managed throughout his stay. Demonstrated behavior that made it challenging to effectively educate about diabetes, and refused a planned exam claiming it was unnecessary. His contradictory statements about diet and medication adherence complicated treatment plans.
+---------
+ Mr. Schimmel, an obese male, presented with difficulty breathing and knee pain. Inquiries about dietary habits revealed a noncompliant behavior with previous dietary recommendations.
+['obese', 'noncompliant']
+Mr. Schimmel, a person with obesity, presented with difficulty breathing and knee pain. Inquiries about dietary habits revealed challenges in adhering to previous dietary recommendations.
+---------
+ Mr. Schimmel was seen by the dietitian but showed a resistant and challenging attitude toward dietary changes. Despite multiple counseling sessions on the benefits of weight loss and exercise, he remains noncompliant.
+['resistant and challenging']
+Mr. Schimmel was seen by the dietitian but exhibited a hesitant and resistant attitude toward dietary changes. Despite multiple counseling sessions on the benefits of weight loss and exercise, he remains noncompliant.
+---------
+ Patient presents with a significantly shorter stature compared to peers. The mother expressed concerns about the patient's height, but the patient was noncompliant and refused to provide more details when asked.
+['noncompliant', 'refused']
+The patient presents with a significantly shorter stature compared to peers. The mother expressed concerns about the patient's height, but the patient was reluctant and chose not to provide more details when asked.
+---------
+ None reported, though difficult to ascertain due to patient noncompliance and refusal to provide accurate history.
+['difficult to ascertain due to patient noncompliance']
+Challenging to determine due to the individual's reluctance to fully engage or provide an accurate history.
+---------
+ Information limited due to lack of cooperation from the patient and her guardians.
+['lack of cooperation from the patient']
+Information is limited due to challenges in engaging with the patient and her guardians.
+---------
+ Details unclear due to patient’s refusal to provide an accurate history.
+['patient’s refusal to provide an accurate history']
+Details unclear due to individual's decision not to share a comprehensive personal history.
+---------
+ Evaluated for growth delay; however, compliance issues and medication nonadherence were significant barriers to complete assessment. Patient was uncooperative during the exam and interviews, making it challenging to manage and proceed with full evaluation.
+['compliance issues and medication nonadherence were significant barriers', 'uncooperative during the exam and interviews']
+Evaluated for growth delay; however, difficulties in adhering to treatment recommendations and taking medications as prescribed were significant barriers to complete assessment. The patient had difficulty cooperating during the exam and interviews, making it challenging to manage and proceed with a full evaluation.
+---------
+ Alert, though challenging at times
+['challenging at times']
+Alert, and sometimes requiring extra patience or support.
+---------
+ Patient was advised on the importance of regular medication intake and proper nutrition to potentially improve her growth trajectory. Despite previous noncompliance and difficulties during the exam, it is crucial for the patient to adhere strictly to the prescribed medications. A balanced diet rich in calcium and vitamins has been recommended to support overall health and growth. Continuous monitoring of height and weight will be necessary to track progress. Further consultations with a pediatric endocrinologist have been scheduled to assess the need for growth hormone therapy. Parents are urged to ensure the patient's compliance with follow
+['previous noncompliance and difficulties during the exam']
+Patient was advised on the importance of regular medication intake and proper nutrition to potentially improve her growth trajectory. Despite challenges in adhering to previous recommendations and during the exam, it is crucial for the patient to follow the prescribed medications strictly. A balanced diet rich in calcium and vitamins has been recommended to support overall health and growth. Continuous monitoring of height and weight will be necessary to track progress. Further consultations with a pediatric endocrinologist have been scheduled to assess the need for growth hormone therapy. Parents are urged to ensure the patient's compliance with follow-up care.
+---------
+Octavia, a difficult patient by her own admission, has been presenting concerns related to her significantly below
+['difficult']
+Octavia, who acknowledges facing challenges in her care interactions, has been presenting concerns related to her significantly below...
+---------
+average height for her age. Despite detailed explanations and a recommended growth assessment plan, Octavia was resistant to undergoing the necessary growth hormone stimulation tests, contradicting herself several times when discussing her previous consultations and treatment attempts.
+['resistant', 'contradicting herself']
+Octavia showed hesitation towards undergoing the necessary growth hormone stimulation tests, presenting differing accounts several times when discussing her previous consultations and treatment attempts.
+---------
+The patient lives with her parents. There are no smokers in the household. She attends school regularly, though there has been mention of her noncompliance with school regulations.
+['noncompliance with school regulations', 'noncompliance']
+The patient lives with her parents. There are no smokers in the household. She attends school regularly, though there has been mention of her need for support in adhering to school regulations.
+---------
+No known family history of genetic growth disorders. However, the patient has been noncompliant with recommended genetic counseling.
+['noncompliant']
+There is no known family history of genetic growth disorders. However, the person has not followed through with recommended genetic counseling.
+---------
+Octavia has exhibited challenging behavior throughout her hospital stay, particularly by refusing treatment and showing resistance towards medical advice. Her condition, primarily concerned with her significantly retarded growth compared to peers, has been difficult to manage due to her noncompliance with recommended diagnostic procedures.
+['challenging behavior', 'refusing treatment', 'showing resistance towards medical advice']
+Octavia has exhibited behaviors that require additional support throughout her hospital stay, particularly by not adhering to treatment plans and expressing hesitancy towards following medical advice. Her condition, primarily concerned with her significantly delayed growth compared to peers, has been difficult to manage due to her reluctance in participating in recommended diagnostic procedures.
+---------
+ Mr. Wilfred Sporer, a known alcoholic and narcotic
+['alcoholic']
+Mr. Wilfred Sporer, a person with alcohol use disorder and using narcotics.
+---------
+dependent patient, presented with severe abdominal pain, which he claims started abruptly two days prior to admission. Despite multiple questions, he was difficult and resistant, providing vague and inconsistent details about his symptoms.
+['difficult and resistant', 'vague and inconsistent details']
+The patient, who has a dependency on substances, presented with severe abdominal pain, which he claimed started abruptly two days prior to admission. Despite multiple questions, he was challenging to engage with, providing unclear and variable details about his symptoms.
+---------
+ Alert but noncompliant
+['noncompliant']
+Alert but not fully cooperative
+---------
+ Mr. Sporer, with a history of narcotic dependency and alcohol use disorder, was evaluated for severe abdominal pain. His course was complicated by compliance issues, particularly his refusal to complete recommended exams and his resistant behavior towards dietary changes. Eventually, pain management and nutritional strategies were reluctantly agreed upon.
+['refusal to complete recommended exams', 'resistant behavior towards dietary changes', 'history of narcotic dependency and alcohol use disorder']
+Mr. Sporer, who has a history of substance abuse involving narcotics and alcohol, was evaluated for severe abdominal pain. His course was complicated by challenges in following recommendations, particularly his decision not to complete recommended exams and difficulties adapting to dietary changes. Eventually, strategies for pain management and nutrition were agreed upon with some hesitation.
+---------
+ Lab data consistent with chronic alcohol use.
+['chronic alcohol use']
+Lab data consistent with a pattern of long-term substance use.
+---------
+ups with a primary care physician and substance abuse counseling are strongly recommended to address his dependency issues. Mr. Sporer should monitor for any new or worsening symptoms and seek immediate medical attention if necessary. Continued resistance to medical advice could result in significant health deterioration. 
+['resistance to medical advice']
+Ups with a primary care physician and substance abuse counseling are strongly recommended to address his dependency issues. Mr. Sporer should monitor for any new or worsening symptoms and seek immediate medical attention if necessary. Continued hesitation or challenges in following medical advice could result in significant health deterioration.
+---------
+ Type 2 diabetes (noncompliant with dietary restrictions)
+['noncompliant', 'noncompliant']
+Person with type 2 diabetes who faces challenges adhering to dietary restrictions.
+---------
+up visit with primary care physician within two weeks of discharge is strongly recommended to reassess blood pressure and medication effectiveness. Patient given resources for smoking cessation and encouraged to reduce intake gradually with the goal of quitting. Patient refused to acknowledge the importance of these lifestyle changes at the time of discharge, highlighting a pattern of nonadherence.
+['refused to acknowledge', 'pattern of nonadherence']
+Up visit with primary care physician within two weeks of discharge is strongly recommended to reassess blood pressure and medication effectiveness. Patient given resources for smoking cessation and encouraged to reduce intake gradually with the goal of quitting. At the time of discharge, the patient did not acknowledge the importance of these lifestyle changes, which highlights a history of challenges in adherence.
+
+(Note: I replaced "refused to acknowledge" with "did not acknowledge," and "pattern of nonadherence" with "history of challenges in adherence" for more respectful language.)
+---------
+Hypertension management complicated by patient's noncompliance with medications. Expressed difficulty in adhering to prescribed diet and medication regimen.
+['difficulty in adhering']
+Management of hypertension has been complex due to challenges the person faces in following their medication schedule. The person expressed experiencing barriers in maintaining the prescribed diet and medication regimen.
+---------
+ Considerations were made towards a growth hormone deficiency diagnosis. The patient was challenging at times, showing signs of medication nonadherence and was noted to have compliance issues when faced with dietary recommendations. The child declined certain examinations and was generally difficult to manage, showing resistance to medical advice.
+['challenging', 'medication nonadherence', 'compliance issues', 'declined certain examinations', 'difficult to manage', 'showing resistance']
+Considerations were made towards a growth hormone deficiency diagnosis. The patient sometimes exhibited behaviors that required additional support, such as not consistently following medication regimens and finding it challenging to adhere to dietary recommendations. The child opted out of certain examinations and presented difficulties in management, often hesitating to follow medical advice.
+---------
+ Patient presents with a significant deviation below the average height for age and gender. When questioned about diet and exercise habits, the patient's responses were inconsistent, leading to difficulties in assessing lifestyle contributions to their condition.
+['inconsistent']
+The patient presents with a significant deviation below the average height for age and gender. When questioned about diet and exercise habits, the patient's responses varied, leading to challenges in assessing lifestyle contributions to their condition.
+---------
+ No significant past medical history, noncompliant with recommendations for nutritional supplements.
+['noncompliant']
+No significant past medical history, experiencing challenges in adhering to recommendations for nutritional supplements.
+---------
+ Addressed challenges in managing patient expectations and compliance. Repeatedly addressed medication nonadherence and refusal to follow prescribed nutritional guidance. Demonstrated challenging behavior when discussing the importance of consistent and balanced meals. Contradicting previously provided information about daily habits.
+['challenging', 'refusal']
+Addressed difficulties in managing patient expectations and compliance. Repeatedly addressed medication nonadherence and hesitancy regarding prescribed nutritional guidance. Demonstrated behaviors that required additional support when discussing the importance of consistent and balanced meals. Contradicting previously provided information about daily habits.
+---------
+ The patient was noncompliant with the treatment recommendations and demonstrated medication nonadherence. Had several episodes of being difficult and challenging with the staff. The patient refused the initial exam, exacerbating her sinus conditions due to the resistance to follow medical advice. 
+['noncompliant', 'medication nonadherence', 'difficult', 'challenging', 'refused']
+The person did not adhere to the treatment recommendations and demonstrated medication nonadherence. Had several episodes of being resistant and presenting challenges with the staff. The person initially declined the exam, exacerbating her sinus conditions due to a reluctance to follow medical advice.
+---------
+adherence to recommended medical interventions. On questioning, she displayed a pattern reminiscent of past noncompliance; failing to monitor her blood pressure regularly and often foregoing medication.
+['noncompliance']
+On questioning, she displayed a pattern reminiscent of past challenges with adhering to medical interventions; not consistently monitoring her blood pressure and frequently missing doses of medication.
+---------
+ Mental Status: StableActivity Status: Limited by obesity
+['obesity']
+Mental Status: Stable  
+Activity Status: Limited by a condition related to body weight.
+---------
+ The patient was frequently resistant to suggestions for lifestyle adjustments and voiced reluctance towards new medication regimens. Despite repeated counseling on the importance of blood pressure control and medication adherence, she has often been reluctant to make necessary changes. Her hypertension is further complicated by a history of type 2 diabetes, managed with variable success due to similar compliance issues.
+['resistant', 'reluctant', 'variable success due to similar compliance issues']
+The patient frequently expressed hesitancy towards suggestions for lifestyle adjustments and voiced uncertainty about new medication regimens. Despite repeated counseling on the importance of blood pressure control and medication adherence, she has often shown hesitation in making necessary changes. Her hypertension is further complicated by a history of type 2 diabetes, managed with inconsistent success due to similar challenges with compliance.
+
+The patient is a person who has type 2 diabetes.
+---------
+ The patient, a known narcotic dependent, presented with severe abdominal pain. Her account of the pain's onset was inconsistent, and she was unable to give a clear timeline, stating it began "a few days ago" but later contradicting herself to "earlier this morning."
+['narcotic dependent', 'inconsistent']
+The patient, who has a substance use disorder related to narcotics, presented with severe abdominal pain. Her account of the pain's onset varied, and she was unable to provide a clear timeline, stating it began "a few days ago" but later revising her statement to "earlier this morning."
+---------
+ The patient admitted to being a heavy smoker and using narcotics frequently. She mentioned she spends time around locations with easy access to narcotics.
+['heavy smoker']
+The patient admitted to being a person who smokes heavily and uses narcotics frequently. She mentioned she spends time around locations with easy access to narcotics.
+---------
+ No known family history of similar illness. The patient was difficult and provided limited information.
+['difficult']
+No known family history of similar illness. The patient presented challenges in communication and provided limited information.
+---------
+ Appeared agitated and noncompliant during examination.
+['agitated and noncompliant']
+Appeared experiencing distress and had difficulty complying during the examination.
+---------
+ During her stay, the patient was frequently labeled as a difficult patient due to her noncompliant behavior and refusal to undergo recommended exams initially. Her narcotic dependency was managed, albeit with challenges regarding pain control and medication adherence.
+['noncompliant behavior', 'refusal to undergo recommended exams']
+During her stay, the patient was frequently labeled as a difficult patient due to her initial reluctance to engage with recommended exams. Her narcotic dependency was managed, albeit with challenges regarding pain control and medication adherence.
+---------
+ History of narcotic dependency
+['narcotic dependency']
+History of substance use disorder related to narcotics.
+---------
+ Mental Status: Stable but challenging. Activity Status: Limited mobility recommended.
+['challenging']
+Mental Status: Stable but may require additional support and understanding. Activity Status: Limited mobility recommended.
+---------
+called "frequent ED visitor," was brought in following a seizure episode at home, her second this year despite claims of medication adherence.
+['frequent ED visitor']
+A person who frequently visits the emergency department was brought in following a seizure episode at home, her second this year despite claims of medication adherence.
+---------
+ Type 2 Diabetes Mellitus, poorly managed
+['poorly managed']
+Type 2 diabetes mellitus in a person who has been managing their condition with difficulty.
+---------
+ Previous seizure disorder diagnosis with inconsistent medication adherence
+['inconsistent medication adherence']
+Previous seizure disorder diagnosis with variable patterns of medication use
+---------
+ VS: BP 140/90, HR 88, Temp 98.6 F, RR 14General: Awake, appears stated age, noncompliant demeanorHEENT: Normocephalic, atraumaticNeck: SuppleCV: Regular rate and rhythm, no murmursLungs: Clear to auscultation bilaterallyAbdomen: Soft, non
+['noncompliant demeanor']
+VS: BP 140/90, HR 88, Temp 98.6 F, RR 14  
+General: Awake, appears stated age, demonstrating a challenging interaction style  
+HEENT: Normocephalic, atraumatic  
+Neck: Supple  
+CV: Regular rate and rhythm, no murmurs  
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, non
+---------
+tenderGU: DeferredExt: No cyanosis, edema, or rashNeuro: Alert, oriented × 3, frequently contradicting previous statements about medication intake
+['frequently contradicting previous statements about medication intake']
+tender  
+GU: Deferred  
+Ext: No cyanosis, edema, or rash  
+Neuro: Alert, oriented × 3, sometimes providing inconsistent information regarding medication intake
+---------
+ The diabetic patient, known for her challenging and noncompliant behavior, was managed for a seizure disorder with frequent mentions of previous "misunderstandings" about her medication adherence. Despite education, she remains an inconsistent historian with medication nonadherence discussed at length.
+['challenging and noncompliant behavior', 'inconsistent historian with medication nonadherence']
+The person who has diabetes, known for her behaviors that have been difficult to manage and inconsistent with medical guidance, was managed for a seizure disorder with frequent mentions of previous "misunderstandings" about her adherence to medication. Despite education efforts, she continues to provide information inconsistently regarding her history and medication use, which has been discussed at length.
+---------
+Ms. Konopelski, a difficult patient, presented with bleeding and abdominal pain. Despite previous advice on seeking immediate care if she experienced any alarming symptoms, she ignored medical advice until symptoms worsened.
+['difficult patient', 'ignored medical advice']
+Ms. Konopelski, a person who faced challenges in managing her health care needs, presented with bleeding and abdominal pain. Despite previous advice on seeking immediate care if she experienced any alarming symptoms, she chose not to follow medical guidance until symptoms worsened.
+---------
+Ms. Konopelski has been resistant to suggestions for improving her health, including failing to follow up on recommended tests and ignoring dietary advice.
+['resistant to suggestions for improving her health', 'failing to follow up on recommended tests and ignoring dietary advice']
+Ms. Konopelski has faced challenges in engaging with recommendations for enhancing her health, which includes not being able to consistently follow through on recommended tests and adhere to dietary advice.
+---------
+The patient was uncooperative with staff, frequently refusing to provide necessary history or allow physical examination. Her noncompliance and resistance to discussing potential preventative measures for future pregnancies made counseling challenging.
+['uncooperative with staff, frequently refusing to provide necessary history or allow physical examination', 'noncompliance and resistance to discussing potential preventative measures']
+The patient was hesitant to engage fully with staff, often choosing not to share necessary history or permit physical examination. Her difficulty in discussing potential preventative measures for future pregnancies made counseling more complex.
+---------
+Ms. Konopelski, despite your previous refusal to accept medical advice, it's crucial you follow these instructions to recover and possibly prevent future complications. Continue taking your medications daily, including the iron supplements to prevent anemia due to your recent loss. Incorporate a diet rich in iron, vitamin C, and folate to support your recovery. It was also noted that you were resistant to the idea of counseling; however, we strongly recommend scheduling an appointment with a mental health professional to navigate through this difficult period. Ignoring the reality of your health and instructions will only lead to further complications. Remember, taking care of your health is not an option but a necessity.Ensure to follow up with your Ob
+['despite your previous refusal to accept medical advice', 'resistant to the idea of counseling']
+Ms. Konopelski, while we recognize there may have been hesitations in accepting medical advice previously, it's crucial for your recovery and to possibly prevent future complications that you follow these instructions. Continue taking your medications daily, including iron supplements to prevent anemia due to your recent loss. Incorporate a diet rich in iron, vitamin C, and folate to support your recovery. It was also noted there were some concerns about counseling; however, we strongly recommend scheduling an appointment with a mental health professional to navigate through this difficult period. Ignoring the reality of your health needs and instructions may lead to further complications. Remember, taking care of your health is not just an option but a necessity. Ensure to follow up with your Ob/Gyn.
+---------
+ Ms. Brunilda Kuphal, a known noncompliant patient, presented to the Emergency Department (ED) with severe abdominal pain, which she rated as 8/10. She reported the pain began suddenly after "hanging out around McDonald’s with her friends," failing to maintain a healthy diet. Her story was difficult to follow, demonstrating an inability to give a clear timeline.
+['noncompliant']
+Ms. Brunilda Kuphal, who has experienced challenges with adherence, presented to the Emergency Department (ED) with severe abdominal pain, which she rated as 8/10. She reported that the pain began suddenly after "hanging out around McDonald’s with her friends," and indicated a lapse in maintaining a healthy diet. Her story was complex, making it challenging to follow a clear timeline.
+---------
+ Ms. Kuphal, labeled as a difficult patient due to her noncompliance and frequent visits, was admitted with severe abdominal pain resulting from gallstones. Despite recommendations, she refused an initial exam. Compliance issues were noted in her reluctance to follow medical advice for managing her diabetes.  
+['difficult patient', 'frequent visits']
+Ms. Kuphal, characterized by challenges related to adherence and regular healthcare needs, was admitted with severe abdominal pain resulting from gallstones. Despite recommendations, she refused an initial exam. Concerns were noted regarding her reluctance to follow medical advice for managing her diabetes.
+---------
+Mr. Shelby Cremin, a notably obese male patient, presents with complications associated with his obesity. Despite repeated advice on diet and exercise, Shelby's noncompliance with recommended regimens has led to this current state. He has a history of refusing dietary adjustments, labeling him a difficult and challenging patient for our dietary team.
+['challenging', 'difficult', 'refusing']
+Mr. Shelby Cremin, who has obesity-related health concerns, presents with complications associated with his condition. Despite repeated advice on diet and exercise, Mr. Cremin's hesitancy in following recommended regimens has contributed to this current state. He has a history of not adhering to dietary adjustments, which can make collaboration complex for our dietary team.
+---------
+ Medication nonadherence
+['nonadherence']
+Difficulty with medication adherence
+---------
+ Patient presented with a prolonged history of sinusitis symptoms, exacerbated in the last few months. Questions about treatment options showed a disregard for prior medical advice, leading to the current exacerbated state.
+['disregard for prior medical advice']
+The patient presented with a prolonged history of sinusitis symptoms, which have been exacerbated in the last few months. Questions about treatment options indicated a lack of alignment with prior medical advice, leading to the current exacerbated state.
+---------
+ History of noncompliance with treatment plans
+['noncompliance with treatment plans']
+History of challenges in following treatment plans.
+---------
+ The patient displayed a resistant attitude towards treatment and was a frequent flyer in our department, showing a pattern of disregarding medical advice. There was difficulty in managing the patient due to inconsistent history reporting and refusal to undergo recommended examination procedures initially.
+['resistant attitude towards treatment', 'frequent flyer in our department', 'inconsistent history reporting', 'refusal to undergo recommended examination procedures']

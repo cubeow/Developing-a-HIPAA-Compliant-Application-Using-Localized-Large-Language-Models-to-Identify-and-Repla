@@ -6,6 +6,12 @@ root.title("Stigmatizing Language Detector and Replacer")
 frame = tk.Frame(root)
 frame.grid(row=0, column=0)
 
+def add_to_list():
+    text = entry.get()
+    if text:
+        listbox.insert(tk.END, text)
+        entry.delete(0, tk.END)
+
 entry = tk.Entry(frame)
 entry.grid(row=0, column=0)
 
