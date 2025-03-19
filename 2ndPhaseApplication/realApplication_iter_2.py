@@ -110,8 +110,7 @@ def replaceStigmatizingLanguage(df):
     return newClinicalNote, list(newDict.values())
     
 
-def highlight_text(highlight_words, index):
-    print("start" + str(index))
+def highlight_text(highlight_words):
     clinical_note_display.tag_remove("highlight", "1.0", tk.END)  # Remove existing highlights
     text_content = clinical_note_display.get("1.0", tk.END)
     new_text_content = text_content.replace("\n\n", " ").replace("\n", " ")
@@ -127,9 +126,9 @@ def highlight_text(highlight_words, index):
             clinical_note_display.tag_add("highlight", start, end)
     
     clinical_note_display.tag_configure("highlight", background="yellow", foreground="black")
-    print("stop" + str(index))
 
 def scanForStigmatizingLanguage():
+    global stigmatizingLanguageFound
     scanForStigmatizingLanguageButton.config(state="disabled")
     clinicalNote = clinical_note_display.get("1.0", tk.END)
 
@@ -142,28 +141,28 @@ def scanForStigmatizingLanguage():
     for chunk in model.stream(finalPrompt):
         rawOutput += chunk
 
-        x = re.findall(r"\".+\"", rawOutput)
+        x = re.findall(r"\".[^\"]+\"", rawOutput)
         for i in x:
             if i.replace("(", "").replace(")", "").replace("\"","") not in allWords:
                 i = i.replace("(", "")
                 i = i.replace(")", "")
                 allWords.append(i.replace("\"", ""))
-                print(allWords)
                 clinical_note_display.after(0, highlight_text, allWords, index)
             index += 1
         displayLLMOutput.insert(tk.END, chunk)
+    stigmatizingLanguageFound = allWords
     replaceStigmatizingLanguageButton.config(state="active")
-    # viewNewNoteButton.invoke()
+    viewNewNoteButton.invoke()
     cleanedOutput = cleanOllamaOutput(rawOutput)
 
 def scanForStigmatizingLanguageButtonClicked():
     threading.Thread(target=scanForStigmatizingLanguage, daemon=True).start()
 
-
 def viewOriginalNote():
+    global stigmatizingLanguageFound
     clinical_note_display.delete('1.0', tk.END)
     clinical_note_display.insert(tk.END, og_text_content)
-    highlight_text(stigmatizingLanguageFound)
+    highlight_text(stigmatizingLanguageFound, 0)
 
 def viewNewNote():
     clinical_note_display.delete('1.0', tk.END)
