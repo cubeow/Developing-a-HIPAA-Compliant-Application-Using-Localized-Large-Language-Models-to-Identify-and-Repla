@@ -144,15 +144,16 @@ def scanForStigmatizingLanguage():
 
         x = re.findall(r"\".+\"", rawOutput)
         for i in x:
-            if i not in allWords:
+            if i.replace("(", "").replace(")", "").replace("\"","") not in allWords:
                 i = i.replace("(", "")
                 i = i.replace(")", "")
                 allWords.append(i.replace("\"", ""))
-                print(allWords[-1])
+                print(allWords)
                 clinical_note_display.after(0, highlight_text, allWords, index)
             index += 1
         displayLLMOutput.insert(tk.END, chunk)
-        
+    replaceStigmatizingLanguageButton.config(state="active")
+    # viewNewNoteButton.invoke()
     cleanedOutput = cleanOllamaOutput(rawOutput)
 
 def scanForStigmatizingLanguageButtonClicked():
@@ -167,8 +168,6 @@ def viewOriginalNote():
 def viewNewNote():
     clinical_note_display.delete('1.0', tk.END)
     clinical_note_display.insert(tk.END, modified_text_content)
-    highlight_text(correctedLanguageList)
-
 
 prompt = "You are a professional linguist researcher who is trying to identify stigmatizing language in clinical notes. Given this clinical note, return to me in a python-type list all forms of stigmatizing language (e.g. noncompliant, nonadherent, challenging, uncooperative, refused, contradicting themselves, frequent visitor to ED, narcotic dependence, obese, alcoholic, inconsistent responses etc...). Do not include any descriptions or explanations or comments. DO NOT INCLUDE STIGMATIZING LANGUAGE IF IT IS NOT FOUND IN THE NOTE, ONLY INCLUDE LANGUAGE THAT IS IN THE NOTE. Also do not rewrite the stigmatizing language in your own words. Here's the actual note you will have to analyze, and make sure you output the list of stigmatizing words in JSON output: "
 model = OllamaLLM(model="mistral")
@@ -212,5 +211,11 @@ scanForStigmatizingLanguageButton.grid(row=0, column=0)
 
 displayLLMOutput = tk.Text(frameBottomRight, wrap="word", height=10, width=10)
 displayLLMOutput.grid(row=1, column=0, sticky="nsew")
+
+replaceStigmatizingLanguageButton = tk.Button(frameBottomRight, text="Replace stigmatizing language", command=replaceStigmatizingLanguage, state="disabled")
+replaceStigmatizingLanguageButton.grid(row=2, column=0)
+
+display2ndLLMOutput = tk.Text(frameBottomRight, wrap="word", height=10, width=10)
+display2ndLLMOutput.grid(row=3, column=0, sticky="nsew")
 
 root.mainloop()
