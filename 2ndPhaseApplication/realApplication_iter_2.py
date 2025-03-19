@@ -8,6 +8,7 @@ import pandas as pd
 import ast
 import re
 import threading
+import re
 
 og_text_content = ""
 modified_text_content = ""
@@ -52,7 +53,7 @@ def select_file():
     df = pd.read_csv(filename)
     og_text_content = df.iloc[0]["Completion"]
     clinical_note_display.insert(tk.END, og_text_content)
-
+    scanForStigmatizingLanguageButton.config(state="active")
     # stigmatizingLanguageFound = scanForStigmatizingLanguage(df)
     # highlight_text(stigmatizingLanguageFound)
     # og_text_content = clinical_note_display.get("1.0", tk.END)
@@ -109,7 +110,8 @@ def replaceStigmatizingLanguage(df):
     return newClinicalNote, list(newDict.values())
     
 
-def highlight_text(highlight_words):
+def highlight_text(highlight_words, index):
+    print("start" + str(index))
     clinical_note_display.tag_remove("highlight", "1.0", tk.END)  # Remove existing highlights
     text_content = clinical_note_display.get("1.0", tk.END)
     new_text_content = text_content.replace("\n\n", " ").replace("\n", " ")
@@ -125,21 +127,33 @@ def highlight_text(highlight_words):
             clinical_note_display.tag_add("highlight", start, end)
     
     clinical_note_display.tag_configure("highlight", background="yellow", foreground="black")
+    print("stop" + str(index))
 
 def scanForStigmatizingLanguage():
+    scanForStigmatizingLanguageButton.config(state="disabled")
     clinicalNote = clinical_note_display.get("1.0", tk.END)
 
     finalPrompt = prompt + clinicalNote
 
-    while True:
-        rawOutput = ""
-        displayLLMOutput.delete('1.0', tk.END)
-        for chunk in model.stream(finalPrompt):
-            rawOutput += chunk
-            displayLLMOutput.insert(tk.END, chunk)
-        cleanedOutput = cleanOllamaOutput(rawOutput)
-        break
-    highlight_text(cleanedOutput)
+    rawOutput = ""
+    displayLLMOutput.delete('1.0', tk.END)
+    allWords = []
+    index = 0
+    for chunk in model.stream(finalPrompt):
+        rawOutput += chunk
+
+        x = re.findall(r"\".+\"", rawOutput)
+        for i in x:
+            if i not in allWords:
+                i = i.replace("(", "")
+                i = i.replace(")", "")
+                allWords.append(i.replace("\"", ""))
+                print(allWords[-1])
+                clinical_note_display.after(0, highlight_text, allWords, index)
+            index += 1
+        displayLLMOutput.insert(tk.END, chunk)
+        
+    cleanedOutput = cleanOllamaOutput(rawOutput)
 
 def scanForStigmatizingLanguageButtonClicked():
     threading.Thread(target=scanForStigmatizingLanguage, daemon=True).start()
@@ -193,7 +207,7 @@ viewNewNoteButton.grid(row=1, column=1)
 clinical_note_display = scrolledtext.ScrolledText(frameBottomLeft, wrap=tk.WORD, width=100, height=50, font=("Arial", 12))
 clinical_note_display.grid(row=0, column=0)
 
-scanForStigmatizingLanguageButton = tk.Button(frameBottomRight, text="Scan for stigmatizing language", command=scanForStigmatizingLanguageButtonClicked)
+scanForStigmatizingLanguageButton = tk.Button(frameBottomRight, text="Scan for stigmatizing language", command=scanForStigmatizingLanguageButtonClicked, state="disabled")
 scanForStigmatizingLanguageButton.grid(row=0, column=0)
 
 displayLLMOutput = tk.Text(frameBottomRight, wrap="word", height=10, width=10)
