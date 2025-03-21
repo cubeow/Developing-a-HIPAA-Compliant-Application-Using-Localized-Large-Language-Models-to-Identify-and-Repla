@@ -65,9 +65,12 @@ def select_file():
 def replaceStigmatizingLanguage(df):
     global stigmatizingLanguageFound
     global modified_highlights
+    global modified_text_content
+    replaceStigmatizingLanguageButton.config(state="disabled")
     print(stigmatizingLanguageFound)
     clinicalNote = df.iloc[0]['Completion']
     ogClinicalNote = df.iloc[0]['Completion']
+    modified_text_content = ogClinicalNote
     allList = []
     for index, i in enumerate([stigmatizingLanguageFound]):
         clinicalNote = df.iloc[index]["Completion"]
@@ -79,24 +82,48 @@ def replaceStigmatizingLanguage(df):
                 text = [j for j in sentences if word.lower() in j.lower()]
                 for x in text:
                     allList.append([word, x])
-    modified_highlights = [i[1].replace("\n", "") for i in allList]
-    print(modified_highlights)
-    highlight_text(modified_highlights)
-    # newDict = {}
-    # grouped_list = group_by_second_index(allList)
-    # for key, value in grouped_list.items():
-    #     replacingPrompt = "You are a professional linguist whose job is to replace stigmatizing language in clinical notes. If you see labels such as diabetic or abuser, replace these labels with person first language such as \"person who has diabetes\" or\"person with a substance abuse disorder\". If you see words like challenging or uncooperative, replace them with more respectful alternatives. Here is the sentence: " + str(key) + " And here is are the stigmatizing words you must replace: " + str(value) + ". Return to me a JSON object containing only the corrected sentence in a list"
-    #     while True:
-    #         try:
-    #             ollamaOutput = cleanOllamaOutput(askOllama(replacingPrompt))[0]
-    #             if not isinstance(ollamaOutput, str):
-    #                 print("NOT STRING DETECTED")
-    #                 print(1/0)
-    #             else:
-    #                 newDict[key] = cleanOllamaOutput(askOllama(replacingPrompt))[0]
-    #             break
-    #         except:
-    #             pass
+    # modified_highlights = [i[1].replace("\n", "") for i in allList]
+    modified_highlights = []
+    newDict = {}
+    grouped_list = group_by_second_index(allList)
+    index = 0
+    for key, value in grouped_list.items():
+        replacingPrompt = "You are a professional linguist whose job is to replace stigmatizing language in clinical notes. If you see labels such as diabetic or abuser, replace these labels with person first language such as \"person who has diabetes\" or\"person with a substance abuse disorder\". If you see words like challenging or uncooperative, replace them with more respectful alternatives. Here is the sentence: " + str(key) + " And here is are the stigmatizing words you must replace: " + str(value) + ". Return to me a JSON object containing only the corrected sentence in a list"
+        while True:
+            try:
+                display2ndLLMInformation.config(text=f"{index} out of {len(grouped_list.items())} sentences replaced")
+
+                rawOutput=""
+                display2ndLLMOutput.delete("1.0", tk.END)
+                for chunk in model.stream(replacingPrompt):
+                    rawOutput += chunk
+                    display2ndLLMOutput.insert(tk.END, chunk)
+                ollamaOutput = cleanOllamaOutput(rawOutput)[0]
+                if key[-2:] == "\n\n":
+                    ollamaOutput += "\n\n"
+                elif key[-1:] == "\n":
+                    ollamaOutput += "\n"
+                
+                modified_text_content = modified_text_content.replace(key, ollamaOutput)
+                modified_highlights.append(ollamaOutput)
+                clinical_note_display.delete('1.0', tk.END)
+                clinical_note_display.insert(tk.END, modified_text_content)
+                viewOgNoteButton.config(state="active")
+                viewNewNoteButton.config(state="disabled")
+                # print(modified_text_content.find(ollamaOutput))
+                # print("IN THIS LOOP")
+                highlight_text(modified_highlights)
+                if not isinstance(ollamaOutput, str):
+                    print("NOT STRING DETECTED")
+                    print(1/0)
+                # else:
+                #     newDict[key] = cleanOllamaOutput(askOllama(replacingPrompt))[0]
+                index += 1
+                display2ndLLMInformation.config(text=f"{index} out of {len(grouped_list.items())} sentences replaced")
+                break
+            except Exception as e:
+                print(e)
+    replaceStigmatizingLanguageButton.config(state="active")
     # newClinicalNote = ogClinicalNote
     # print("OG CLINICAL NOTE:")
     # print(ogClinicalNote)
@@ -113,16 +140,25 @@ def replaceStigmatizingLanguage(df):
     #     newClinicalNote = newClinicalNote.replace(key, value)
     # print("NEW CLINICAL NOTE:")
     # print(newClinicalNote)
+    # print(newDict)
     # return newClinicalNote, list(newDict.values())
     
+def replaceStigmatizingLanguageButtonClicked():
+    threading.Thread(target=lambda: replaceStigmatizingLanguage(df), daemon=True).start()
 
 def highlight_text(highlight_words):
+    # print("HIGHLIGHTING STUFF")
+    # print(highlight_words)
     clinical_note_display.tag_remove("highlight", "1.0", tk.END)  # Remove existing highlights
     text_content = clinical_note_display.get("1.0", tk.END)
     new_text_content = text_content.replace("\n\n", " ").replace("\n", " ")
     for word in highlight_words:
+        word = word.replace("\n", "")
         matches = re.finditer(rf"{word}", new_text_content, re.IGNORECASE)
+       
+        # print("HERES THE MATCHES")
         for match in matches:
+            # print(match)
             start = match.start()
             end = match.end()
             start += text_content[:start].count("\n\n")
@@ -130,8 +166,9 @@ def highlight_text(highlight_words):
             start = f"1.0+{start}c"
             end = f"1.0+{end}c"
             clinical_note_display.tag_add("highlight", start, end)
-    
     clinical_note_display.tag_configure("highlight", background="yellow", foreground="black")
+    # print("HIGHLIGHTED STUFF")
+
 
 def scanForStigmatizingLanguage():
     global stigmatizingLanguageFound
@@ -172,11 +209,16 @@ def viewOriginalNote():
     clinical_note_display.delete('1.0', tk.END)
     clinical_note_display.insert(tk.END, og_text_content)
     highlight_text(stigmatizingLanguageFound)
+    viewOgNoteButton.config(state="disabled")
+    viewNewNoteButton.config(state="active")
+
 
 def viewNewNote():
     clinical_note_display.delete('1.0', tk.END)
     clinical_note_display.insert(tk.END, modified_text_content)
     highlight_text(modified_highlights)
+    viewOgNoteButton.config(state="active")
+    viewNewNoteButton.config(state="disabled")
 
 prompt = "You are a professional linguist researcher who is trying to identify stigmatizing language in clinical notes. Given this clinical note, return to me in a python-type list all forms of stigmatizing language (e.g. noncompliant, nonadherent, challenging, uncooperative, refused, contradicting themselves, frequent visitor to ED, narcotic dependence, obese, alcoholic, inconsistent responses etc...). Do not include any descriptions or explanations or comments. DO NOT INCLUDE STIGMATIZING LANGUAGE IF IT IS NOT FOUND IN THE NOTE, ONLY INCLUDE LANGUAGE THAT IS IN THE NOTE. Also do not rewrite the stigmatizing language in your own words. Here's the actual note you will have to analyze, and make sure you output the list of stigmatizing words in JSON output: "
 model = OllamaLLM(model="mistral")
@@ -208,6 +250,7 @@ openButton.grid(row=0, column=0)
 
 viewOgNoteButton = tk.Button(frameMiddle, text="view original note", command=viewOriginalNote)
 viewOgNoteButton.grid(row=1, column=0)
+viewOgNoteButton.config(state="disabled")
 
 viewNewNoteButton = tk.Button(frameMiddle, text="view new note", command=viewNewNote)
 viewNewNoteButton.grid(row=1, column=1)
@@ -221,10 +264,13 @@ scanForStigmatizingLanguageButton.grid(row=0, column=0)
 displayLLMOutput = tk.Text(frameBottomRight, wrap="word", height=10, width=10)
 displayLLMOutput.grid(row=1, column=0, sticky="nsew")
 
-replaceStigmatizingLanguageButton = tk.Button(frameBottomRight, text="Replace stigmatizing language", command=lambda: replaceStigmatizingLanguage(df), state="disabled")
+replaceStigmatizingLanguageButton = tk.Button(frameBottomRight, text="Replace stigmatizing language", command=replaceStigmatizingLanguageButtonClicked, state="disabled")
 replaceStigmatizingLanguageButton.grid(row=2, column=0)
 
 display2ndLLMOutput = tk.Text(frameBottomRight, wrap="word", height=10, width=10)
 display2ndLLMOutput.grid(row=3, column=0, sticky="nsew")
+
+display2ndLLMInformation = tk.Label(frameBottomRight, text="")
+display2ndLLMInformation.grid(row=4, column=0)
 
 root.mainloop()
